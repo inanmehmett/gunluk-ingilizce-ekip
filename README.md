@@ -44,11 +44,12 @@ Mehmet'le canlı çalışırken tarayıcıdan (Claude in Chrome) yorumlar ve Ins
 0. **Kadro:** Sal Kaan her içerik için yalnızca ilgili üyeleri incelemeye çağırır (her içeriğe herkes bakmaz).
 1. **Taslak:** İçerik ekibi (Mr. Feast, Jony Ayv, Walter Marş) taslağı hazırlar.
 2. **İnceleme:** David Kristal (İngilizce) ve Tomris Uyan (Türkçe ve kültür) bağımsız inceler. Her biri ya **onay** verir ya da gerekçeli **itiraz** eder ("şu cümle doğal değil, çünkü…, önerim…").
-3. **Düzeltme turu:** İtiraz varsa taslağı hazırlayan üye düzeltir, itiraz eden tekrar inceler. **En fazla 2 tur.**
+3. **Düzeltme turu:** İtiraz varsa taslağı hazırlayan üye düzeltir. **Düzeltmeyi uygulayan kişi asla kendi kendine onay vermez:** itiraz eden üye düzeltilmiş **son sürümü** bizzat tekrar inceler ve yazılı "ONAY" verir. Bir üyenin düzeltmesi başka bir üyenin alanını etkiliyorsa (ör. Türkçe çeviri değişti → İngilizce kalıp karşılığı), o üye de tekrar bakar. **En fazla 2 tur.**
 4. **Çözülemezse Mehmet'e çıkar:** 2 turdan sonra hâlâ anlaşmazlık varsa iki görüş yan yana, gerekçeleriyle Mehmet'e sunulur. Karar onundur.
 5. **Raporlama:** Mehmet'e giden her öneri ya da raporda kısa bir **"İtirazlar"** bölümü bulunur: kim, neye itiraz etti, nasıl çözüldü. Çözülen itirazlar da yazılır; Mehmet nelerin elendiğini görür.
 6. **Charlie Hunger** büyük kararlarda son turda devreye girer; itirazı engel değil, uyarıdır.
-7. **Son kapı:** Sal Kaan içeriği takipçi gözüyle bütün olarak inceler; geri gönderebilir. Ardından içerik Mehmet'e gider.
+7. **Son kapı:** Sal Kaan içeriği takipçi gözüyle bütün olarak inceler; geri gönderebilir. Son kapıdan sonra **herhangi bir değişiklik** olursa (Mehmet'in itirazı dahil) paket yeniden ilgili üyeye ve Sal Kaan'a döner.
+8. **Son sürüm onay kaydı:** Mehmet'e giden her paketin altında, son sürümü onaylayan üyelerin listesi bulunur (ör. "David ✅ · Tomris ✅ · Sal ✅ – son sürüm"). Bu liste yoksa paket gönderilmez.
 
 ## Kurallar (herkes için)
 1. Veri varken varsayımla konuşma. Önce Metricool'u, yorumları, arşivi oku.
