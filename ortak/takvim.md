@@ -33,6 +33,29 @@
 | Çar 28 | 19:30 | Reels | Avel avel (yorum yanıtı, sesli) – ses bekleniyor |
 | Per 29 | 10:00 | Carousel | (seçilecek) |
 
+## 30 Eki – 1 Kas (geçiş)
+| Gün | Saat | Tür | İçerik |
+|---|---|---|---|
+| Cum 30 | 19:30 | Reels | (ekip önerisi – 26 Eki toplantısı) |
+| Cmt 31 | 19:30 | Reels | (ekip önerisi) |
+| Paz 1 | 10:00 | Carousel | (Metricool) |
+
+## 2–8 Kasım (Aşama 1 başlangıcı: 7 reels + 3 carousel = 10)
+Sıra: R, R, C döngüsü kesintisiz. Her gün 19:30 reel; Çar/Cum/Paz 10:00 carousel.
+| Gün | Saat | Tür | İçerik |
+|---|---|---|---|
+| Pzt 2 | 19:30 | Reels | **Seviye testi 1/6 · A1** (kedi ve çay) – klip IMG_3200 |
+| Sal 3 | 19:30 | Reels | (ekip önerisi; seviye serisiyle farklı görünüm) |
+| Çar 4 | 10:00 | Carousel | (Metricool) |
+| Çar 4 | 19:30 | Reels | (ekip önerisi) |
+| Per 5 | 19:30 | Reels | (ekip önerisi) |
+| Cum 6 | 10:00 | Carousel | (Metricool) |
+| Cum 6 | 19:30 | Reels | (ekip önerisi; Cuma zayıf gün) |
+| Cmt 7 | 19:30 | Reels | (ekip önerisi) |
+| Paz 8 | 10:00 | Carousel | (Metricool) |
+| Paz 8 | 19:30 | Reels | (güçlü gün: en iyi aday) |
+Kural: seviye testinin yanındaki reeller (Pzt 1 öncesi ve Sal 3) farklı kutu düzeni ve farklı klip kullanır.
+
 ## Seriler
 - **Seviye testi (A1 → A2 → A2+ → B1 → B1+ → B2):** haftada 1 bölüm; her bölüm tek başına anlaşılır; yorumda "✅A1" işareti; sonraki bölümün hook'u gerçek sayıyla açılır.
 
@@ -45,5 +68,6 @@
 | IMG_5686 (turkuaz deniz, tekneler) | 24 Eki | Kitlenenler |
 | IMG_3231 (akşam köprü) | 25 Eki | Kahve |
 | IMG_6158 (göl, çalılar) | 28 Eki | Avel avel |
+| IMG_3200 (ağaçlı yol, kış dalları) | 2 Kas | Seviye testi 1/6 · A1 |
 
 Kural: aynı klip 3 hafta içinde tekrar kullanılmaz. En az 15 sn, sakin, dikey klipler gerekiyor; Mehmet'ten 12–15 yeni klip istendi (sonbahar, yağmurlu cam, kahve, akşam ışıkları).
