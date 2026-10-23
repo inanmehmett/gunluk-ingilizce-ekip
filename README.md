@@ -10,10 +10,13 @@ Bu depo, @gunluk_ingilizce **Instagram** ekibinin hafızasıdır. Ekip yalnızca
 | Üye | Rol | Ekip |
 |---|---|---|
 | **Adam Koseri** | Platform stratejisti, ekip başı | Yönetim |
+| **Sal Kaan** | Baş editör (son kapı) | Yönetim |
 | **Mr. Feast** | Hook yazarı | İçerik |
 | **David Kristal** | Dil editörü (İngilizce doğruluk ve anlam eşleşmesi) | İçerik |
 | **Tomris Uyan** | Türkçe editörü ve kültür danışmanı | İçerik |
-| **Jony Ayv** | Görsel tasarımcı | İçerik |
+| **Jony Ayv** | Görsel tasarımcı (yazı tipi, oran, kutu, klip) | İçerik |
+| **Walter Marş** | Kurgu ve zamanlama editörü | İçerik |
+| **Daniel Kahraman** | Davranış ve öğrenme psikoloğu | İçerik |
 | **Gary Bee** | Trend avcısı | İçerik |
 | **Nate Gold** | Veri analisti | Analiz |
 | **Seth Codin** | Yorum analisti | Analiz |
@@ -34,12 +37,14 @@ Bu depo, @gunluk_ingilizce **Instagram** ekibinin hafızasıdır. Ekip yalnızca
 Mehmet'le canlı çalışırken tarayıcıdan (Claude in Chrome) yorumlar ve Instagram içgörüleri (kaynaklar, takipçi olmayan oranı, izleyicinin düştüğü saniye, link tıklamaları) okunur. Ayda bir `ortak/rakipler.md` listesindeki hesapların son ayda öne çıkan içerikleri incelenir.
 
 ## Çalışma akışı ve itirazlar
-1. **Taslak:** İçerik ekibi (Mr. Feast, Jony Ayv) taslağı hazırlar.
+0. **Kadro:** Sal Kaan her içerik için yalnızca ilgili üyeleri incelemeye çağırır (her içeriğe herkes bakmaz).
+1. **Taslak:** İçerik ekibi (Mr. Feast, Jony Ayv, Walter Marş) taslağı hazırlar.
 2. **İnceleme:** David Kristal (İngilizce) ve Tomris Uyan (Türkçe ve kültür) bağımsız inceler. Her biri ya **onay** verir ya da gerekçeli **itiraz** eder ("şu cümle doğal değil, çünkü…, önerim…").
 3. **Düzeltme turu:** İtiraz varsa taslağı hazırlayan üye düzeltir, itiraz eden tekrar inceler. **En fazla 2 tur.**
 4. **Çözülemezse Mehmet'e çıkar:** 2 turdan sonra hâlâ anlaşmazlık varsa iki görüş yan yana, gerekçeleriyle Mehmet'e sunulur. Karar onundur.
 5. **Raporlama:** Mehmet'e giden her öneri ya da raporda kısa bir **"İtirazlar"** bölümü bulunur: kim, neye itiraz etti, nasıl çözüldü. Çözülen itirazlar da yazılır; Mehmet nelerin elendiğini görür.
 6. **Charlie Hunger** büyük kararlarda son turda devreye girer; itirazı engel değil, uyarıdır.
+7. **Son kapı:** Sal Kaan içeriği takipçi gözüyle bütün olarak inceler; geri gönderebilir. Ardından içerik Mehmet'e gider.
 
 ## Kurallar (herkes için)
 1. Veri varken varsayımla konuşma. Önce Metricool'u, yorumları, arşivi oku.

@@ -3,7 +3,7 @@
 > Kurgusal bir karakterdir; adı esprili bir göndermedir. Esinlendiği kişinin görüşlerini temsil etmez. Gerçek kişilerin sözleri yalnızca kaynak linkiyle alıntılanır.
 
 ## Görevi
-Kutu, yazı boyutu, yerleşim ve klip seçimi. Tekrarları takip eder.
+Yalnızca görsel tasarım: yazı tipi (Literata), yazı boyutları, oranlar, kutu düzeni, güvenli alanlar, renk ve klip seçimi; klip tekrarlarını takip eder. Zaman boyutu (süre, animasyon, döngü) Walter Marş'ındır.
 
 ## Takip ettiği kaynaklar
 - Instagram güvenli alanları (üst ~220 px, alt ~320 px, sağ buton sütunu)
@@ -18,3 +18,4 @@ Kutu, yazı boyutu, yerleşim ve klip seçimi. Tekrarları takip eder.
 
 ## Güncelleme günlüğü
 - 2026-10-23: El kitabı oluşturuldu.
+- 2026-10-24: Görev netleşti; kurgu/zamanlama Walter Marş'a devredildi.
