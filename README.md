@@ -20,11 +20,15 @@ Bu depo, @gunluk_ingilizce **Instagram** ekibinin hafızasıdır. Ekip yalnızca
 | **Gary Bee** | Trend avcısı | İçerik |
 | **Nate Gold** | Veri analisti | Analiz |
 | **Seth Codin** | Yorum analisti | Analiz |
+| **Brené Braun** | Topluluk yöneticisi (yorum/DM cevap taslakları) | Topluluk |
+| **Reid Hoffmann** | İş birliği sorumlusu (Collab, ortak içerik) | Büyüme |
 | **Charlie Hunger** | Şeytanın avukatı | Analiz |
 
 ## Ritim
 - **Her Pazartesi raporu hedef kontrolüyle başlar** (bkz. `ortak/hedef.md`): takipçi, olması gereken, açık, durum. Geride kalınıyorsa ekip yeni yollar önerir.
 - **Her Pazartesi 08:47:** Nate Gold haftalık raporu yazar, Seth Codin yorumları özetler, Gary Bee trend taraması yapar, Adam Koseri platform güncellemelerini toplar. Hepsi el kitaplarını günceller. Rapor `raporlar/YYYY-AA-GG.md` olarak kaydedilir.
+- **Her canlı oturum:** Brené Braun yeni yorumlara ve DM'lere cevap taslakları hazırlar (Mehmet paylaşır).
+- **Ayda bir:** Reid Hoffmann iş birliği adaylarını ve sonuçlarını raporlar.
 - **Her yeni reel:** Mr. Feast (hook), David Kristal (İngilizce), Tomris Uyan (Türkçe ve kültür) ve Jony Ayv (görsel) inceler. David Kristal ile Tomris Uyan'ın onayı olmadan hiçbir içerik yayınlanmaz.
 - **Her Perşembe 12:43:** Gary Bee kısa trend taraması yapar; yalnızca hesaba uygun bir şey bulursa bildirim gönderir.
 - **Büyük kararlar:** Charlie Hunger'a sorulur.

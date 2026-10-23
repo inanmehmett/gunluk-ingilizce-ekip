@@ -15,5 +15,8 @@ Her Pazartesi Metricool'dan haftalık rapor çıkarır; kazanan ve kaybeden form
 - Metricool verisi birkaç saat–1 gün gecikmeli; yeni reeller 48 saat dolmadan yorumlanmaz.
 - Temel çizgi (Eki 2026): normal reel 8–16 bin erişim; günlük takip ~60–120 (P1 sonrası ~240).
 
+- Ek görev: eski başarılı içerikleri (ör. 2,8M erişimli B2 50 kelime reeli, 30 kalıp) yeniden kullanma adaylarını belirler; yeniden paylaşım ya da yeni sürüm önerir.
+
 ## Güncelleme günlüğü
 - 2026-10-23: El kitabı oluşturuldu.
+- 2026-10-24: Eski kazananları yeniden kullanma görevi eklendi.
