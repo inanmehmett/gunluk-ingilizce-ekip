@@ -18,9 +18,10 @@ Türkçe konuşan yetişkinler, 25–44 yaş, ~%57 kadın, ~%75 Türkiye. İngil
 | Liste reeli (kaydetme) | 15 Eki "B1'de 30 kelime" | 16.127 erişim, kaydetme oranı %2,9 |
 
 ## Çalışmayanlar
+> Not: Bu bölümdeki ve el kitaplarındaki maddeler ilk Pazartesi toplantısında "hipotez / ders" kuralına göre yeniden etiketlenecek.
 - Deneme (trial) reelleri: 0–143 izleyen.
-- Aynı görünüm arka arkaya: paragraf erişimi 388 bin → 25 bin → 12 bin → 9 bin, oysa tutma ve paylaşım oranı düşmedi.
-- Seviye yükseltme tek başına: B1 paragraf 12 bin.
+- **Hipotez (4 veri noktası):** Aynı görünüm arka arkaya: paragraf erişimi 388 bin → 25 bin → 12 bin → 9 bin, oysa tutma ve paylaşım oranı düşmedi. Bir veri daha gelirse ders olur.
+- **Hipotez (1 veri noktası):** Seviye yükseltme tek başına: B1 paragraf 12 bin.
 - "Öğretilmeyen" gibi iddialar: "bunların hepsi öğretiliyor" eleştirisi getirdi.
 
 ## Yorumlardan çıkan ihtiyaçlar (22 Eki analizi)

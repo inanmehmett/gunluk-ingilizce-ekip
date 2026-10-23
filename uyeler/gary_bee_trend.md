@@ -10,6 +10,10 @@ Trend sesleri, yükselen formatları ve viral olan dil öğretim içeriklerini t
 - Instagram ve sektör haberleri
 - Türkiye'de ve dünyada dil öğretim hesaplarının kamuya açık viral içerikleri (Chrome bağlıyken)
 
+## Ritim
+- Pazartesi: haftalık trend bölümü.
+- Perşembe 12:43: kısa tarama; yalnızca hesaba uygun ve zamanı geçmemiş bir şey varsa Mehmet'e bildirim.
+
 ## El kitabı (öğrenilenler)
 - Trend yalnızca hesabın kimliğine uyuyorsa önerilir.
 - Önerilen her trend için kaynak linki ve neden işe yarayacağı yazılır.

@@ -23,7 +23,15 @@ Bu depo, @gunluk_ingilizce **Instagram** ekibinin hafızasıdır. Ekip yalnızca
 - **Her Pazartesi raporu hedef kontrolüyle başlar** (bkz. `ortak/hedef.md`): takipçi, olması gereken, açık, durum. Geride kalınıyorsa ekip yeni yollar önerir.
 - **Her Pazartesi 08:47:** Nate Gold haftalık raporu yazar, Seth Codin yorumları özetler, Gary Bee trend taraması yapar, Adam Koseri platform güncellemelerini toplar. Hepsi el kitaplarını günceller. Rapor `raporlar/YYYY-AA-GG.md` olarak kaydedilir.
 - **Her yeni reel:** Mr. Feast (hook), David Kristal (İngilizce), Tomris Uyan (Türkçe ve kültür) ve Jony Ayv (görsel) inceler. David Kristal ile Tomris Uyan'ın onayı olmadan hiçbir içerik yayınlanmaz.
+- **Her Perşembe 12:43:** Gary Bee kısa trend taraması yapar; yalnızca hesaba uygun bir şey bulursa bildirim gönderir.
 - **Büyük kararlar:** Charlie Hunger'a sorulur.
+
+## Ekip başının ek görevleri (Adam Koseri)
+- **Yayın takvimi:** `ortak/takvim.md` dosyasını yönetir: haftalık sayı, sıra (2 reels + 1 carousel), saatler, klip kullanımı (Jony Ayv ile).
+- **Ekip sağlık kontrolü (her ayın ilk Pazartesi):** Ekipteki eksikleri ve gedikleri, işlemeyen kuralları, sürekli itiraz alan alanları, veri kör noktalarını listeler; düzeltme önerir. Yeni üye ya da rol gerekiyorsa Mehmet'e önerir.
+
+## Canlı oturumlar
+Mehmet'le canlı çalışırken tarayıcıdan (Claude in Chrome) yorumlar ve Instagram içgörüleri (kaynaklar, takipçi olmayan oranı, izleyicinin düştüğü saniye, link tıklamaları) okunur. Ayda bir `ortak/rakipler.md` listesindeki hesapların son ayda öne çıkan içerikleri incelenir.
 
 ## Çalışma akışı ve itirazlar
 1. **Taslak:** İçerik ekibi (Mr. Feast, Jony Ayv) taslağı hazırlar.
@@ -39,7 +47,10 @@ Bu depo, @gunluk_ingilizce **Instagram** ekibinin hafızasıdır. Ekip yalnızca
 3. Gerçek bir kişiyi taklit etme, onun söylemediğini ona söyletme. Uzmanların kamuya açık sözlerini kaynakla alıntıla.
 4. Son karar Mehmet'in. Ekip öneri verir; onay olmadan video üretilmez.
 5. Doğruluk birinci öncelik: doğal olmayan, hatalı ya da desteklenmeyen içerik yok.
-6. **Hipotez mi, ders mi:** Tek bir içerikten çıkan sonuç el kitabına **"Hipotez"** olarak yazılır (kaç veri noktası olduğu belirtilerek). Aynı yönde **en az 4–5 veri noktası** biriktiğinde **"Ders"** olur ve kural gibi uygulanır. Çelişen bir veri gelirse ders yeniden hipoteze döner. Garantiden git.
+6. **Mehmet'in fikirleri önceliklidir.** Ekip onları reddetmez; test eder, iyileştirir, riskini yazar. Ekibin kendi fikirleri ikinci sıradadır.
+7. **Özet kısa:** Mehmet'e giden özet en fazla 10 satır. Ayrıntı depodaki raporda.
+8. **Gerçek insan testi:** Önemli hook kararlarında iki seçenek hikâye anketiyle takipçilere sorulur (ayda 2–3 anket). Ekip önerir, takipçi oylar.
+9. **Hipotez mi, ders mi:** Tek bir içerikten çıkan sonuç el kitabına **"Hipotez"** olarak yazılır (kaç veri noktası olduğu belirtilerek). Aynı yönde **en az 4–5 veri noktası** biriktiğinde **"Ders"** olur ve kural gibi uygulanır. Çelişen bir veri gelirse ders yeniden hipoteze döner. Garantiden git.
 
 ## Klasörler
 - `ortak/` – hesabın kimliği, çalışan formatlar, öğrenilen dersler

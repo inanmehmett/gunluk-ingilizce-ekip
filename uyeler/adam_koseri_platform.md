@@ -5,6 +5,11 @@
 ## Görevi
 Instagram'ın dağıtım kurallarını ve resmi açıklamalarını takip eder, ekibin önerilerini birleştirip son öneriyi Mehmet'e sunar.
 
+## Ek görevler
+- Yayın takvimini (`ortak/takvim.md`) yönetir: haftalık sayı, ızgara sırası, saatler.
+- Her ayın ilk Pazartesi ekip sağlık kontrolü: eksikler, gedikler, işlemeyen kurallar, kör noktalar; düzeltme ve gerekirse yeni rol önerisi.
+- Hedef kontrolünü (`ortak/hedef.md`) Nate Gold ile birlikte yürütür; geride kalınırsa yeni yolları o toplar.
+
 ## Takip ettiği kaynaklar
 - Adam Mosseri'nin kamuya açık açıklamaları (Instagram ve Threads hesapları, haftalık soru-cevapları)
 - @creators hesabı ve creators.instagram.com
@@ -19,3 +24,4 @@ Instagram'ın dağıtım kurallarını ve resmi açıklamalarını takip eder, e
 
 ## Güncelleme günlüğü
 - 2026-10-23: El kitabı oluşturuldu.
+- 2026-10-23: Yayın takvimi ve ekip sağlık kontrolü görevleri eklendi. Haftalık sıklık kararı: Aşama 1 haftada 9 (6R+3C), koşullu Aşama 2 haftada 12 (hipotez).

@@ -1,0 +1,49 @@
+# Yayın takvimi (sahibi: Adam Koseri)
+
+## Karar: haftalık gönderi sayısı (23 Eki 2026)
+
+**Dış veri:** Buffer'ın 102 bin hesap ve 2,1 milyon gönderi üzerindeki analizi (hesabın kendi geçmişiyle karşılaştırmalı): haftalık takipçi büyüme oranı 1–2 gönderide +%0,12, 3–5'te +%0,26, 6–9'da +%0,44, 10+'da +%0,66. Gönderi başına erişim de sıklıkla artıyor (10+'da 1–2'ye göre ~%24 fazla). Getiri azalarak artıyor; ilişki nedensel değil korelasyon; kalite düşerse kazanç gelmiyor. Gönderisiz haftalar temel çizginin altında. Kaynak: https://buffer.com/library/how-often-to-post-on-instagram/
+
+**Kendi verimiz:** 1–8 Ekim'de az paylaşılan günlerde kazanılan takipçi (~60–120) kaybedileni (~90–115) karşılamadı; hesap neredeyse yerinde saydı. Günde ~100 takipçi her hal ve kârda gidiyor; yerinde saymamak için bile düzenli paylaşım şart.
+
+**Gerçekçi beklenti:** 141 bin takipçide +%0,66 haftalık büyüme ≈ haftada ~930 takipçi. Hedefin gerektirdiği ~8.200'e tek başına sıklıkla ulaşılmaz; sıklık zemini yükseltir, açığı patlayan reeller kapatır. Daha çok paylaşmak, daha çok "patlama denemesi" demektir.
+
+**Karar:**
+- **Aşama 1 (2–15 Kasım 2026): haftada 9 gönderi = 6 reels + 3 carousel.**
+- **Aşama 2 (16 Kasım'dan itibaren, koşullu): haftada 12 gönderi = 8 reels + 4 carousel.**
+- Aşama 2'ye geçiş koşulları (Aşama 1'in 2 haftasının sonunda Nate Gold kontrol eder):
+  1. Reel başına medyan erişim, Ekim temel çizgisinin (8–16 bin) altına %20'den fazla düşmedi.
+  2. Erişim başına gönderme oranı korunuyor.
+  3. David Kristal ve Tomris Uyan kalite kapısında taviz verilmedi; Mehmet'in üretim yükü sürdürülebilir.
+- Bu karar bir **hipotez**tir; 4–5 haftalık veriyle "ders" olur ya da değişir.
+
+## Sıra ve saatler
+- Izgara düzeni: **reels, reels, carousel** döngüsü kesintisiz sürer (profilde carousel'lar tek sütunda dizilir). Deneme reelleri ızgarada görünmediği için sayılmaz.
+- Reels: 19:30 (Mehmet Instagram'dan paylaşır, müziği orada ekler). Carousel: 10:00 (Metricool otomatik). Aynı gün iki reel gerekirse 13:00 + 19:30.
+- Pazar ve Pazartesi en güçlü günler (geçmiş analiz); en iyi reel adayları bu günlere. Cuma en zayıf gün.
+
+## Bu hafta (23–29 Ekim, mevcut plan)
+| Gün | Saat | Tür | İçerik |
+|---|---|---|---|
+| Cum 23 | 19:30 | Carousel | En çok hangisi işine yarar? (Metricool) |
+| Cmt 24 | 19:30 | Reels | Kitlenenler |
+| Paz 25 | 19:30 | Reels | Kahve / dostluk paragrafı (A2) |
+| Pzt 26 | 10:00 | Carousel | PUT ile… (Metricool) |
+| Sal 27 | 19:30 | Reels | Okulda öğrenip hâlâ konuşamayanlar için 30 kalıp |
+| Çar 28 | 19:30 | Reels | Avel avel (yorum yanıtı, sesli) – ses bekleniyor |
+| Per 29 | 10:00 | Carousel | (seçilecek) |
+
+## Seriler
+- **Seviye testi (A1 → A2 → A2+ → B1 → B1+ → B2):** haftada 1 bölüm; her bölüm tek başına anlaşılır; yorumda "✅A1" işareti; sonraki bölümün hook'u gerçek sayıyla açılır.
+
+## Klip kullanım günlüğü (sahibi: Jony Ayv)
+| Klip | Son kullanım | Reel |
+|---|---|---|
+| IMG_6157 (göl) | 21 Eki | Kanepe |
+| IMG_1565 (gün batımı) | 21 Eki | Mesajlaşma |
+| IMG_4568 | 24/27 Eki | 30 kalıp |
+| IMG_5686 (turkuaz deniz, tekneler) | 24 Eki | Kitlenenler |
+| IMG_3231 (akşam köprü) | 25 Eki | Kahve |
+| IMG_6158 (göl, çalılar) | 28 Eki | Avel avel |
+
+Kural: aynı klip 3 hafta içinde tekrar kullanılmaz. En az 15 sn, sakin, dikey klipler gerekiyor; Mehmet'ten 12–15 yeni klip istendi (sonbahar, yağmurlu cam, kahve, akşam ışıkları).
