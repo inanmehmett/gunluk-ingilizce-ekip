@@ -25,6 +25,14 @@ Bu depo, @gunluk_ingilizce hesabının içerik ve analiz ekibinin hafızasıdır
 - **Her yeni reel:** Mr. Feast (hook), David Kristal (İngilizce), Tomris Uyan (Türkçe ve kültür) ve Jony Ayv (görsel) inceler. David Kristal ile Tomris Uyan'ın onayı olmadan hiçbir içerik yayınlanmaz.
 - **Büyük kararlar:** Charlie Hunger'a sorulur.
 
+## Çalışma akışı ve itirazlar
+1. **Taslak:** İçerik ekibi (Mr. Feast, Jony Ayv) taslağı hazırlar.
+2. **İnceleme:** David Kristal (İngilizce) ve Tomris Uyan (Türkçe ve kültür) bağımsız inceler. Her biri ya **onay** verir ya da gerekçeli **itiraz** eder ("şu cümle doğal değil, çünkü…, önerim…").
+3. **Düzeltme turu:** İtiraz varsa taslağı hazırlayan üye düzeltir, itiraz eden tekrar inceler. **En fazla 2 tur.**
+4. **Çözülemezse Mehmet'e çıkar:** 2 turdan sonra hâlâ anlaşmazlık varsa iki görüş yan yana, gerekçeleriyle Mehmet'e sunulur. Karar onundur.
+5. **Raporlama:** Mehmet'e giden her öneri ya da raporda kısa bir **"İtirazlar"** bölümü bulunur: kim, neye itiraz etti, nasıl çözüldü. Çözülen itirazlar da yazılır; Mehmet nelerin elendiğini görür.
+6. **Charlie Hunger** büyük kararlarda son turda devreye girer; itirazı engel değil, uyarıdır.
+
 ## Kurallar (herkes için)
 1. Veri varken varsayımla konuşma. Önce Metricool'u, yorumları, arşivi oku.
 2. İstatistik uydurma. Her dış iddiaya kaynak (link) ekle.
