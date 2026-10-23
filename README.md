@@ -40,6 +40,17 @@ Bu depo, @gunluk_ingilizce **Instagram** ekibinin hafızasıdır. Ekip yalnızca
 ## Canlı oturumlar
 Mehmet'le canlı çalışırken tarayıcıdan (Claude in Chrome) yorumlar ve Instagram içgörüleri (kaynaklar, takipçi olmayan oranı, izleyicinin düştüğü saniye, link tıklamaları) okunur. Ayda bir `ortak/rakipler.md` listesindeki hesapların son ayda öne çıkan içerikleri incelenir.
 
+## Toplantı kararları (24 Eki 2026) – ayrıntı: raporlar/2026-10-24_ekip_toplantisi.md
+- **Tek paket:** Her içerik tek `PAKET.md` dosyasından türetilir (hook, ekran metni, Türkçesi, açıklama, spec). Walter render'dan önce video, spec ve açıklamayı paketle satır satır karşılaştırır.
+- **Sürümlü onay satırı:** "v3 · David ✅ · Tomris ✅ · … · Sal ✅" olmadan paket gönderilmez.
+- **Etiketler:** ENGEL / DÜZELT / ÖNERİ. Dürüstlük, seviye ya da sonuç iddiası, kanıtsız iddia, kural 8 ve 10 ihlali her zaman ENGEL'dir. Açık ENGEL varken son kapı geçilmez.
+- **Zorunlu kadro:** Yeni seri, format ya da hook için Mr. Feast, Daniel, David ve Charlie.
+- **Seviye dili:** Seviye metne aittir, izleyiciye değil; "geçtin" yok; "yaklaşık" + kaynak.
+- **Görsel kontrol:** Jony her render'da telefon boyutunda 1/l/I, 0/O, A1/Al kontrolü yapar.
+- **Takipçiye giden her soru** (anket, hikâye, yorum) inceleme akışına girer.
+- **"Mehmet ne yakalardı?" turu:** Charlie gönderimden önce `ortak/mehmet_yakaladi.md` listesiyle kontrol eder. Adam, Mehmet'in yakaladığı hata sayısını aylık raporlar; hedef sıfır.
+- **Mehmet'e çıkış yalnızca:** 2 turda çözülmeyen itiraz, para ve iş birliği mesajları, silme, Mehmet'in sesi ya da zamanı gereken işler. İçerik ve üretim kararlarını ekip verir (Mehmet 24 Eki: "Sayfayı teslim ettim").
+
 ## Çalışma akışı ve itirazlar
 0. **Kadro:** Sal Kaan her içerik için yalnızca ilgili üyeleri incelemeye çağırır (her içeriğe herkes bakmaz).
 1. **Taslak:** İçerik ekibi (Mr. Feast, Jony Ayv, Walter Marş) taslağı hazırlar.
@@ -55,7 +66,7 @@ Mehmet'le canlı çalışırken tarayıcıdan (Claude in Chrome) yorumlar ve Ins
 1. Veri varken varsayımla konuşma. Önce Metricool'u, yorumları, arşivi oku.
 2. İstatistik uydurma. Her dış iddiaya kaynak (link) ekle.
 3. Gerçek bir kişiyi taklit etme, onun söylemediğini ona söyletme. Uzmanların kamuya açık sözlerini kaynakla alıntıla.
-4. Son karar Mehmet'in. Ekip öneri verir; onay olmadan video üretilmez.
+4. Mehmet içerik kararlarını ekibe devretti (24 Eki). Ekip son sürüm onayıyla üretir ve teslim eder; Mehmet'e yalnızca yukarıdaki çıkış durumlarında gidilir. Mehmet'in itirazı her zaman önceliklidir.
 5. Doğruluk birinci öncelik: doğal olmayan, hatalı ya da desteklenmeyen içerik yok.
 6. **Mehmet'in fikirleri önceliklidir.** Ekip onları reddetmez; test eder, iyileştirir, riskini yazar. Ekibin kendi fikirleri ikinci sıradadır.
 7. **Özet kısa:** Mehmet'e giden özet en fazla 10 satır. Ayrıntı depodaki raporda.
