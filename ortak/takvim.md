@@ -44,7 +44,7 @@
 Sıra: R, R, C döngüsü kesintisiz. Her gün 19:30 reel; Çar/Cum/Paz 10:00 carousel.
 | Gün | Saat | Tür | İçerik |
 |---|---|---|---|
-| Pzt 2 | 19:30 | Reels | **Seviye testi 1/6 · A1** (kedi ve çay) – klip IMG_3200 |
+| Pzt 2 | 19:30 | Reels | **Seviye merdiveni 1/6 · A1 metni** (kedi ve çay) – klip IMG_3200 |
 | Sal 3 | 19:30 | Reels | (ekip önerisi; seviye serisiyle farklı görünüm) |
 | Çar 4 | 10:00 | Carousel | (Metricool) |
 | Çar 4 | 19:30 | Reels | (ekip önerisi) |
@@ -54,10 +54,10 @@ Sıra: R, R, C döngüsü kesintisiz. Her gün 19:30 reel; Çar/Cum/Paz 10:00 ca
 | Cmt 7 | 19:30 | Reels | (ekip önerisi) |
 | Paz 8 | 10:00 | Carousel | (Metricool) |
 | Paz 8 | 19:30 | Reels | (güçlü gün: en iyi aday) |
-Kural: seviye testinin yanındaki reeller (Pzt 1 öncesi ve Sal 3) farklı kutu düzeni ve farklı klip kullanır.
+Kural: seviye merdiveninin yanındaki reeller (Pzt 1 öncesi ve Sal 3) farklı kutu düzeni ve farklı klip kullanır.
 
 ## Seriler
-- **Seviye testi (A1 → A2 → A2+ → B1 → B1+ → B2):** haftada 1 bölüm; her bölüm tek başına anlaşılır; yorumda "✅A1" işareti; sonraki bölümün hook'u gerçek sayıyla açılır.
+- **Seviye merdiveni (geçici ad; 6 basamak: A1 → A2 → A2+ → B1 → B1+ → B2):** haftada 1 metin; her bölüm tek başına anlaşılır; seviye metne aittir; yorumda "✅" (izleyicinin kendi beyanı); sonraki bölümün hook'u dürüst sayıyla açılır ("X kişi 1. metni anladı"). Kalıcı ad 27 Eki'ye kadar (toplantı kararı 6).
 
 ## Klip kullanım günlüğü (sahibi: Jony Ayv)
 | Klip | Son kullanım | Reel |
@@ -68,6 +68,6 @@ Kural: seviye testinin yanındaki reeller (Pzt 1 öncesi ve Sal 3) farklı kutu 
 | IMG_5686 (turkuaz deniz, tekneler) | 24 Eki | Kitlenenler |
 | IMG_3231 (akşam köprü) | 25 Eki | Kahve |
 | IMG_6158 (göl, çalılar) | 28 Eki | Avel avel |
-| IMG_3200 (ağaçlı yol, kış dalları) | 2 Kas | Seviye testi 1/6 · A1 |
+| IMG_3200 (ağaçlı yol, kış dalları) | 2 Kas | Seviye merdiveni 1/6 · A1 metni |
 
 Kural: aynı klip 3 hafta içinde tekrar kullanılmaz. En az 15 sn, sakin, dikey klipler gerekiyor; Mehmet'ten 12–15 yeni klip istendi (sonbahar, yağmurlu cam, kahve, akşam ışıkları).
