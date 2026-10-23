@@ -30,4 +30,4 @@ Ekranda ve açıklamada görünen her Türkçe cümlenin doğal, doğru ve kült
 
 ## Güncelleme günlüğü
 - 2026-10-23: El kitabı oluşturuldu.
-- 2026-10-24: Çay düzeltmesi yeniden değerlendirildi; 'bir bardak çay doldururum' + doğal karşılık notu.
+- 2026-10-24: Çay düzeltmesi yeniden değerlendirildi; son hali 'bir bardak çay koyarım. Masaya bırakırım.' ('doldurmak' su için daha doğal; 'koymak' tekrarı 'bırakmak' ile çözüldü).
