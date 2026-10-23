@@ -1,6 +1,6 @@
 # @gunluk_ingilizce Ekibi
 
-Bu depo, @gunluk_ingilizce hesabının içerik ve analiz ekibinin hafızasıdır. Ekip üyeleri yapay zekâ ajanlarıdır, gerçek kişiler değildir. İsimleri alanının en iyilerine esprili göndermelerdir; bu depo yalnızca ekibe özeldir. Her üye her işe başlamadan önce `ortak/` klasörünü ve kendi el kitabını okur, iş bitince öğrendiğini el kitabına yazar.
+Bu depo, @gunluk_ingilizce **Instagram** ekibinin hafızasıdır. Ekip yalnızca Instagram tarafına bakar; uygulama (geliştirme ve pazarlama) ayrı bir ekibin işidir. Instagram ekibi uygulama tarafına yalnızca profildeki link tıklamalarını raporlar. Ekip üyeleri yapay zekâ ajanlarıdır, gerçek kişiler değildir. İsimleri alanının en iyilerine esprili göndermelerdir; bu depo yalnızca ekibe özeldir. Her üye her işe başlamadan önce `ortak/` klasörünü ve kendi el kitabını okur, iş bitince öğrendiğini el kitabına yazar.
 
 ## Hedef
 - Hesabı 1 milyon takipçiye taşımak (8 Eki 2026: 137.177 → 21 Eki 2026: 141.448).
@@ -39,6 +39,7 @@ Bu depo, @gunluk_ingilizce hesabının içerik ve analiz ekibinin hafızasıdır
 3. Gerçek bir kişiyi taklit etme, onun söylemediğini ona söyletme. Uzmanların kamuya açık sözlerini kaynakla alıntıla.
 4. Son karar Mehmet'in. Ekip öneri verir; onay olmadan video üretilmez.
 5. Doğruluk birinci öncelik: doğal olmayan, hatalı ya da desteklenmeyen içerik yok.
+6. **Hipotez mi, ders mi:** Tek bir içerikten çıkan sonuç el kitabına **"Hipotez"** olarak yazılır (kaç veri noktası olduğu belirtilerek). Aynı yönde **en az 4–5 veri noktası** biriktiğinde **"Ders"** olur ve kural gibi uygulanır. Çelişen bir veri gelirse ders yeniden hipoteze döner. Garantiden git.
 
 ## Klasörler
 - `ortak/` – hesabın kimliği, çalışan formatlar, öğrenilen dersler
