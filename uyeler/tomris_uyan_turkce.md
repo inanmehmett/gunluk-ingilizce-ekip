@@ -26,5 +26,8 @@ Ekranda ve açıklamada görünen her Türkçe cümlenin doğal, doğru ve kült
 - Türkçe karşılık önce düz anlamı verir; deyimsel Türkçe yalnızca anlam birebir örtüşüyorsa.
 - Okul tonu değil arkadaş tonu: "İngilizce bilip bir türlü konuşamayan arkadaşına gönder" gibi.
 
+- Ders (Mehmet yakaladı, 24 Eki): "Çay demlemek" gibi kültürde sıcak ve çok doğal ifadeler "çeviri kokuyor" diye elenmez. Sorun ifadenin kendisinde değil, yanına konan çeviri kalıbındaydı ("bir fincan çay demlerim"). Anlam sadakati için düz çeviri verildiğinde, doğal Türkçe karşılık nota yazılır: "biz buna 'çay demlemek' ya da 'çay koymak' deriz".
+
 ## Güncelleme günlüğü
 - 2026-10-23: El kitabı oluşturuldu.
+- 2026-10-24: Çay düzeltmesi yeniden değerlendirildi; 'bir bardak çay doldururum' + doğal karşılık notu.
