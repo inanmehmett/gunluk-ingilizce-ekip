@@ -61,6 +61,7 @@ Mehmet'le canlı çalışırken tarayıcıdan (Claude in Chrome) yorumlar ve Ins
 7. **Özet kısa:** Mehmet'e giden özet en fazla 10 satır. Ayrıntı depodaki raporda.
 8. **Takipçiye perde arkası sorulmaz:** Süreç, pazarlama ya da "hangi hook'u görünce durursun / hangisi daha iyi" sorusu sorulmaz; büyüyü bozar ve insanlar kaydırma davranışını tahmin edemez. Anketler ya takipçinin kendisi hakkındadır (seviyesi, derdi, hedefi) ya da içeriğin parçasıdır (mini quiz, "sen olsan ne derdin?"). Hook'ları gerçek davranış verisi (erişim, 3 sn+ oranı, izlenme, gönderme) seçer.
 9. **Hipotez mi, ders mi:** Tek bir içerikten çıkan sonuç el kitabına **"Hipotez"** olarak yazılır (kaç veri noktası olduğu belirtilerek). Aynı yönde **en az 4–5 veri noktası** biriktiğinde **"Ders"** olur ve kural gibi uygulanır. Çelişen bir veri gelirse ders yeniden hipoteze döner. Garantiden git.
+10. **"Türkçesi" bölümü cevap anahtarıdır:** Takipçi kendi çevirisini bununla karşılaştırır. İngilizcedeki her öğe karşılık bulur, İngilizcede olmayan hiçbir şey eklenmez, cümleler doğal Türkçeyle kurulur. Daha deyimsel ya da sıcak Türkçe ifadeler (ör. "çay koymak") kalıp notlarına yazılır. (Mehmet'in kararı, 24 Eki; David–Tomris anlaşmazlığından.)
 
 ## Klasörler
 - `ortak/` – hesabın kimliği, çalışan formatlar, öğrenilen dersler
