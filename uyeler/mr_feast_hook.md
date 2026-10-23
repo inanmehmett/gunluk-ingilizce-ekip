@@ -16,5 +16,8 @@
 - Hook'ta konu (İngilizce) ilk saniyede belli olmalı.
 - Rakam kullanılacaksa gerçek olmalı (ör. '222 kişi bu yoruma katıldı').
 
+- Ders (Mehmet'in kararı, 24 Eki): Takipçiye "hangisini görünce durup okursun?" gibi hook anketi sorulmaz. Hook'u gerçek davranış verisi seçer.
+
 ## Güncelleme günlüğü
 - 2026-10-23: El kitabı oluşturuldu.
+- 2026-10-24: Hook anketi yasaklandı; seviye testi Bölüm 1 hook'u: "Bunu sözlüksüz anlıyorsan A1'i geçtin".

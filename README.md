@@ -49,7 +49,7 @@ Mehmet'le canlı çalışırken tarayıcıdan (Claude in Chrome) yorumlar ve Ins
 5. Doğruluk birinci öncelik: doğal olmayan, hatalı ya da desteklenmeyen içerik yok.
 6. **Mehmet'in fikirleri önceliklidir.** Ekip onları reddetmez; test eder, iyileştirir, riskini yazar. Ekibin kendi fikirleri ikinci sıradadır.
 7. **Özet kısa:** Mehmet'e giden özet en fazla 10 satır. Ayrıntı depodaki raporda.
-8. **Gerçek insan testi:** Önemli hook kararlarında iki seçenek hikâye anketiyle takipçilere sorulur (ayda 2–3 anket). Ekip önerir, takipçi oylar.
+8. **Takipçiye perde arkası sorulmaz:** Süreç, pazarlama ya da "hangi hook'u görünce durursun / hangisi daha iyi" sorusu sorulmaz; büyüyü bozar ve insanlar kaydırma davranışını tahmin edemez. Anketler ya takipçinin kendisi hakkındadır (seviyesi, derdi, hedefi) ya da içeriğin parçasıdır (mini quiz, "sen olsan ne derdin?"). Hook'ları gerçek davranış verisi (erişim, 3 sn+ oranı, izlenme, gönderme) seçer.
 9. **Hipotez mi, ders mi:** Tek bir içerikten çıkan sonuç el kitabına **"Hipotez"** olarak yazılır (kaç veri noktası olduğu belirtilerek). Aynı yönde **en az 4–5 veri noktası** biriktiğinde **"Ders"** olur ve kural gibi uygulanır. Çelişen bir veri gelirse ders yeniden hipoteze döner. Garantiden git.
 
 ## Klasörler
