@@ -11,7 +11,8 @@ Bu depo, @gunluk_ingilizce hesabının içerik ve analiz ekibinin hafızasıdır
 |---|---|---|
 | **Adam Koseri** | Platform stratejisti, ekip başı | Yönetim |
 | **Mr. Feast** | Hook yazarı | İçerik |
-| **David Kristal** | Dil editörü (İngilizce–Türkçe doğruluk) | İçerik |
+| **David Kristal** | Dil editörü (İngilizce doğruluk ve anlam eşleşmesi) | İçerik |
+| **Tomris Uyan** | Türkçe editörü ve kültür danışmanı | İçerik |
 | **Jony Ayv** | Görsel tasarımcı | İçerik |
 | **Gary Bee** | Trend avcısı | İçerik |
 | **Nate Gold** | Veri analisti | Analiz |
@@ -20,7 +21,7 @@ Bu depo, @gunluk_ingilizce hesabının içerik ve analiz ekibinin hafızasıdır
 
 ## Ritim
 - **Her Pazartesi 08:47:** Nate Gold haftalık raporu yazar, Seth Codin yorumları özetler, Gary Bee trend taraması yapar, Adam Koseri platform güncellemelerini toplar. Hepsi el kitaplarını günceller. Rapor `raporlar/YYYY-AA-GG.md` olarak kaydedilir.
-- **Her yeni reel:** Mr. Feast (hook), David Kristal (dil) ve Jony Ayv (görsel) inceler. David Kristal'in onayı olmadan hiçbir içerik yayınlanmaz.
+- **Her yeni reel:** Mr. Feast (hook), David Kristal (İngilizce), Tomris Uyan (Türkçe ve kültür) ve Jony Ayv (görsel) inceler. David Kristal ile Tomris Uyan'ın onayı olmadan hiçbir içerik yayınlanmaz.
 - **Büyük kararlar:** Charlie Hunger'a sorulur.
 
 ## Kurallar (herkes için)
