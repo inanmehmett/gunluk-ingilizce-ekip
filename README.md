@@ -2,6 +2,15 @@
 
 Bu depo, @gunluk_ingilizce **Instagram** ekibinin hafızasıdır. Ekip yalnızca Instagram tarafına bakar; uygulama (geliştirme ve pazarlama) ayrı bir ekibin işidir. Instagram ekibi uygulama tarafına yalnızca profildeki link tıklamalarını raporlar. Ekip üyeleri yapay zekâ ajanlarıdır, gerçek kişiler değildir. İsimleri alanının en iyilerine esprili göndermelerdir; bu depo yalnızca ekibe özeldir. Her üye her işe başlamadan önce `ortak/` klasörünü ve kendi el kitabını okur, iş bitince öğrendiğini el kitabına yazar.
 
+## Çalışma modu: ekip ücretsiz izinde (24 Eki 2026)
+
+Mehmet'in kararı: çok rollü alt ajan incelemesi tek turda ~190 bin token yakıyor, bu tempo sürdürülebilir değil. **Ekip rol yapma modu varsayılan olarak kapalı.**
+
+- Her içerik `ortak/kontrol-listesi.md` ile **tek geçişte** kontrol edilir. Liste, el kitaplarının pratikte yakaladığı hataların özetidir.
+- El kitapları (`uyeler/`) silinmedi; bilgi orada duruyor, sadece her seferinde 14 dosya okunmuyor. Bir üyenin görüşü gerçekten gerekiyorsa o tek dosya okunur.
+- Ekip ancak dört durumda izinden döner: yeni seri/format, dış kaynaklı iddia, Mehmet'in anlaşılmayan itirazı, aylık sağlık kontrolü. (Ayrıntı: kontrol listesinin sonu.)
+- Aşağıdaki çalışma akışı ve kurallar **geçerliliğini koruyor**; farkı, bunları ayrı ajanlar yerine tek bir geçişin uygulaması.
+
 ## Hedef
 - Hesabı 1 milyon takipçiye taşımak (8 Eki 2026: 137.177 → 21 Eki 2026: 141.448).
 - Daily English: İngilizce Oku uygulamasını bu kitleyle büyütmek.
@@ -30,7 +39,7 @@ Bu depo, @gunluk_ingilizce **Instagram** ekibinin hafızasıdır. Ekip yalnızca
 - **Her canlı oturum:** Brené Braun yeni yorumlara ve DM'lere cevap taslakları hazırlar (Mehmet paylaşır).
 - **Ayda bir:** Reid Hoffmann iş birliği adaylarını ve sonuçlarını raporlar.
 - **Her yeni reel:** Mr. Feast (hook), David Kristal (İngilizce), Tomris Uyan (Türkçe ve kültür) ve Jony Ayv (görsel) inceler. David Kristal ile Tomris Uyan'ın onayı olmadan hiçbir içerik yayınlanmaz.
-- **Her Perşembe 12:43:** Gary Bee kısa trend taraması yapar; yalnızca hesaba uygun bir şey bulursa bildirim gönderir.
+- ~~Her Perşembe 12:43: Gary Bee trend taraması~~ – **duraklatıldı** (24 Eki, maliyet). Trend taraması aylık canlı oturumda elle yapılır.
 - **Büyük kararlar:** Charlie Hunger'a sorulur.
 
 ## Ekip başının ek görevleri (Adam Koseri)
@@ -75,6 +84,8 @@ Mehmet'le canlı çalışırken tarayıcıdan (Claude in Chrome) yorumlar ve Ins
 10. **"Türkçesi" bölümü cevap anahtarıdır:** Takipçi kendi çevirisini bununla karşılaştırır. İngilizcedeki her öğe karşılık bulur, İngilizcede olmayan hiçbir şey eklenmez, cümleler doğal Türkçeyle kurulur. Daha deyimsel ya da sıcak Türkçe ifadeler (ör. "çay koymak") kalıp notlarına yazılır. (Mehmet'in kararı, 24 Eki; David–Tomris anlaşmazlığından.)
 
 ## Klasörler
+- `araclar/` – üretim hattı (render_v3.py, ladder.py, carousel build, Literata fontu). Yeni oturumda ilk iş: `araclar/README.md`.
+- `ortak/kontrol-listesi.md` – tek sayfa inceleme listesi (ekip izindeyken kullanılan).
 - `ortak/` – hesabın kimliği, çalışan formatlar, öğrenilen dersler
 - `uyeler/` – her üyenin el kitabı
 - `raporlar/` – haftalık raporlar
