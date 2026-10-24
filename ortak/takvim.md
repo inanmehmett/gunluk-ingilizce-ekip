@@ -27,6 +27,7 @@
 |---|---|---|---|
 | Cum 23 | 19:30 | Carousel | En çok hangisi işine yarar? (Metricool) |
 | Cmt 24 | 19:30 | Reels | Kitlenenler |
+| Paz 25 | 10:00 | Carousel | Biri üzgünken söylenecek 8 ifade (K08) – Metricool ✓ (ızgara düzeni için eklendi) |
 | Paz 25 | 19:30 | Reels | Kahve / dostluk paragrafı (A2) |
 | Pzt 26 | 10:00 | Carousel | PUT ile… (Metricool) |
 | Sal 27 | 19:30 | Reels | Okulda öğrenip hâlâ konuşamayanlar için 30 kalıp |
