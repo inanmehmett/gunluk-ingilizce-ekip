@@ -41,7 +41,7 @@ Mehmet'e gitmeden önceki son kapı. Her içeriği bir takipçinin gözünden, b
 - Geri gönderilen her Engel, düzeltmeyi uygulayan değil bulguyu yazan tarafından kapatılır (README akış 3). Son kapıdan sonra yapılan her değişiklik kaydı yeniden açar (akış 7).
 - Mehmet bir Engel'i bilinçli olarak kaldırırsa ("riski biliyorum, yayınla") bu da gerekçesiyle kaydedilir. Karar onundur (kural 4).
 - Aynı türden bulgu tekrar ederse (ör. okunaklılık) sayılır; 4–5 tekrarda ilgili üyenin el kitabına "Ders" olarak işlenir (kural 9).
-- **Ölçeği A1 taslağına uygulayınca (24 Eki, henüz karar verilmedi; ilgili üyelere iletilecek):** (1) [Engel] Kayıtlı hook kararı "Bunu sözlüksüz anlıyorsan A1'i geçtin" bir seviye/sonuç iddiasıdır, yeniden yazılmalı. Taslak dosyasının "Ekran" bölümünde ise hâlâ eski hook ("…bir sonraki seviyeye geç") duruyor; hangisinin son sürüm olduğu netleşmeli. (2) [Zorunlu] Türkçesi bölümü ve kalıp notu "yaparım / koyarım" diyor, Tomris'in 24 Eki kararı "koyarım / bırakırım"; ayrıca "kendime" ve "bir de bakarım" kural 10'a göre gözden geçirilecek. (3) [Zorunlu] İki noktadan sonra gelen cümle büyük harfle başlamalı ("Çayım").
+- **Ölçeğin A1 paketine uygulanmış örneği (v2 → v4, 24 Eki):** (1) [Engel, kapandı: Mehmet, 24 Eki] "Bunu sözlüksüz anlıyorsan A1'i geçtin" bir seviye/sonuç iddiasıydı. v4'te hook "Bu A1 metnini sözlüksüz anladıysan yoruma ✅ bırak" oldu; seviye metne ait, izleyiciye seviye verilmiyor. (2) [Zorunlu, kapandı: v4] Türkçesi bölümündeki eklemeler ("kendime", "bir de bakarım") çıkarıldı. Kalıp notu ile Türkçesi aynı fiili kullanıyor ("bir bardak çay hazırlamak"; "çay koymak" notta). (3) [Zorunlu, kapandı: v4] İki noktadan sonraki küçük harf sorunu, iki nokta kalkınca ortadan kalktı ("Geri gelirim. Çayım yerde…"). Açık kalan: `reels/seviye/PAKET.md` içinde "Son sürüm onayı (v4)" hâlâ "bekleniyor"; bu satır dolmadan paket gönderilmez (akış 8). Tek doğru kaynak artık PAKET.md'dir, `arsiv/B1_A1_taslak.md` eski sürümdür.
 
 ## Takip listesi
 - `README.md` (kurallar 1–10, çalışma akışı 0–8) ve `ortak/hesap.md`
@@ -52,4 +52,4 @@ Mehmet'e gitmeden önceki son kapı. Her içeriği bir takipçinin gözünden, b
 
 ## Güncelleme günlüğü
 - 2026-10-24: El kitabı oluşturuldu.
-- 2026-10-24: "Eğitim notları (24 Eki 2026)" ve "Takip listesi" eklendi (Engel / Zorunlu / İsteğe bağlı ölçeği, 9 maddelik son kapı listesi, karar kaydı biçimi; A1 taslağında "A1'i geçtin" hook'u Engel olarak işaretlendi).
+- 2026-10-24: "Eğitim notları (24 Eki 2026)" ve "Takip listesi" eklendi (Engel / Zorunlu / İsteğe bağlı ölçeği, 9 maddelik son kapı listesi, karar kaydı biçimi; A1 paketi v4 ölçeğin uygulanmış örneği olarak yazıldı, v4 son sürüm onayı bekleniyor).
