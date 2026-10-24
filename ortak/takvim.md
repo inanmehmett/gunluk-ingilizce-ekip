@@ -31,29 +31,29 @@
 | Pzt 26 | 10:00 | Carousel | PUT ile… (Metricool) |
 | Sal 27 | 19:30 | Reels | Okulda öğrenip hâlâ konuşamayanlar için 30 kalıp |
 | Çar 28 | 19:30 | Reels | Avel avel (yorum yanıtı, sesli) – ses bekleniyor |
-| Per 29 | 10:00 | Carousel | (seçilecek) |
+| Per 29 | 10:00 | Carousel | Konuşurken dilin kaydığı 8 hata (H02) – Metricool ✓ |
 
 ## 30 Eki – 1 Kas (geçiş)
 | Gün | Saat | Tür | İçerik |
 |---|---|---|---|
-| Cum 30 | 19:30 | Reels | (ekip önerisi – 26 Eki toplantısı) |
-| Cmt 31 | 19:30 | Reels | (ekip önerisi) |
-| Paz 1 | 10:00 | Carousel | (Metricool) |
+| Cum 30 | 19:30 | Reels | Altyazıyı bırakıyoruz 2. adım (R01) – teslim edildi |
+| Cmt 31 | 19:30 | Reels | "Pazartesi başlıyorum" A2 paragrafı (R02) – teslim edildi |
+| Paz 1 | 10:00 | Carousel | Yorulunca/bıkınca 8 ifade (K06) – Metricool ✓ |
 
 ## 2–8 Kasım (Aşama 1 başlangıcı: 7 reels + 3 carousel = 10)
 Sıra: R, R, C döngüsü kesintisiz. Her gün 19:30 reel; Çar/Cum/Paz 10:00 carousel.
 | Gün | Saat | Tür | İçerik |
 |---|---|---|---|
 | Pzt 2 | 19:30 | Reels | **Seviye merdiveni 1/6 · A1 metni** (kedi ve çay) – klip IMG_3200 |
-| Sal 3 | 19:30 | Reels | (ekip önerisi; seviye serisiyle farklı görünüm) |
-| Çar 4 | 10:00 | Carousel | (Metricool) |
-| Çar 4 | 19:30 | Reels | (ekip önerisi) |
-| Per 5 | 19:30 | Reels | (ekip önerisi) |
-| Cum 6 | 10:00 | Carousel | (Metricool) |
-| Cum 6 | 19:30 | Reels | (ekip önerisi; Cuma zayıf gün) |
-| Cmt 7 | 19:30 | Reels | (ekip önerisi) |
-| Paz 8 | 10:00 | Carousel | (Metricool) |
-| Paz 8 | 19:30 | Reels | (güçlü gün: en iyi aday) |
+| Sal 3 | 19:30 | Reels | Takıldığınız 3 kelime (R03) – teslim edildi |
+| Çar 4 | 10:00 | Carousel | "Thank you" yerine 8 ifade (D03) – Metricool ✓ |
+| Çar 4 | 19:30 | Reels | Çay demlemek, İngilizcede (R04) – teslim edildi |
+| Per 5 | 19:30 | Reels | Cümleyi küçült (R05) – **klip bekleniyor** |
+| Cum 6 | 10:00 | Carousel | GO ile 8 phrasal verb (P04) – Metricool ✓ |
+| Cum 6 | 19:30 | Reels | "Arkadaşından mesaj geldi" (R06) – **klip bekleniyor** |
+| Cmt 7 | 19:30 | Reels | Türkçede "almak", İngilizcede 6 fiil (R07) – teslim edildi |
+| Paz 8 | 10:00 | Carousel | Sevinince 8 ifade (K07) – Metricool ✓ |
+| Paz 8 | 19:30 | Reels | "Beş dakika daha" A2 paragrafı (R08) – teslim edildi |
 Kural: seviye merdiveninin yanındaki reeller (Pzt 1 öncesi ve Sal 3) farklı kutu düzeni ve farklı klip kullanır.
 
 ## Seriler
@@ -69,5 +69,11 @@ Kural: seviye merdiveninin yanındaki reeller (Pzt 1 öncesi ve Sal 3) farklı k
 | IMG_3231 (akşam köprü) | 25 Eki | Kahve |
 | IMG_6158 (göl, çalılar) | 28 Eki | Avel avel |
 | IMG_3200 (ağaçlı yol, kış dalları) | 2 Kas | Seviye merdiveni 1/6 · A1 metni |
+| IMG_3175 | 30 Eki | Altyazı 2. adım (R01) |
+| IMG_3171 | 31 Eki | Diyet paragrafı (R02) |
+| IMG_3161 (yağmurlu cam) | 3 Kas | Takıldığınız 3 kelime (R03) |
+| IMG_1528 | 4 Kas | Çay demlemek (R04) |
+| IMG_5314 (kumsal) | 7 Kas | "Almak" 6 fiil (R07) |
+| IMG_5624 | 8 Kas | Beş dakika daha (R08) |
 
 Kural: aynı klip 3 hafta içinde tekrar kullanılmaz. Klip açığı (24 Eki, Nate/Jony): Aşama 2'de 3 haftalık rotasyon için en az 24 klip gerekir; Mehmet'ten istenen sayı 12–15'ten 20+'ya çıkarıldı. En az 15 sn, sakin, dikey klipler gerekiyor; Mehmet'ten 12–15 yeni klip istendi (sonbahar, yağmurlu cam, kahve, akşam ışıkları).
