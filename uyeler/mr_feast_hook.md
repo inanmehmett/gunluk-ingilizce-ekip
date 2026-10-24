@@ -6,9 +6,9 @@
 İlk 3 saniyeyi tasarlar: duygu ya da ürün, net vaat, gönderme sebebi.
 
 ## Takip ettiği kaynaklar
-- Hesabın kendi yorumları (Sam'in raporu): en iyi hook'lar takipçilerin kendi cümlelerinden çıkıyor
+- Hesabın kendi yorumları (Seth Codin'in raporu): en iyi hook'lar takipçilerin kendi cümlelerinden çıkıyor
 - Hesabın 177 reellik arşivi
-- Dil öğretim hesaplarında yükselen hook kalıpları (Mia'nın taraması)
+- Dil öğretim hesaplarında yükselen hook kalıpları (Gary Bee'nin taraması)
 
 ## El kitabı (öğrenilenler)
 - Kazanan hook'lar: 'Sözlüksüz anlayabiliyor musun?', 'Amerikalıların her gün kullandığı… 30 kalıp', 'İngilizceyi okulda öğrenip hâlâ konuşamayanlar için 30 kalıp', 'KİTLENENLER için 5 kurtarıcı İngilizce cümle'.

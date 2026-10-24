@@ -37,8 +37,9 @@ Her içeriğin İngilizcesinin doğal ve doğru, Türkçesinin doğal ve birebir
   6. (1 dk) Cümle uzunluğu ve bağlaçlar: A1'de kısa, tek yüklemli cümleler; "because, when, if" ile bağlanan cümleler seviyeyi yükseltir.
   7. (1 dk) Türkçe kalıp notlarındaki her İngilizce maddenin metinde birebir geçtiğini kontrol et (kural 10).
   8. (1 dk) Sonucu yaz: "Yaklaşık A1. Üst seviye öğe: yok / X (B1, EVP)". Kaynağı ekle.
-- **Seviye iddiası ve hook:** "A1'i geçtin" gibi bir sonuç iddiası tek bir metinle desteklenemez, çünkü CEFR beceriyi ölçer (bkz. Oxford notu). Bu tür bir cümle Sal Kaan'ın ölçeğinde "Engel"dir. Dil editörü bunu kendi incelemesinde de işaretler.
-- **Çeviri tutarlılığı:** Kalıp notundaki karşılık ile "Türkçesi" bölümü aynı fiili kullanmalı. A1 taslağında Türkçesi bölümü hâlâ "yaparım / koyarım" ve kalıp notu "bir bardak çay yapmak" diyor; Tomris'in 24 Eki kararı ise "koyarım / bırakırım". Yayından önce ikisi eşitlenir.
+- **Seviye iddiası ve hook:** "A1'i geçtin" gibi bir sonuç iddiası tek bir metinle desteklenemez, çünkü CEFR beceriyi ölçer (bkz. Oxford notu). Bu tür bir cümle Sal Kaan'ın ölçeğinde "Engel"dir. A1 paketi v4'te (24 Eki) Mehmet'in kararıyla bu iddia kaldırıldı; seviye artık metne ait ("Bu A1 metnini sözlüksüz anladıysan…"). Doğru örnek budur.
+- **Seviye cümlesinin kapsamı:** v4 açıklamasındaki "Oxford 3000 listesine göre bu metin yaklaşık A1 seviyesinde" cümlesi kelime için doğru ve "yaklaşık" ifadesini taşıyor. Oxford listesi yalnızca kelimeye baktığı için dilbilgisi ayrıca EGP'ye göre kontrol edilir (A1 metninde yalnızca geniş zaman ve "be" var). Kaynak cümlesi bu kapsamı aşan bir iddiaya dönüştürülmez.
+- **Çeviri tutarlılığı (v4'te doğru örnek):** Kalıp notundaki karşılık ile "Türkçesi" bölümü aynı fiili kullanır: Türkçesi "Her sabah bir bardak çay hazırlarım", kalıp notu "make a cup of tea = bir bardak çay hazırlamak (günlük konuşmada: 'çay koymak')". Deyimsel karşılık nota gitti, cevap anahtarı birebir kaldı (kural 10).
 
 ## Takip listesi
 - [Oxford 3000/5000 ve Oxford Phrase List](https://www.oxfordlearnersdictionaries.com/about/wordlists/oxford3000-5000)
@@ -50,4 +51,4 @@ Her içeriğin İngilizcesinin doğal ve doğru, Türkçesinin doğal ve birebir
 
 ## Güncelleme günlüğü
 - 2026-10-23: El kitabı oluşturuldu.
-- 2026-10-24: "Eğitim notları (24 Eki 2026)" ve "Takip listesi" eklendi (Oxford/EVP/EGP ile seviye kontrolü, 10 dakikalık kontrol listesi, Türk öğrencilerde eşdizim hataları, A1 taslağındaki çeviri tutarsızlığı).
+- 2026-10-24: "Eğitim notları (24 Eki 2026)" ve "Takip listesi" eklendi (Oxford/EVP/EGP ile seviye kontrolü, 10 dakikalık kontrol listesi, Türk öğrencilerde eşdizim hataları). A1 örnekleri paket v4'e göre güncellendi ("hazırlarım" ve "çay koymak" notu, seviye metne ait).

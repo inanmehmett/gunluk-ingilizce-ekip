@@ -9,7 +9,7 @@
 **Gerçekçi beklenti:** 141 bin takipçide +%0,66 haftalık büyüme ≈ haftada ~930 takipçi. Hedefin gerektirdiği ~8.200'e tek başına sıklıkla ulaşılmaz; sıklık zemini yükseltir, açığı patlayan reeller kapatır. Daha çok paylaşmak, daha çok "patlama denemesi" demektir.
 
 **Karar:**
-- **Aşama 1 (2–15 Kasım 2026): haftada 9 gönderi = 6 reels + 3 carousel.**
+- **Aşama 1 (2–15 Kasım 2026): haftada 10 gönderi = 7 reels + 3 carousel** (reels-reels-carousel döngüsüyle hafta 10'a denk geliyor; 24 Eki düzeltmesi).
 - **Aşama 2 (16 Kasım'dan itibaren, koşullu): haftada 12 gönderi = 8 reels + 4 carousel.**
 - Aşama 2'ye geçiş koşulları (Aşama 1'in 2 haftasının sonunda Nate Gold kontrol eder):
   1. Reel başına medyan erişim, Ekim temel çizgisinin (8–16 bin) altına %20'den fazla düşmedi.
@@ -70,4 +70,4 @@ Kural: seviye merdiveninin yanındaki reeller (Pzt 1 öncesi ve Sal 3) farklı k
 | IMG_6158 (göl, çalılar) | 28 Eki | Avel avel |
 | IMG_3200 (ağaçlı yol, kış dalları) | 2 Kas | Seviye merdiveni 1/6 · A1 metni |
 
-Kural: aynı klip 3 hafta içinde tekrar kullanılmaz. En az 15 sn, sakin, dikey klipler gerekiyor; Mehmet'ten 12–15 yeni klip istendi (sonbahar, yağmurlu cam, kahve, akşam ışıkları).
+Kural: aynı klip 3 hafta içinde tekrar kullanılmaz. Klip açığı (24 Eki, Nate/Jony): Aşama 2'de 3 haftalık rotasyon için en az 24 klip gerekir; Mehmet'ten istenen sayı 12–15'ten 20+'ya çıkarıldı. En az 15 sn, sakin, dikey klipler gerekiyor; Mehmet'ten 12–15 yeni klip istendi (sonbahar, yağmurlu cam, kahve, akşam ışıkları).
