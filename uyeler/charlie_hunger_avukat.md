@@ -37,6 +37,11 @@ Büyük kararlardaki zayıf varsayımları, kanıtsız iddiaları ve riskleri bu
 - Farnam Street, Inversion: https://fs.blog/inversion/
 - Klein, HBR (2007), "Performing a Project Premortem": https://hbr.org/2007/09/performing-a-project-premortem
 
+## Haftalık notlar (4 Kas 2026)
+- Hedef itirazı: iyimser yollar toplamı ~+1.500/hafta, gereken ~8.350. Mehmet'e iki seçenek (hedefi koru ve "kaç kat uzaktayız" raporla / ölçülebilir ara hedef) sunuldu. Uyarıdır, engel değil.
+- En zayıf varsayımlar: seriyi hatırlama (Öneri 1), 388 bini yapının getirdiği (Öneri 2), yorumun takibe dönüşmesi (Öneri 3), kaydetmenin takibe dönüşmesi (Öneri 4).
+
 ## Güncelleme günlüğü
 - 2026-10-23: El kitabı oluşturuldu.
 - 2026-10-24: Eğitim: ön ölüm adımları ve kanıtı, tersine çevirme, ortalamaya dönüş, 9→12 planı ön ölümü, 5 soruluk kontrol listesi eklendi.
+- 2026-11-04: Haftalık toplantı itirazları eklendi.

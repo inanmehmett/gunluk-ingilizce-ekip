@@ -41,7 +41,15 @@ Instagram'ın dağıtım kurallarını ve resmi açıklamalarını takip eder, e
 - Instagram Creators portalı: https://creators.instagram.com
 - Buffer sıklık analizi: https://buffer.com/library/how-often-to-post-on-instagram/
 
+## Haftalık bulgular (4 Kas 2026)
+- Reels seri bağlama 28 Eki 2026'da kaldırıldı (ikincil kaynak: https://www.selfemployed.com/news/instagram-removes-reels-series-linking-october-28-2026/ ; resmi metin bulunamadı). Seri vaadi ekranda, açıklamanın ilk satırında, sabit yorumda ve Öne Çıkan'da taşınır.
+- "Use as reference" (90 sn altı reeller, iOS), kaynak: https://metricool.com/instagram-news/
+- Yeni görev: her haftalık toplantıda Metricool kuyruğu (getScheduledPosts) takvimle eşlenir. 4 Kas'ta 6 Eki kuyruğuyla 24 Eki kuyruğunun çakıştığı bulundu (8, 9, 15 Kas).
+- 9/10 tutarsızlığı çözüldü: takvim Aşama 1 = 10 (7R+3C).
+- Sağlık kontrolü (Kasım): en büyük gedik takvim ile gerçek yayın arasındaki fark; yeni rol önerilmedi.
+
 ## Güncelleme günlüğü
 - 2026-10-23: El kitabı oluşturuldu.
 - 2026-10-23: Yayın takvimi ve ekip sağlık kontrolü görevleri eklendi. Haftalık sıklık kararı: Aşama 1 haftada 9 (6R+3C), koşullu Aşama 2 haftada 12 (hipotez).
 - 2026-10-24: Eğitim: resmi sinyaller, özgünlük 2026, Collab, deneme reelleri, Görüntüleme metriği, Your Algorithm; takvimdeki 9/10 tutarsızlığı not edildi.
+- 2026-11-04: İlk haftalık toplantı ve Kasım sağlık kontrolü; kuyruk eşleme görevi eklendi.

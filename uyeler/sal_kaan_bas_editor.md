@@ -50,6 +50,10 @@ Mehmet'e gitmeden önceki son kapı. Her içeriği bir takipçinin gözünden, b
 - [TDK Yazım Kuralları](https://tdk.gov.tr/kategori/icerik/yazim-kurallari/) (Tomris'in onayını denetlemek için değil, kayıttaki gerekçeyi okumak için)
 - David Kristal ve Tomris Uyan'ın "Eğitim notları (24 Eki 2026)" bölümleri
 
+## Haftalık not (4 Kas 2026)
+- 27 Eki–2 Kas'ta yayınlanan 4 reelin hiçbiri ekip paketinden geçmedi; teslim edilen R01/R02 bekliyor. Son kapı ancak takvimdeki içeriklere uygulanabiliyor.
+
 ## Güncelleme günlüğü
 - 2026-10-24: El kitabı oluşturuldu.
 - 2026-10-24: "Eğitim notları (24 Eki 2026)" ve "Takip listesi" eklendi (Engel / Zorunlu / İsteğe bağlı ölçeği, 9 maddelik son kapı listesi, karar kaydı biçimi; A1 paketi v4 ölçeğin uygulanmış örneği olarak yazıldı, v4 son sürüm onayı bekleniyor).
+- 2026-11-04: Haftalık not.

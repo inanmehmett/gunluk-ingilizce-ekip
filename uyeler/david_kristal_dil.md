@@ -49,6 +49,11 @@ Her içeriğin İngilizcesinin doğal ve doğru, Türkçesinin doğal ve birebir
 - [B1 Preliminary el kitabı – dil özellikleri bölümü](https://www.cambridgeenglish.org/Images/168150-b1-preliminary-teachers-handbook.pdf)
 - [Aybek 2025, Türk öğrencilerde fiil-isim eşdizimleri (SAGE Open, DOI 10.1177/21582440251395720)](https://avesis.cu.edu.tr/yayin/b63fe0fb-c478-4c5e-b337-bf04a0d031bd/to-collocate-or-not-to-collocate-exploring-verb-noun-collocations-of-turkish-efl-learners): örnek hatalar için tam metin okunacak
 
+## Haftalık not (4 Kas 2026)
+- 1 Kas paragrafı açıklamada "C1 seviyesi!" diyordu; izlenim B2–C1 arası, Oxford listesiyle doğrulanmadı. Hipotez (1 veri noktası): akış dışı içerikte seviye etiketi "yaklaşık" kuralını kaçırıyor.
+- "1 hata var" formatında hata tek ve tartışmasız olmalı ("I am agree" gibi); bağlama göre doğru olabilen yapı kullanılmaz.
+
 ## Güncelleme günlüğü
 - 2026-10-23: El kitabı oluşturuldu.
 - 2026-10-24: "Eğitim notları (24 Eki 2026)" ve "Takip listesi" eklendi (Oxford/EVP/EGP ile seviye kontrolü, 10 dakikalık kontrol listesi, Türk öğrencilerde eşdizim hataları). A1 örnekleri paket v4'e göre güncellendi ("hazırlarım" ve "çay koymak" notu, seviye metne ait).
+- 2026-11-04: Haftalık not.

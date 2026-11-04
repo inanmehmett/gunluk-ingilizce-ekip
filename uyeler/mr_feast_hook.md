@@ -57,7 +57,12 @@ Yayın öncesi sorular (biri "evet"se hook geri döner):
 - [Instagram Yardım: öneriler](https://help.instagram.com/313829416281232): neyin önerilip neyin önerilmediği
 - Hesabın kendi verisi: Metricool (3 sn+ oranı, gönderme) ve Seth'in yorum raporları
 
+## Haftalık not (4 Kas 2026)
+- Hipotez (1 veri noktası): "Bu metinde 1 hata var" çağrısı yorumu artırıyor (31 Eki: 33 yorum, haftanın en yükseği); gönderme oranı ise medyanın altında (%0,27).
+- Seri hook'unda sayı ("X kişi anladı") yalnızca Seth'in saydığı gerçek sayıyla kullanılır.
+
 ## Güncelleme günlüğü
 - 2026-10-23: El kitabı oluşturuldu.
 - 2026-10-24: Hook anketi yasaklandı; seviye testi Bölüm 1 hook'u: "Bunu sözlüksüz anlıyorsan A1'i geçtin".
 - 2026-10-24: Eğitim notları (sinyaller, orijinallik, etkileşim yemi, merak boşluğu, clickbait), dürüst hook kontrol listesi ve takip listesi eklendi.
+- 2026-11-04: Haftalık not.

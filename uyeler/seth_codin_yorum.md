@@ -33,6 +33,10 @@ Reellerin yorumlarını okuyup ihtiyaçları, soruları ve hook olabilecek 'bu b
 - LSE, internet ve sosyal medya verisi etiği: https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/Assets/Documents/PDF/ethics-Using-internet-and-Social-media-data.pdf
 - AoIR, Internet Research Ethical Guidelines 3.0: https://mediawell.ssrc.org/citation/internet-research-ethical-guidelines-3-0/
 
+## Haftalık not (4 Kas 2026)
+- Bulut çalıştırmasında Chrome yok; yorumlar okunamadı. Canlı oturumda okunacak: DfQASIVO8E2 (2 Kas liste), DfNWxk-uo_b (1 Kas C1), DfK_T9sOpuW (31 Eki "1 hata"). Bakılacak: "1 hata"yı bulanlar, C1 etiketine tepki, lansmana tepki, Merdiven 1/6 "✅" sayısı.
+
 ## Güncelleme günlüğü
 - 2026-10-23: El kitabı oluşturuldu.
 - 2026-10-24: Eğitim: kod kitabı, iki kodlayıcı kontrolü, sıklık + beğeni ağırlıklı sayım, erişime göre normalleştirme, etik ve alıntı kuralı eklendi.
+- 2026-11-04: Yorum analizi canlı oturuma ertelendi.

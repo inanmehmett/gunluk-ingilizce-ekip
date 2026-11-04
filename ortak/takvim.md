@@ -57,6 +57,28 @@ Sıra: R, R, C döngüsü kesintisiz. Her gün 19:30 reel; Çar/Cum/Paz 10:00 ca
 | Paz 8 | 19:30 | Reels | "Beş dakika daha" A2 paragrafı (R08) – teslim edildi |
 Kural: seviye merdiveninin yanındaki reeller (Pzt 1 öncesi ve Sal 3) farklı kutu düzeni ve farklı klip kullanır.
 
+### 2–8 Kasım gerçekleşen (4 Kas toplantısı, Metricool)
+- Pzt 2: 10:00 eski kuyruktan carousel "Teşekkür borcun olan birine gönder" (takvimde yoktu) + 21:59 liste reeli (DfQASIVO8E2). Merdiven 1/6 yayınlanıp yayınlanmadığı Metricool'dan anlaşılamadı.
+- Sal 3: reel Metricool'da görünmüyor (veri gecikmesi olabilir).
+- Çar 4: 10:00 **iki carousel**: D03 + eski kuyruktan "Hangisini ilk kez duydun?".
+- ⚠️ Çakışmalar (Mehmet silecek/taşıyacak): 8 Kas 10:00 eski "Seni en son ne böyle sevindirdi?" + K07 (aynı konu, aynı saat); 9 Kas 10:00 eski "GO…" (6 Kas P04 ile aynı konu); 15 Kas 10:00 eski "Bugün bunu duymaya ihtiyacı olan…" (25 Eki K08 tekrarı olabilir).
+
+## 9–15 Kasım (Aşama 1, 2. hafta: 7 reels + 3 carousel = 10) – **Mehmet onayı bekliyor**
+Sıra: 8 Kas reelle biterse döngü R ile devam eder → R, C R, R, C R, R, C R, R.
+| Gün | Saat | Tür | İçerik |
+|---|---|---|---|
+| Pzt 9 | 19:30 | Reels | Öneri 4: "İngilizceye yeniden başlıyorsan" 20 kalıp (liste) – paket gerekiyor |
+| Sal 10 | 10:00 | Carousel | Metricool'daki 11 Kas "En çok hangisini karıştırıyorsun?" buraya taşınır |
+| Sal 10 | 19:30 | Reels | R05 Cümleyi küçült (klip gelirse) / yoksa R01 Altyazı 2. adım (teslim edildi, yayınlanmadı) |
+| Çar 11 | 19:30 | Reels | Öneri 3: "Bu metinde 1 hata var" (Mehmet'in fikri) – yeni format, zorunlu kadro |
+| Per 12 | 10:00 | Carousel | Metricool'daki 16 Kas "En son kimden özür diledin?" buraya taşınır |
+| Per 12 | 19:30 | Reels | R06 "Arkadaşından mesaj geldi" (klip gelirse) / yoksa R02 "Pazartesi başlıyorum" |
+| Cum 13 | 19:30 | Reels | R01 / R02'den kalan (en zayıf gün; patlama adayı konmaz) |
+| Cmt 14 | 10:00 | Carousel | 15 Kas eski carousel K08'den farklıysa buraya; aynıysa yeni carousel gerekir |
+| Cmt 14 | 19:30 | Reels | Öneri 1: Seviye merdiveni 2/6 · A2 |
+| Paz 15 | 19:30 | Reels | Öneri 2: A2 paragraf yeniden sürüm (sonbahar, "My Own Universe") – patlama denemesi |
+Klip: Öneri 1–4 için son 3 haftada kullanılmamış 4 klip gerekiyor (Jony). 15 Kas: Aşama 2 kesin kontrolü (Nate).
+
 ## Seriler
 - **Seviye merdiveni (geçici ad; 6 basamak: A1 → A2 → A2+ → B1 → B1+ → B2):** haftada 1 metin; her bölüm tek başına anlaşılır; seviye metne aittir; yorumda "✅" (izleyicinin kendi beyanı); sonraki bölümün hook'u dürüst sayıyla açılır ("X kişi 1. metni anladı"). Kalıcı ad 27 Eki'ye kadar (toplantı kararı 6).
 

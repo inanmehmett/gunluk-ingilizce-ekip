@@ -46,6 +46,12 @@ Trend sesleri, yükselen formatları ve viral olan dil öğretim içeriklerini t
 4. [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/): erken uyarı
 5. [Social Media Today](https://www.socialmediatoday.com/): Instagram özellik ve algoritma haberleri
 
+## Haftalık bulgular (4 Kas 2026)
+- "My Own Universe" (sakin sonbahar) ve "Luminary" (metinle eşleşen enstrümantal) – Buffer, 3 Kas 2026: https://buffer.com/resources/trending-audio-instagram/
+- Yüzlü dans trendleri ("Housewife") kimliğe uymuyor: https://napoleoncat.com/blog/instagram-reels-trends/
+- Dil öğretimi için tarihli, güvenilir "yükselen format" kaynağı bulunamadı; bu hafta öneriler ses ve mevsimle sınırlı.
+
 ## Güncelleme günlüğü
 - 2026-10-23: El kitabı oluşturuldu.
 - 2026-10-24: Eğitim notları (Reels Trends, yükselen ses oku, Edits, @creators, Trend Talk, uygunluk filtresi) ve haftalık takip listesi eklendi.
+- 2026-11-04: Haftalık trend notu.

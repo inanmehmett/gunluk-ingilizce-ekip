@@ -35,7 +35,17 @@ Her Pazartesi Metricool'dan haftalık rapor çıkarır; kazanan ve kaybeden form
 - Social Media Today, Mosseri'nin sinyal açıklamaları: https://www.socialmediatoday.com/news/instagram-shares-algorithm-insights-2025/738034/
 - Buffer sıklık ve büyüme analizi: https://buffer.com/library/how-often-to-post-on-instagram/
 
+## Haftalık bulgular (4 Kas 2026; rapor: raporlar/2026-11-04.md)
+- **Hipotez (9 veri noktası, 8/9 yönünde, karışık):** Liste/kalıp reelleri kaydetme oranında paragraf reellerinden önde (liste %1,62–2,68; paragraf %0,75–1,70). Bir hafta daha aynı yönde gelirse Ders.
+- **Hipotez (2 veri noktası):** Paragraf/metin reelleri ortalama izlenme süresinde önde (13–15 sn vs 6,7 sn); süre farkı karışık değişken.
+- **Hipotez (7 veri noktası, eğilim):** Carousel erişimi düşüyor (15,8 → 4,8 bin), carousel başına takip 44 → 0. Neden bilinmiyor.
+- **Hipotez (1 veri noktası):** Duyuru/reklam dili reel dağıtım almıyor (lansman: 4.090 erişim, 3 sn+ %14).
+- Temel çizgi (son 7 ızgara reeli, 20–26 Eki): medyan erişim 16.762, gönderme/erişim medyanı %0,34. 27 Eki–2 Kas: 14.153 / %0,31.
+- Takip: kazanılan ~150/gün, kaybedilen ~120/gün; haftalık net +238. Kayıp kalıcı bir gider; temel çizgide "günde ~100 gidiyor" notu ~120'ye güncellendi.
+- Metricool'da takipçi olmayan oranı, link tıklaması ve reel başına takip yok; Mehmet'ten haftalık içgörü ekran görüntüsü istenir.
+
 ## Güncelleme günlüğü
 - 2026-10-23: El kitabı oluşturuldu.
 - 2026-10-24: Eski kazananları yeniden kullanma görevi eklendi.
 - 2026-10-24: Eğitim: erişim/görüntüleme farkı, aynı yaşta karşılaştırma, medyan, ortalamaya dönüş, 4–5 nokta kuralının olasılık mantığı eklendi.
+- 2026-11-04: İlk haftalık rapor; hipotezler eklendi.

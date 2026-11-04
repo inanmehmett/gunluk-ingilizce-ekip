@@ -103,8 +103,12 @@ Ekranda ve açıklamada görünen her Türkçe cümlenin doğal, doğru ve kült
 - [TDK – Noktalama açıklamaları](https://tdk.gov.tr/icerik/yazim-kurallari/noktalama-isaretleri-aciklamalar/)
 - [Biçimsel ve işlevsel eşdeğerlik](https://en.wikipedia.org/wiki/Dynamic_and_formal_equivalence)
 
+## Haftalık not (4 Kas 2026)
+- Akış dışı paylaşılan lansman açıklamasında "#İngilzice" ve "adınlarımızı" (adımlarımızı) yazım hataları. Yeni görev: açıklamalar ve hashtag'ler de kontrol listesi bölüm 3'ten geçer.
+
 ## Güncelleme günlüğü
 - 2026-10-23: El kitabı oluşturuldu.
 - 2026-10-24: Çay düzeltmesi yeniden değerlendirildi; son hali 'bir bardak çay koyarım. Masaya bırakırım.' ('doldurmak' su için daha doğal; 'koymak' tekrarı 'bırakmak' ile çözüldü).
 - 2026-10-24: "Eğitim notları" eklendi (itiraz öncesi kontrol listesi, 28 satırlık eşdizim tablosu, çay hatası özeti).
 - 2026-10-24: "Eğitim notları (24 Eki 2026)" ve "Takip listesi" eklendi (TDK kesme/de-da/ki/şapka/büyük harf/üç nokta, kural 10 sayım testi, birebir çevrilince tuhaf duran ifadeler; A1 örnekleri paket v4'e göre yazıldı: "hazırlarım", "Geri gelirim.", iki noktanın kalkması, "çay koymak" notu).
+- 2026-11-04: Açıklama yazım kontrolü görevi eklendi.

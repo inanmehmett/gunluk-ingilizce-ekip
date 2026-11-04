@@ -34,6 +34,11 @@ Başka hesaplarla ortak içerik fırsatlarını bulur ve yönetir: Collab gönde
 - Instagram Yardım Merkezi, ortak gönderiler: https://help.instagram.com/iphone-app/5861247717337470
 - PetaPixel, özgünlük ve Collab: https://petapixel.com/2026/04/30/new-instagram-policies-target-reposted-content/
 
+## Aylık rapor (Kasım 2026)
+- Yapılan iş birliği: 0. Aday hesap: tarayıcı olmadığı için incelenmedi; canlı oturumda 5 aday (kriterler raporda).
+- Genel öneri taslağı raporlar/2026-11-04.md bölüm 9'da (onay: Reid · Tomris · Sal).
+
 ## Güncelleme günlüğü
 - 2026-10-24: El kitabı oluşturuldu.
 - 2026-10-24: Eğitim: Collab mekaniği, kimin paylaşacağı, ölçüm sınırı ve planı, özgünlük uyumu, ilk ve takip mesajı, şeffaflık eklendi.
+- 2026-11-04: Kasım iş birliği raporu.

@@ -43,6 +43,10 @@
 - [Jonah Berger – Wharton](https://faculty.wharton.upenn.edu/): paylaşma ve ağızdan ağıza yayılma araştırmaları
 - Hesabın yorumları (Seth Codin'in raporları): bulguları takipçinin kendi diliyle sınamak için
 
+## Haftalık not (4 Kas 2026)
+- "1 hata var" formatı: bulamayan izleyici için destek cümlesi zorunlu ("Bulamadıysan sorun değil, en sık yapılan hata bu").
+
 ## Güncelleme günlüğü
 - 2026-10-24: El kitabı oluşturuldu.
 - 2026-10-24: Eğitim notları (öz yeterlik, kaygı, keyif, istenen zorluk, paylaşma motivasyonları, etik sınırlar) ve takip listesi eklendi.
+- 2026-11-04: Haftalık not.
