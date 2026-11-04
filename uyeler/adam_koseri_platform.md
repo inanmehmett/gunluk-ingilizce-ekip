@@ -48,8 +48,13 @@ Instagram'ın dağıtım kurallarını ve resmi açıklamalarını takip eder, e
 - 9/10 tutarsızlığı çözüldü: takvim Aşama 1 = 10 (7R+3C).
 - Sağlık kontrolü (Kasım): en büyük gedik takvim ile gerçek yayın arasındaki fark; yeni rol önerilmedi.
 
+## Kuyruk düzeltmesi (4 Kas 2026)
+- 24 Eki'de yeniden eklenen carousel'ların eski kopyaları silinmediği için 1 ve 4 Kas'ta aynı anda iki carousel çıktı. Kopyalar taslağa alındı, üçü taşındı (ayrıntı: ortak/takvim.md). Kural: yeni carousel eklemeden önce aynı set kimliği kuyrukta aranır.
+- Metricool'dan 12:00'da çıkan reeller veride aynı saniyede iki kayıt olarak görünüyor (19, 21, 23, 24, 28 Eki). Deneme reeli çifti mi, çift yayın mı, Mehmet'e soruldu.
+
 ## Güncelleme günlüğü
 - 2026-10-23: El kitabı oluşturuldu.
 - 2026-10-23: Yayın takvimi ve ekip sağlık kontrolü görevleri eklendi. Haftalık sıklık kararı: Aşama 1 haftada 9 (6R+3C), koşullu Aşama 2 haftada 12 (hipotez).
 - 2026-10-24: Eğitim: resmi sinyaller, özgünlük 2026, Collab, deneme reelleri, Görüntüleme metriği, Your Algorithm; takvimdeki 9/10 tutarsızlığı not edildi.
 - 2026-11-04: İlk haftalık toplantı ve Kasım sağlık kontrolü; kuyruk eşleme görevi eklendi.
+- 2026-11-04: Performans toplantısı / kuyruk düzeltmesi notları.

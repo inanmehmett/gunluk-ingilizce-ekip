@@ -94,6 +94,11 @@ Her iki test de Mehmet'in onayı olmadan üretilmez. Önce saniye saniye tasarı
 7. [FFmpeg filtre dokümantasyonu](https://ffmpeg.org/ffmpeg-filters.html) (xfade, zoompan, scale)
 8. `ortak/rakipler.md` listesi (Mehmet doldurunca): döngü ve mikro hareket örnekleri, ilke çıkarılır, kopyalanmaz
 
+## Performans toplantısı (4 Kas 2026)
+- Yeni görev: Pazartesi otopsisinde izlenme devamı (3 sn+, ortalama izlenme ÷ süre, tutma grafiği). Süre bilinmeden ortalama izlenme yorumlanmaz.
+- Ders (8, korelasyon): 3 sn+ %40 altı → 20 bin tavanı. İlk kare kontrolü önce.
+
 ## Güncelleme günlüğü
 - 2026-10-24: El kitabı oluşturuldu.
 - 2026-10-24: "Eğitim notları" eklendi: kaynaklı araştırma, 10 mikro teknik, 2 imza hareket (Görünmez Dikiş, Şeftali Fırça) ve test planı, takip listesi. Hepsi Hipotez; hesapta henüz veri yok.
+- 2026-11-04: Performans toplantısı / kuyruk düzeltmesi notları.

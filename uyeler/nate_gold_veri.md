@@ -44,8 +44,18 @@ Her Pazartesi Metricool'dan haftalık rapor çıkarır; kazanan ve kaybeden form
 - Takip: kazanılan ~150/gün, kaybedilen ~120/gün; haftalık net +238. Kayıp kalıcı bir gider; temel çizgide "günde ~100 gidiyor" notu ~120'ye güncellendi.
 - Metricool'da takipçi olmayan oranı, link tıklaması ve reel başına takip yok; Mehmet'ten haftalık içgörü ekran görüntüsü istenir.
 
+## Performans toplantısı (4 Kas 2026)
+- **Ders (8 veri noktası, korelasyon):** 3 sn+ oranı %40 altı reellerin hiçbiri 20 bini geçmedi. Teşhis: önce ilk kare.
+- **Ders (6 veri noktası):** Aynı içerik/format kısa arayla tekrarlanınca düşüyor (A2 paragraf 430→28,6→16,2→18,2→10,2 bin; B1 30 kelime 17,3→9,6 bin; "Sonuncusunu yaz" 60,9→9,3 bin). Not: ortalamaya dönüş de etkili.
+- Hipotez (2/2): Duyuru/tanıtım reelleri en düşük 3 sn oranı (%14, %26,6).
+- Hipotez (6): Paragraflar uzun izleniyor ama az gönderiliyor (%0,15–0,35).
+- Hipotez (4): 12:00 reelleri medyan ~24,7 bin, akşamlar ~15 bin; karışık.
+- Kazanan listelerin eşiği: gönderme ~%0,8, kaydetme ~%4–5. Son listeler %0,2–0,37 / %1,5–2,9.
+- Metricool'da süre (IGRE26), tutma (IGRE27) ve repost (IGRE29) bu hesap için boş; içgörü ekran görüntüsü gerekli.
+
 ## Güncelleme günlüğü
 - 2026-10-23: El kitabı oluşturuldu.
 - 2026-10-24: Eski kazananları yeniden kullanma görevi eklendi.
 - 2026-10-24: Eğitim: erişim/görüntüleme farkı, aynı yaşta karşılaştırma, medyan, ortalamaya dönüş, 4–5 nokta kuralının olasılık mantığı eklendi.
 - 2026-11-04: İlk haftalık rapor; hipotezler eklendi.
+- 2026-11-04: Performans toplantısı / kuyruk düzeltmesi notları.

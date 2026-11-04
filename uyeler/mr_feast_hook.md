@@ -61,8 +61,14 @@ Yayın öncesi sorular (biri "evet"se hook geri döner):
 - Hipotez (1 veri noktası): "Bu metinde 1 hata var" çağrısı yorumu artırıyor (31 Eki: 33 yorum, haftanın en yükseği); gönderme oranı ise medyanın altında (%0,27).
 - Seri hook'unda sayı ("X kişi anladı") yalnızca Seth'in saydığı gerçek sayıyla kullanılır.
 
+## Performans toplantısı (4 Kas 2026)
+- Hipotez (2/2): Duyuru/uygulama dili ilk karede izleyiciyi kaybettiriyor; uygulama yalnızca açıklamada ve son karede.
+- "Sonuncusunu sen yaz" (9 Eki, 60,9 bin) izleyiciye görev veren hook ailesi; "1 hata var" aynı aileden. Tekrar için en az 2 hafta ara.
+- Gönderme çağrısı ilk karede değil, son karede + açıklamanın ilk satırında (Daniel ile uzlaşı).
+
 ## Güncelleme günlüğü
 - 2026-10-23: El kitabı oluşturuldu.
 - 2026-10-24: Hook anketi yasaklandı; seviye testi Bölüm 1 hook'u: "Bunu sözlüksüz anlıyorsan A1'i geçtin".
 - 2026-10-24: Eğitim notları (sinyaller, orijinallik, etkileşim yemi, merak boşluğu, clickbait), dürüst hook kontrol listesi ve takip listesi eklendi.
 - 2026-11-04: Haftalık not.
+- 2026-11-04: Performans toplantısı / kuyruk düzeltmesi notları.
