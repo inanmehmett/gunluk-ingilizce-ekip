@@ -37,7 +37,7 @@ SETS = {
  ('Not really.', 'Pek sayılmaz.'), ('I see your point.', 'Demek istediğini anladım.'), ('Totally.', 'Kesinlikle.'), ('No doubt.', 'Şüphesiz.')]),
 'K10': (K, 'Acelen\nvarken\n8 ifade', '8 ifade', 'Hep geç kalan arkadaşına gönder.', [
  ('I’m in a hurry.', 'Acelem var.'), ('Hurry up.', 'Acele et.'), ('I’m running late.', 'Geç kalıyorum.'), ('I’ve got to go.', 'Gitmem lazım.'),
- ('Make it quick.', 'Çabuk ol.'), ('I don’t have time.', 'Vaktim yok.'), ('I’m on my way.', 'Yoldayım.'), ('Be right back.', 'Hemen dönüyorum.')]),
+ ('Make it quick.', 'Çabuk hallet.'), ('I don’t have time.', 'Vaktim yok.'), ('I’m on my way.', 'Yoldayım.'), ('There’s no time to lose.', 'Kaybedecek vakit yok.')]),
 'K11': (K, 'Emin\nolmadığında\n8 ifade', '8 ifade', 'Kararsız kaldığında hangisini söylersin?', [
  ('Maybe.', 'Belki.'), ('I guess so.', 'Sanırım öyle.'), ('We’ll see.', 'Bakarız.'), ('Kind of.', 'Biraz, sayılır.'),
  ('Could be.', 'Olabilir.'), ('I doubt it.', 'Sanmam.'), ('Hard to say.', 'Söylemesi zor.'), ('Let me think.', 'Bir düşüneyim.')]),
@@ -78,12 +78,12 @@ SETS = {
 'D04': (D, *deme('You’re welcome'), 'Hangisini ilk kez duydun?', [
  ('No problem.', 'Sorun değil.'), ('My pleasure.', 'Benim için zevkti.'), ('Anytime.', 'Her zaman.'), ('Don’t mention it.', 'Rica ederim.'),
  ('No big deal.', 'Hiç sorun değil.'), ('Happy to help.', 'Memnuniyetle.'), ('It’s nothing.', 'Bir şey değil.'), ('No worries.', 'Önemli değil.')]),
-'D05': (D, *deme('I’m sorry'), 'En son kimden özür diledin?', [
- ('I apologize.', 'Özür dilerim.'), ('Sorry about that.', 'Kusura bakma.'), ('It was my fault.', 'Benim suçumdu.'), ('I’m so sorry.', 'Çok özür dilerim.'),
+'D05': (D, '“I’m sorry”\ndışında\n8 özür cümlesi', '“I’m sorry”', 'En son kimden özür diledin?', [
+ ('I apologize.', 'Özür dilerim.'), ('Sorry about that.', 'Kusura bakma.'), ('It was my fault.', 'Benim suçumdu.'), ('I owe you an apology.', 'Sana bir özür borçluyum.'),
  ('I didn’t mean to.', 'İsteyerek yapmadım.'), ('Sorry, my mistake.', 'Pardon, benim hatam.'), ('I feel terrible.', 'Çok kötü hissediyorum.'), ('It won’t happen again.', 'Bir daha olmayacak.')]),
-'D06': (D, *deme('I’m tired'), 'Bugün hangisisin?', [
- ('I’m beat.', 'Çok yorgunum.'), ('I’m drained.', 'Tükendim.'), ('I’m wiped out.', 'Bitkin düştüm.'), ('I’m sleepy.', 'Uykum var.'),
- ('I’m dead tired.', 'Yorgunluktan ölüyorum.'), ('I’m running on empty.', 'Enerjim kalmadı.'), ('I need some rest.', 'Dinlenmem lazım.'), ('I can barely stand.', 'Ayakta zor duruyorum.')]),
+'D06': (D, '“I’m tired”\ndışında\n8 yorgunluk cümlesi', '“I’m tired”', 'Bugün hangisisin?', [
+ ('I’m beat.', 'Çok yorgunum.'), ('I’m drained.', 'Tükendim.'), ('I’m wiped out.', 'Bitkin düştüm.'), ('I’m fried.', 'Kafam durdu.'),
+ ('I’m knackered.', 'Turşu gibiyim.'), ('I’m running on empty.', 'Enerjim kalmadı.'), ('I need some rest.', 'Dinlenmem lazım.'), ('I can barely stand.', 'Ayakta zor duruyorum.')]),
 'D07': (D, *deme('Yes'), 'Sen “yes” yerine ne diyorsun?', [
  ('Sure.', 'Tabii.'), ('Of course.', 'Elbette.'), ('Absolutely.', 'Kesinlikle.'), ('Definitely.', 'Hiç şüphesiz.'),
  ('Why not?', 'Neden olmasın?'), ('Sure thing.', 'Tabii ki.'), ('I’d love to.', 'Çok isterim.'), ('Yeah, sure.', 'Evet, tabii.')]),
@@ -111,7 +111,7 @@ SETS = {
  ('go through', '(zor bir şey) yaşamak'), ('go over', 'gözden geçirmek'), ('go off', '(alarm) çalmak'), ('go ahead', 'buyur, devam et')]),
 'P05': (P, *pv('LOOK'), 'LOOK ile bildiğin başka hangisi var?', [
  ('look for', 'aramak'), ('look after', 'bakmak, ilgilenmek'), ('look up', '(sözlükten) bakmak'), ('look forward to', 'dört gözle beklemek'),
- ('look out', 'dikkat etmek'), ('look into', 'araştırmak'), ('look back', 'geriye bakmak'), ('look like', 'benzemek')]),
+ ('look out', 'dikkat etmek'), ('look into', 'araştırmak'), ('look back', 'geçmişe dönüp bakmak'), ('look around', 'etrafa bakınmak')]),
 'P06': (P, *pv('COME'), 'COME ile bildiğin başka hangisi var?', [
  ('come in', 'içeri girmek'), ('come back', 'geri gelmek'), ('come on', 'hadi'), ('come over', 'uğramak'),
  ('come up with', '(fikir) bulmak'), ('come across', 'rastlamak'), ('come out', 'çıkmak, yayınlanmak'), ('come along', 'birlikte gelmek')]),
@@ -135,8 +135,8 @@ SETS = {
  ('People are nice.', 'People is'), ('I didn’t go.', 'I didn’t went'), ('She has a car.', 'She have'), ('I’m good at math.', 'Good in math'),
  ('Let’s discuss it.', 'Discuss about it'), ('I enjoy reading.', 'I enjoy to read'), ('Explain it to me.', 'Explain me'), ('Thanks for coming.', 'Thanks for come')])),
 'H03': (H, 'Kelime seçiminde\nyapılan\n8 hata', '8 hata', 'En çok hangisini karıştırıyorsun?', hata([
- ('Tell me.', 'Say me'), ('I had fun.', 'I had funny'), ('Lend me a pen.', 'Borrow me a pen'), ('I earn money.', 'I win money'),
- ('Do your homework.', 'Make your homework'), ('I made a mistake.', 'I did a mistake'), ('Remind me later.', 'Remember me later'), ('I’m listening to music.', 'I’m hearing music')])),
+ ('Tell me.', 'Say me'), ('I had fun.', 'I had funny'), ('Lend me a pen.', 'Borrow me a pen'), ('I speak English.', 'I talk English'),
+ ('Do your homework.', 'Make your homework'), ('I made a mistake.', 'I did a mistake'), ('Remind me later.', 'Remember me later'), ('Take a photo.', 'Pull a photo')])),
 'H04': (H, 'in, on, at:\n8 sık hata', '8 sık hata', 'in, on, at seni de yoruyor mu?', hata([
  ('I’m on the bus.', 'In the bus'), ('See you on Monday.', 'In Monday'), ('At night.', 'In the night'), ('I’m at home.', 'In home'),
  ('I’m interested in it.', 'Interested about'), ('On the phone.', 'In the phone'), ('I’m afraid of dogs.', 'Afraid from'), ('Welcome to Istanbul.', 'Welcome in')])),
@@ -151,8 +151,8 @@ SETS = {
  ('When I arrive.', 'When I will arrive'), ('I used to play.', 'I use to play'), ('I was born in May.', 'I born in May'), ('I have to go.', 'I must to go')])),
 # ---------------- TEMALI KELİMELER ----------------
 'T01': (T, 'Havalimanında\nlazım olacak\n8 kelime', '8 kelime', 'Yakında seyahate çıkan birine gönder.', [
- ('boarding pass', 'biniş kartı'), ('gate', 'kapı'), ('carry-on', 'el bagajı'), ('delay', 'rötar'),
- ('layover', 'aktarma beklemesi'), ('customs', 'gümrük'), ('aisle seat', 'koridor koltuğu'), ('baggage claim', 'bagaj teslim')]),
+ ('boarding pass', 'biniş kartı'), ('gate', 'biniş kapısı'), ('carry-on', 'el bagajı'), ('delay', 'rötar'),
+ ('layover', 'aktarma beklemesi'), ('customs', 'gümrük'), ('aisle seat', 'koridor koltuğu'), ('baggage claim', 'bagaj teslim alma')]),
 'T02': (T, 'Restoranda\nlazım olacak\n8 kelime', '8 kelime', 'Yurt dışında ilk ne sipariş ederdin?', [
  ('bill', 'hesap'), ('tip', 'bahşiş'), ('starter', 'başlangıç'), ('main course', 'ana yemek'),
  ('dessert', 'tatlı'), ('reservation', 'rezervasyon'), ('takeaway', 'paket servis'), ('waiter', 'garson')]),

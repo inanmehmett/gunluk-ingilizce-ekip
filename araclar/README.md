@@ -26,5 +26,8 @@ Seviye merdiveni overlay'i (A1→B2 şeridi + emoji'li hook).
 `data.py` tüm set metinlerini tutar (tek doğru kaynak). `build_sel.py KOD KOD` sadece seçilen setleri yeniden üretir.
 Görseller `gunluk-ingilizce-carousel` (public) reposuna kopyalanır; Metricool raw.githubusercontent.com linkiyle çeker.
 
+## carousel/duzelt_overlay.py (4 Kas)
+`build.py` repoda olmayan `gen.py`'ye bağlı; set baştan üretilemiyor. Tek kart düzeltmesi: `slide(kaynak.jpg, en, tr, cikti.jpg)` / kapak: `cover(...)`. Metin bandını siler, aynı yerleşimle yeniden yazar (Poppins; SemiBold `fonts/` içinde). Görsel `gunluk-ingilizce-carousel` reposuna push edilir, Metricool raw linkten çeker.
+
 ## Kaynak klipler
 `/mnt/user-data/uploads/` – oturumla birlikte gider, Mehmet yeniden ekler. Kullanım günlüğü: `ortak/takvim.md`.

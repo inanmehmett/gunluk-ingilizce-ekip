@@ -86,3 +86,50 @@ Ayrıca 4 Kas 10:00'da D04 ile D03 aynı anda çıktı. Arşivleme kararı Mehme
 
 Sürüm satırı: **v1 inceleme · David ✅ · Tomris ✅ · Jony ✅ · Mr. Feast ✅ · Daniel ✅ · Charlie ✅ · Sal ✅ – yalnızca inceleme, düzeltme yok.**
 Kurala göre açık ENGEL'i olan set son kapıdan geçmez. Ancak Mehmet düzeltme istemediği için Metricool'daki planlar **olduğu gibi duruyor**; ilk ENGEL'li set 10 Kas'ta yayınlanacak.
+
+---
+
+# 2. tur: düzeltmeler (Mehmet: "ekip düzeltme istiyorsa düzeltsin", 4 Kas)
+
+## Önce bir düzeltme: 18 Kas seti D02 değil, K09
+1. turda 18 Kas'taki seti D02 sandık. Açıklamadaki soru iki sette de aynı ("Sen en çok hangisini kullanıyorsun?"). `data.py` planına göre D02 **19 Ekim'de zaten yayınlandı** (15.778 erişim, 44 takip); 18 Kas'taki set **K09 (Katılırken ve katılmazken)**. D02 bulguları geçersiz. K09 incelendi: David ✅ · Tomris ✅. Yalnızca açıklama sorusu D02 ile aynı olduğu için açıklama yenilendi.
+
+## "Demeyi bırak" kararı (Sal Kaan)
+Mehmet kararı ekibe bıraktı. Sal'ın kararı: dürüstlük ENGEL'i "isteğe bağlı" sayılamaz. D05 ve D06 kapağı **"“X” dışında 8 … cümlesi"** oldu. "X" hook'u kapakta kalıyor; doğru bir ifadeyi yanlış gibi gösteren "demeyi bırak" kalkıyor. Açıklama "“X” her zaman doğru; ama…" ile açılıyor (D03 emsali).
+**Mr. Feast'in itirazı kayıtta:** "Kapağın gerilimi azaldı; D01 40 bin aldı." **Ölçüm:** D05 ve D06'nın erişim, kaydetme ve takip sayısı, D01, D03 ve D04 ile karşılaştırılacak (hipotez).
+
+## Yapılan değişiklikler (görsel + Metricool)
+| Set | Tarih | Değişiklik |
+|---|---|---|
+| H03 | 10 Kas | 4/8: "I speak English. / “I talk English” değil" (eski: earn/win). 8/8: "Take a photo. / “Pull a photo” değil" (eski: hearing music). Açıklama tam liste + açıklamalar |
+| D05 | 12 Kas | Kapak: "“I’m sorry” dışında 8 özür cümlesi". 4/8: "I owe you an apology. / Sana bir özür borçluyum." (eski: I'm so sorry) |
+| K10 | 14 Kas | 5/8 Türkçe: "Çabuk hallet." 8/8: "There’s no time to lose. / Kaybedecek vakit yok." (eski: Be right back) |
+| K09 | 18 Kas | Yalnızca açıklama (soru D02'den ayrıldı, liste + not eklendi) |
+| P05 | 23 Kas | 7/8 Türkçe: "geçmişe dönüp bakmak". 8/8: "look around / etrafa bakınmak" (eski: look like) |
+| T01 | 25 Kas | 2/8: "biniş kapısı". 8/8: "bagaj teslim alma" |
+| K11 | 29 Kas | Yalnızca açıklama |
+| D06 | 30 Kas | Kapak: "“I’m tired” dışında 8 yorgunluk cümlesi". 4/8: "I’m fried. / Kafam durdu." (eski: I'm sleepy). 5/8: "I’m knackered. / Turşu gibiyim." (eski: I'm dead tired) |
+- Tüm 8 setin açıklaması 24 Ekim standardına çekildi: tam liste, gerektiğinde not, kapanış kartıyla **aynı** soru, gönderme sebebi, "Link profilde".
+- Görseller `gunluk-ingilizce-carousel` reposunda güncellendi (commit 528b7be); Metricool görselleri bu repodan yeniden çekti. Kapanış kartı olarak `10b.jpg` (`data.py`'deki LAST metni) kullanıldı.
+- `data.py` güncellendi. Not: `build.py` repoda olmayan `gen.py`'yi çağırıyor, yani set baştan üretilemiyor. Düzeltmeler mevcut görselin metin alanı silinip aynı yerleşim kurallarıyla yeniden yazılarak yapıldı (`araclar/carousel/duzelt_overlay.py`). Değişmeyen bir kartı bu yolla yeniden çizip orijinalle karşılaştırdık: ortalama piksel farkı 0,7, yani yalnızca JPEG kaydetme kaybı.
+
+## Görsel kontrol (Jony + Sal, telefon boyutunda)
+- **1. deneme ENGEL (Jony):** Silme alanı kartın alt kenarını ve gölgesini taşıyordu; kartın altında beyaz bir dikdörtgen görünüyordu. Alan daraltılıp yeniden üretildi. Değişiklik artık yalnızca metin bandında (y 616–937 px). Jony ONAY.
+- **D06 kapağı (Jony · ÖNERİ):** "8 yorgunluk cümlesi" uzun olduğu için kapak yazısı D05'ten küçük kaldı. Okunuyor, kabul edildi.
+- 1/l/I, Türkçe karakterler (ş, ğ, ı, İ) ve tırnaklar kontrol edildi; sorun yok.
+- **Sürüm:** v2 · David ✅ · Tomris ✅ · Jony ✅ · Daniel ✅ · Mr. Feast ⚠️ (kapak itirazı kayıtta) · Charlie ✅ · Sal ✅
+
+## Görsel editörlerin carousel incelemesi ve viral önerileri
+**Veri (Metricool, carousel):** 7 Eki D01 "I don't know demeyi bırak" 47.558 erişim, 2.013 kaydetme, 691 paylaşım, 383 takip · 11 Eki K02 29.649 erişim, 271 takip · sonraki 13 carousel 4–16 bin erişim, 0–44 takip. Son iki carousel 5,8 ve 4,8 bin.
+
+| # | Öneri (kim) | Neden | Etiket |
+|---|---|---|---|
+| V1 | **Kapakta gerilim, ama dürüst** (Mr. Feast): İzleyicinin "ben bunu yanlış mı biliyorum?" diye durduğu kapaklar. Örneğin "Bunu söylerken %90'ımız aynı hatayı yapıyor" gibi kanıtsız iddialar değil; "Hangisi doğru: A mı B mi?" sorusu. | En iyi iki carousel'ın ikisi de kapakta bir soru/çatışma taşıyordu | Hipotez (2) |
+| V2 | **Quiz carousel** (Mr. Feast + Daniel): Kapak "Doğrusu hangisi?", her kartta A/B, cevap bir sonraki kartta. Kaydırma sebebi verir; "görev veren" aile (9 Eki reel 60,9 bin, "1 hata var"). | Kaydırma ve yorum ("kaçını bildin?") | Öneri, 2 set denenir |
+| V3 | **Son kartta "hepsi bir arada" özet** (Jony): 8 ifadenin tek kartta listesi. Ekran görüntüsü alınır, kaydedilir. | Kaydetme, en güçlü carousel sinyali | Öneri, A/B denenir |
+| V4 | **Şablon yorgunluğu** (Jony): 20+ carousel aynı turuncu kart, aynı ikon. Izgarada hepsi aynı görünüyor. "Aynı görünüm" dersi (6 veri noktası) carousel'a da uyabilir. Öneri: seri başına farklı zemin tonu (K şeftali, D krem-mavi, P yeşil, H kırmızı vurgu), aynı yazı ailesi. | Carousel erişimi 47 bin → 5 bin | Hipotez |
+| V5 | **Örnek cümle kartı** (David): Her ifadenin altında küçük, gerçek bir örnek ("I'm running late — start without me!"). | Kalıp + bağlam = kaydetme sebebi | Öneri |
+| V6 | **2. kart da kapak gibi çalışsın** (Mr. Feast): Üçüncü taraf kaynaklara göre Instagram, ilk görselde etkileşmeyen kişiye carousel'ı bazen 2. görselden gösterebiliyor ([ccstartup](https://ccstartup.com/blog/2024/10/21/why-instagram-carousels-sometimes-start-on-the-second-slide/)). Resmi açıklama bulunamadı. Öneri: 1/8 kartı en güçlü ifade olsun. | Ucuz değişiklik | Doğrulanmamış iddia |
+| V7 | **Carousel'a müzik** (Gary): Instagram uygulamasında carousel'a müzik eklenebiliyor; Metricool API'si bunu gönderilere eklemiyor. Etki verisi yok. | — | Test, Mehmet'in elle eklemesi gerekir |
+
+**Charlie:** "V4 en pahalısı ve kanıtı en zayıf olanı. Önce V2 ve V3 denensin; ucuz ve ölçülebilir." **Sal:** Sıra V2 → V3 → V6 → V5; V4 iki haftalık veri sonrasına.
