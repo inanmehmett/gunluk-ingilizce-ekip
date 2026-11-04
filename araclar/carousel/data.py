@@ -136,7 +136,7 @@ SETS = {
  ('Let’s discuss it.', 'Discuss about it'), ('I enjoy reading.', 'I enjoy to read'), ('Explain it to me.', 'Explain me'), ('Thanks for coming.', 'Thanks for come')])),
 'H03': (H, 'Kelime seçiminde\nyapılan\n8 hata', '8 hata', 'En çok hangisini karıştırıyorsun?', hata([
  ('Tell me.', 'Say me'), ('I had fun.', 'I had funny'), ('Lend me a pen.', 'Borrow me a pen'), ('I speak English.', 'I talk English'),
- ('Do your homework.', 'Make your homework'), ('I made a mistake.', 'I did a mistake'), ('Remind me later.', 'Remember me later'), ('Take a photo.', 'Pull a photo')])),
+ ('Do your homework.', 'Make your homework'), ('I made a mistake.', 'I did a mistake'), ('Remind me later.', 'Remember me later'), ('Make a decision.', 'Give a decision')])),
 'H04': (H, 'in, on, at:\n8 sık hata', '8 sık hata', 'in, on, at seni de yoruyor mu?', hata([
  ('I’m on the bus.', 'In the bus'), ('See you on Monday.', 'In Monday'), ('At night.', 'In the night'), ('I’m at home.', 'In home'),
  ('I’m interested in it.', 'Interested about'), ('On the phone.', 'In the phone'), ('I’m afraid of dogs.', 'Afraid from'), ('Welcome to Istanbul.', 'Welcome in')])),

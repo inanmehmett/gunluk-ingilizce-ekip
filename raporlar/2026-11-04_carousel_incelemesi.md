@@ -133,3 +133,18 @@ Mehmet kararı ekibe bıraktı. Sal'ın kararı: dürüstlük ENGEL'i "isteğe b
 | V7 | **Carousel'a müzik** (Gary): Instagram uygulamasında carousel'a müzik eklenebiliyor; Metricool API'si bunu gönderilere eklemiyor. Etki verisi yok. | — | Test, Mehmet'in elle eklemesi gerekir |
 
 **Charlie:** "V4 en pahalısı ve kanıtı en zayıf olanı. Önce V2 ve V3 denensin; ucuz ve ölçülebilir." **Sal:** Sıra V2 → V3 → V6 → V5; V4 iki haftalık veri sonrasına.
+
+## 3. tur: H03 gerçekçilik kontrolü (Mehmet: "Türkçede yapılan hatalar kısmı gerçekçi mi?")
+David + Tomris, her kartı "bir Türk öğrenci bunu gerçekten söyler mi?" diye tekrar inceledi:
+| Hata | Gerçekçi mi? | Not |
+|---|---|---|
+| Say me | ✅ Yüksek | "Söyle bana" birebir çevirisi |
+| I had funny | ✅ Orta-yüksek | fun/funny karışması; Türklere özgü değil, yaygın |
+| Borrow me a pen | ✅ Yüksek | Türkçede tek kelime: "ödünç" |
+| I talk English | 🟡 Orta | speak/talk ikisi de "konuşmak"; ama çoğu öğrenci "speak English"i ezbere biliyor |
+| Make your homework | ✅ Yüksek | "yapmak" = make/do |
+| I did a mistake | ✅ Çok yüksek | "hata yapmak" |
+| Remember me later | ✅ Yüksek | hatırlamak/hatırlatmak karışması |
+| ~~Pull a photo~~ | ❌ Düşük | 2. turda biz ekledik. Gerçek bir hatadan çok bilinen bir şaka/caps; öğrenciler genelde "take a photo"yu bilir. **ENGEL (David): kanıtsız "sık hata" iddiası.** |
+→ 8/8 kartı **"Make a decision. / “Give a decision” değil"** ile değiştirildi ("karar vermek" birebir çevirisi; Türk öğrencilerde çok yaygın). Görsel, açıklama, `data.py` ve Metricool güncellendi. Ders (Charlie, `mehmet_yakaladi.md` adayı #12): **Düzeltme turunda eklenen yeni öğe de aynı gerçekçilik kontrolünden geçer.**
+Not: Bu sınıflandırma ekibin dil sezgisine dayanıyor; Türk öğrencilerin hata sıklığına dair kaynaklı bir veri kullanılmadı.
