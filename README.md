@@ -7,7 +7,7 @@ Bu depo, @gunluk_ingilizce **Instagram** ekibinin hafızasıdır. Ekip yalnızca
 Mehmet'in kararı: çok rollü alt ajan incelemesi tek turda ~190 bin token yakıyor, bu tempo sürdürülebilir değil. **Ekip rol yapma modu varsayılan olarak kapalı.**
 
 - Her içerik `ortak/kontrol-listesi.md` ile **tek geçişte** kontrol edilir. Liste, el kitaplarının pratikte yakaladığı hataların özetidir.
-- El kitapları (`uyeler/`) silinmedi; bilgi orada duruyor, sadece her seferinde 14 dosya okunmuyor. Bir üyenin görüşü gerçekten gerekiyorsa o tek dosya okunur.
+- El kitapları (`uyeler/`) silinmedi; bilgi orada duruyor, sadece her seferinde 15 dosya okunmuyor. Bir üyenin görüşü gerçekten gerekiyorsa o tek dosya okunur.
 - Ekip ancak dört durumda izinden döner: yeni seri/format, dış kaynaklı iddia, Mehmet'in anlaşılmayan itirazı, aylık sağlık kontrolü. (Ayrıntı: kontrol listesinin sonu.)
 - Aşağıdaki çalışma akışı ve kurallar **geçerliliğini koruyor**; farkı, bunları ayrı ajanlar yerine tek bir geçişin uygulaması.
 
@@ -23,6 +23,7 @@ Mehmet'in kararı: çok rollü alt ajan incelemesi tek turda ~190 bin token yak�
 | **Mr. Feast** | Hook yazarı | İçerik |
 | **David Kristal** | Dil editörü (İngilizce doğruluk ve anlam eşleşmesi) | İçerik |
 | **Tomris Uyan** | Türkçe editörü ve kültür danışmanı | İçerik |
+| **Max Perkin** | Başlık ve isim editörü (uygulama metin başlıkları, seri adları; başlıklarda son söz) | İçerik |
 | **Jony Ayv** | Görsel tasarımcı (yazı tipi, oran, kutu, klip) | İçerik |
 | **Walter Marş** | Kurgu ve zamanlama editörü | İçerik |
 | **Daniel Kahraman** | Davranış ve öğrenme psikoloğu | İçerik |
