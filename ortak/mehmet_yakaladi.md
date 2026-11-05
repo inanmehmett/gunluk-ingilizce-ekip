@@ -15,5 +15,7 @@ Charlie Hunger her paketi göndermeden önce bu listeyle kontrol eder. Adam Kose
 | 9 | 24 Eki | "Seviye testi" seri adı aynı abartıyı taşıdı | Seri adları da incelenir |
 | 10 | 24 Eki | Merdiven (6 basamak) izleyiciye anlatılmadı | Seri kurgusu ekranda ve açıklamada görünür |
 | 11 | 24 Eki | "Kahve" paragrafında Türkçe son cümle çeviri koktu | Kültürde hazır karşılık (atasözü) aranır |
+| 12 | 4 Kas | H03 düzeltme turunda eklenen "Pull a photo" gerçekçi bir hata değildi | Düzeltme turunda eklenen içerik de aynı gerçekçilik kontrolünden geçer |
+| 13 | 5 Kas | DailyEnglish başlık incelemesinde başlıklar yalnız özete bakılarak "yanlış" ilan edildi (ör. Tunguska "Night" — özet "sabah" diyor ama olaydan sonraki aydınlık geceler metnin konusu olabilir) | Özet başlığın tek ölçütü değil. Başlık metindeki bir sahneye, temaya ya da mecaza dayanabilir. Tam metin okunmadan "yanlış" denmez; "metinle teyit" denir. Yalnız başlığın kendi dışarıdan doğrulanabilir iddiası (ör. "Never Bombed") metinden bağımsız yanlış sayılabilir |
 
 Not: "A1"in "Al" gibi okunmasını Sal Kaan yakaladı (Mehmet'e ulaşmadan) — ekip içi yakalama sayılır.
