@@ -18,6 +18,20 @@ SLOW=0.75 PUSH=0.04 python3 render_v3.py spec.json /mnt/user-data/uploads/IMG_XX
 - Rakamlar `lnum`+`tnum` ile çiziliyor (yoksa "A1" → "Al" okunuyor).
 - Dosya 30 MB'ı aşarsa crf 24 ile yeniden kodla.
 
+## Ekran alanı (Reels, 1080x1920) — 6 Kas 2026, Mehmet'in isteği
+Instagram arayüzü videonun üstüne biner. Resmî Meta ölçüsü yayımlanmadı; aşağıdakiler üç bağımsız rehberin ortak, temkinli değeridir (Hopper HQ, Postfast, TryMyPost, 2026).
+| Bölge | Piksel (y) | Ne olur | Kural |
+|---|---|---|---|
+| Üst | 0–270 | "Reels" başlığı, kamera simgesi | Metin yok |
+| **Güvenli bant** | **270–1200** | Hiçbir şey binmez | Hook, metin, Türkçe etiket burada |
+| Yarı güvenli | 1200–1500 | Açıklama uzayınca ve ses satırı buraya çıkabilir | Kritik metin yok |
+| Alt | 1500–1920 | Kullanıcı adı, açıklama, ses | Metin yok |
+| Sağ sütun | x>910, y 1000–1750 | Beğeni, yorum, gönder, kaydet | Metin girmez |
+| Yanlar | x<65, x>1015 | Telefon kenarı, kırpma | Kutu taşmaz |
+| Profil ızgarası | 240–1680 (3:4 orta kırpma) | Ilk kare kapak olur | Hook bu bandın içinde ve okunur |
+`render_v3.py` grubu güvenli bandın ortasına koyar (çerçevenin değil), sığmazsa ya da kutu 950 px'ten genişse durur, sağ sütuna giren satırı uyarır. Bant değiştirmek gerekirse spec'e `safe_top` / `safe_bottom` yazılır.
+Sığmıyorsa sıra: satırı kısalt → punto 42→40 → pad küçült; bandı genişletme.
+
 ## reels/ladder.py
 Seviye merdiveni overlay'i (A1→B2 şeridi + emoji'li hook).
 `python3 ladder.py <basamak> <klip> <baslangic> <sure> cikti.mp4`

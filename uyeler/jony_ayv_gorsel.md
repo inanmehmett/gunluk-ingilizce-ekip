@@ -39,3 +39,7 @@ Yalnızca görsel tasarım: yazı tipi (Literata), yazı boyutları, oranlar, ku
 - 2026-10-23: El kitabı oluşturuldu.
 - 2026-10-24: Görev netleşti; kurgu/zamanlama Walter Marş'a devredildi.
 - 2026-10-24: Eğitim: kontrast ölçümü, güvenli alan, kapak kırpması, satır uzunluğu, 1/l/I testi, serif okunurluğu, klip havuzu hesabı eklendi.
+
+## Ders (6 Kas 2026, Mehmet'in isteği): Reels ekran alanı
+Metin grubu y 270–1200 bandında; üst 270 ve alt 720 px'e metin konmaz; sağda y>1000'de x>910'a metin girmez; kutular 950 px'i geçmez. İlk kare profil ızgarasında 3:4 (y 240–1680) kırpılır, hook bu bantta kalır. 6 Kas'a kadarki reellerde grup çerçevenin ortasındaydı (y ~550–1375): son satırlar ve "Türkçesi açıklamada" etiketi açıklama ve buton bölgesine giriyordu. Kural `render_v3.py`'ye işlendi; ayrıntı `araclar/README.md` "Ekran alanı".
+

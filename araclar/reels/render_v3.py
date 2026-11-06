@@ -37,7 +37,16 @@ for b in spec['blocks']:
 if spec.get('equal_width'):                       # all boxes as wide as the widest one
     mw = max(x[5] for x in laid); laid = [x[:5] + (mw,) + x[6:] for x in laid]
 total = sum(x[6] for x in laid) + sum(x[0].get('after', 14) for x in laid[:-1])
-y = round((H - total) / 2)                       # equal space above and below the whole group
+# Ekran alanı (Reels arayüzü, 1080x1920). Ayrıntı: araclar/README.md "Ekran alanı".
+SAFE_TOP = int(spec.get('safe_top', 270))         # üst: Reels başlığı / kamera simgesi
+SAFE_BOTTOM = int(spec.get('safe_bottom', 1200))  # alt: açıklama, kullanıcı adı, ses; sağda beğeni/yorum/gönder sütunu
+SAFE_X = (65, W - 65)                             # yanlar: %6
+RAIL_TOP, RAIL_X = 1000, W - 170                  # sağ buton sütunu: y>1000 bölgesinde metin x<910'da biter
+assert total <= SAFE_BOTTOM - SAFE_TOP, f'grup güvenli alana sığmıyor: {total:.0f} > {SAFE_BOTTOM - SAFE_TOP}'
+y = round(SAFE_TOP + (SAFE_BOTTOM - SAFE_TOP - total) / 2)   # grup güvenli bandın ortasında (çerçevenin değil)
+for x_ in laid:
+    assert x_[5] <= SAFE_X[1] - SAFE_X[0], f'kutu yan güvenli alanı aşıyor: {x_[5]:.0f} > {SAFE_X[1] - SAFE_X[0]}'
+
 im = Image.new('RGBA', (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
 for b, f, widths, step, ink_top, bw, bh, padx, pady in laid:
     x = round((W - bw) / 2)
@@ -51,6 +60,8 @@ for b, f, widths, step, ink_top, bw, bh, padx, pady in laid:
         tx = x + (bw - lw) / 2 if b.get('align', 'center') == 'center' else x + padx
         if b.get('mask') and ' – ' in l: l = l.split(' – ')[0]   # reveal later: draw word only, box keeps full size
         d.text((tx, base + i * step), l, font=f, fill=hexc(b.get('ink', '#1c1c1c')), anchor='ls', features=['lnum','tnum'])
+        if base + i * step > RAIL_TOP and tx + lw > RAIL_X:   # sağdaki beğeni/yorum/gönder sütunu
+            print(f'UYARI: "{l[:30]}…" satırı sağ buton sütununa giriyor (y {base + i * step:.0f}, sağ uç {tx + lw:.0f} > {RAIL_X})')
     y += bh + b.get('after', 14)
 im.save('/home/claude/reels/tmp_overlay3.png')
 import os
@@ -66,4 +77,5 @@ subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-ss', str(start), '-t', s
                 '-c:v', 'libx264', '-preset', 'slow', '-crf', '19', '-profile:v', 'high', '-pix_fmt', 'yuv420p',
                 '-colorspace', 'bt709', '-color_primaries', 'bt709', '-color_trc', 'bt709', '-an', '-movflags', '+faststart', out], check=True)
 if prev: subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-ss', '0.1', '-i', out, '-frames:v', '1', prev], check=True)
-print(out, 'group top', round((H - total) / 2), 'group bottom', round((H - total) / 2) + total)
+gt = round(SAFE_TOP + (SAFE_BOTTOM - SAFE_TOP - total) / 2)
+print(out, 'group top', gt, 'group bottom', gt + total, f'(güvenli bant {SAFE_TOP}-{SAFE_BOTTOM})')
