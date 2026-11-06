@@ -51,7 +51,7 @@ Sıra: R, R, C döngüsü kesintisiz. Her gün 19:30 reel; Çar/Cum/Paz 10:00 ca
 | Çar 4 | 19:30 | Reels | Çay demlemek, İngilizcede (R04) – teslim edildi |
 | Per 5 | 19:30 | Reels | Cümleyi küçült (R05) – **klip bekleniyor** |
 | Cum 6 | 10:00 | Carousel | GO ile 8 phrasal verb (P04) – Metricool ✓ |
-| Cum 6 | 19:30 | Reels | "Arkadaşından mesaj geldi" (R06) – **klip bekleniyor** |
+| Cum 6 | 19:30 | Reels | "Arkadaşından mesaj geldi" konusu, yeni A2 paragrafı ("Are you free tonight?") – klip IMG_6393, teslim edildi. Sabahki P04 carousel ızgara bozulduğu için Mehmet tarafından arşivlendi; reelden sonra lansman carousel'i planlanıyor |
 | Cmt 7 | 19:30 | Reels | Türkçede "almak", İngilizcede 6 fiil (R07) – teslim edildi |
 | Paz 8 | 10:00 | Carousel | Sevinince 8 ifade (K07) – Metricool ✓ |
 | Paz 8 | 19:30 | Reels | "Beş dakika daha" A2 paragrafı (R08) – teslim edildi |
@@ -100,5 +100,6 @@ Klip: Öneri 1–4 için son 3 haftada kullanılmamış 4 klip gerekiyor (Jony).
 | IMG_1528 | 4 Kas | Çay demlemek (R04) |
 | IMG_5314 (kumsal) | 7 Kas | "Almak" 6 fiil (R07) |
 | IMG_5624 | 8 Kas | Beş dakika daha (R08) |
+| IMG_6393 (göl, tekneler, sonbahar yaprakları) | 6 Kas | "Are you free tonight?" A2 paragrafı |
 
 Kural: aynı klip 3 hafta içinde tekrar kullanılmaz. Klip açığı (24 Eki, Nate/Jony): Aşama 2'de 3 haftalık rotasyon için en az 24 klip gerekir; Mehmet'ten istenen sayı 12–15'ten 20+'ya çıkarıldı. En az 15 sn, sakin, dikey klipler gerekiyor; Mehmet'ten 12–15 yeni klip istendi (sonbahar, yağmurlu cam, kahve, akşam ışıkları).

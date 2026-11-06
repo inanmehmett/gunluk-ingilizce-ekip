@@ -1,0 +1,54 @@
+{
+ "equal_width": true,
+ "blocks": [
+  {
+   "box": "#ffffff",
+   "ink": "#1c1c1c",
+   "size": 50,
+   "wght": 560,
+   "align": "center",
+   "lines": [
+    "Bu metni sözlüksüz",
+    "anlayabiliyor musun?"
+   ],
+   "after": 18,
+   "pad": [
+    40,
+    26
+   ]
+  },
+  {
+   "box": "#ffffff",
+   "ink": "#1c1c1c",
+   "size": 42,
+   "align": "left",
+   "lines": [
+    "My phone buzzed at seven.",
+    "It was my friend: “Are you free tonight?”",
+    "I looked at my sofa, my blanket and my tea.",
+    "I typed “Sorry, I’m busy” and then deleted it.",
+    "In the end, I put on my coat and went out.",
+    "We laughed until midnight.",
+    "I didn’t think about my sofa once."
+   ],
+   "after": 18,
+   "pad": [
+    40,
+    28
+   ]
+  },
+  {
+   "box": "#1c1c1c",
+   "ink": "#ffffff",
+   "size": 34,
+   "align": "center",
+   "lines": [
+    "Türkçesi açıklamada · A2"
+   ],
+   "pad": [
+    30,
+    18
+   ]
+  }
+ ]
+}
