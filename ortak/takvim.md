@@ -51,7 +51,7 @@ Sıra: R, R, C döngüsü kesintisiz. Her gün 19:30 reel; Çar/Cum/Paz 10:00 ca
 | Çar 4 | 19:30 | Reels | Çay demlemek, İngilizcede (R04) – teslim edildi |
 | Per 5 | 19:30 | Reels | Cümleyi küçült (R05) – **klip bekleniyor** |
 | Cum 6 | 10:00 | Carousel | GO ile 8 phrasal verb (P04) – Metricool ✓ |
-| Cum 6 | 19:30 | Reels | "Arkadaşından mesaj geldi" konusu, yeni A2 paragrafı ("Are you free tonight?") – klip IMG_6393, v3 (196 karakter) teslim edildi. Sabahki P04 carousel ızgara bozulduğu için Mehmet tarafından arşivlendi; reelden sonra lansman carousel'i planlanıyor |
+| Cum 6 | 19:30 | Reels | "Arkadaşından mesaj geldi" konusu, yeni A2 paragrafı ("Are you free tonight?") – klip IMG_6393, v3 (196 karakter) teslim edildi. Sabahki P04 carousel ızgara bozulduğu için Mehmet tarafından arşivlendi; reelden sonra lansman carousel'i L01 "İki Bardak Çay" (A2) Metricool'de 21:00 otomatik paylaşıma planlandı |
 | Cmt 7 | 19:30 | Reels | Türkçede "almak", İngilizcede 6 fiil (R07) – teslim edildi |
 | Paz 8 | 10:00 | Carousel | Sevinince 8 ifade (K07) – Metricool ✓ |
 | Paz 8 | 19:30 | Reels | "Beş dakika daha" A2 paragrafı (R08) – teslim edildi |
