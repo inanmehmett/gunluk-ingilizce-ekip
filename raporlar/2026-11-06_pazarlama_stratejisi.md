@@ -43,3 +43,11 @@
 ## Mehmet'e sorular
 1. Sayısal hedef: belirli bir tarihe kadar hedeflediğin indirme/abone sayısı var mı, yoksa ekip bir öneri mi sunsun?
 2. PMF anketini mevcut kullanıcılara nasıl ulaştıralım — in-app bir ekran mı, email mi, yoksa başka bir kanal mı tercih edersin?
+
+---
+
+## Güncelleme (6 Kas 2026, aynı gün): Madde 3 çözüldü — sayısal hedef belirlendi
+
+Mehmet "ekip öneri sunsun" dedi. Play Console ve App Store Connect'ten gerçek taban veri çekildi (varsayım değil): toplam ~137 indirme (iOS 77 + Android 60), 1 ödeyen abone, ~$3 gelir, Android MAU 23. Bu tabana göre 4 haftalık mütevazı bir checkpoint önerildi (ayrıntı: `ortak/hedef.md`) — büyük bir büyüme sayısı değil, çünkü PMF henüz ölçülmedi. Nassim Talip'in itirazıyla bu sayılar "hedef" değil "checkpoint" olarak etiketlendi, 2-3 hafta sonra gerçek trende göre revize edilecek.
+
+**Kalan açık madde: PMF anketi (Sean Ellis) ve kaynak etiketi standardı hâlâ uygulanmadı.**
