@@ -13,7 +13,12 @@
 - Yeni "reklam içeriği" üretmeye gerek yok — zaten kanıtlanmış organik formatı reklamlaştırmak öneriliyor. Kaynak: reklamın organik içerikle aynı tonda, "stüdyo prodüksiyonu değil gerçek insan" hissi vermesi öneriliyor — bu, senin mevcut tercihinle ("reklam üslubunu kullanma, samimi kalsın") zaten örtüşüyor.
 - **Harcamadan önce test:** Meta'nın "Trial Reels" özelliğiyle içerik takipçi olmayan kitleye önce ücretsiz gösterilir, 24 saat sonra en iyi performans gösteren seçilir, bütçe onun arkasına konur. Nate Gold'un zaten elinde olan "kazanan format" verisiyle bu adım hızlanır.
 - **Kampanya amacı netleştirilmeli:** Meta Ads'te "uygulama indirme" ile "takipçi/etkileşim" aynı kampanyada aynı anda optimize edilemez. **Öneri:** reklam bütçesi "uygulama indirme" amacına ayrılsın (ölçülebilir ROI); hesabın kendi büyümesi organik + iş birlikleri (Reid Hoffmann) ile zaten ücretsiz devam ediyor. İkisini aynı reklamda istemek ölçümü bulanıklaştırır.
-- **Bütçe:** Para harcama kararı — ekip bir sayı dayatmaz, ama küçük bir pilot önerir: 1 haftalık test bütçesi, sonucu (kaynak etiketi + Play Referrer ile) ölçüp büyüt/durdur. Pilot tutarını Mehmet belirler.
+- **Bütçe ve amaç — Mehmet'in sorusuna cevap (6 Kas, aynı gün):**
+  **Amaç:** "Uygulama indirme" (app install) kampanya hedefi — yukarıdaki netleştirmenin gereği, takipçi büyümesiyle karıştırılmaz.
+  **Bütçe mantığı (kaynak: [VizUp, Meta Ads 2026 bütçe rehberi](https://www.tryvizup.com/blog/meta-ads-minimum-budget-requirements-2026)):** Meta'nın öğrenme aşamasından (learning phase) çıkması için bir reklam setinin haftada ~50 "optimizasyon olayı" (burada: kurulum) toplaması gerekiyor — bundan azı istatistiksel olarak güvenilmez kalır. Formül: (hedef CPI × 50) ÷ 7 = günlük bütçe.
+  **Sorun:** Türkiye pazarında bu uygulama için gerçek CPI (kurulum başına maliyet) hiç ölçülmedi — reklam hiç verilmedi. Varsayımla kesin bir TL rakamı vermek "veri varken varsayımla konuşma" kuralını çiğner.
+  **Öneri — ölç, sonra ölçekle:** İlk 2-3 gün düşük bir günlük bütçeyle (**~250-500 TL/gün**, ~$7-14 karşılığı — ABD/küresel düşük-CPI senaryolarına göre kaba bir başlangıç noktası) başlanır, gerçek CPI gözlenir, sonra 50 kurulum/hafta eşiğine göre bütçe yukarı/aşağı ayarlanır. **1 haftalık pilot toplam aralığı: ~1.750-3.500 TL (~$50-100).** Bu bir "hedef" değil, ölçüm yapılana kadarki başlangıç noktası — ilk gerçek veri geldiğinde revize edilir.
+  **Sıralama notu:** Nassim Talip'in itirazı (aşağıda) kabul edildi — bu pilot, Android kaynak etiketi (Play Referrer) çalışır hale gelmeden başlatılmayacak; yoksa reklamın gerçekten kurulum getirip getirmediği ölçülemez.
 
 ### 2. ASO — App Store / Play Store optimizasyonu
 
@@ -26,7 +31,7 @@
 - Anahtar kelime seçimi kullanıcı niyetine göre (yalnızca yüksek hacimli değil) — İngilizce öğrenme, günlük okuma gibi terimler araştırılmalı.
 - Ekran görüntülerinde ilk karede USP net olsun ("göz atma testi": tek bakışta mesaj anlaşılmalı). Karanlık mod ekran görüntüleri genelde daha iyi dönüşüyor (makalenin kendi uzmanının gözlemi, sayı verilmemiş — dikkatli kullanılmalı).
 - Ölçüm: gösterim→sayfa görüntüleme ve sayfa görüntüleme→indirme oranları ayrı ayrı haftalık izlenmeli (App Store Connect zaten bunu veriyor).
-- **Not:** Native "değerlendirme iste" (rate us) API'si onboarding'e yeni ekran eklemez — sistemin kendi native diyaloğu. Yine de bunu eklemek senin "onboardinge dokunma" talimatına girer mi girmez mi net değil; **ekip bunu varsaymadan sana soruyor** (aşağıda).
+- **Değerlendirme (rating) isteği — Mehmet'in cevabına göre çözüldü (6 Kas):** Mehmet'in haklı noktası — kullanıcı uygulamayı daha görmeden değerlendirme istemek anlamsız. **Karar: rating prompt'u onboarding'de DEĞİL, bir aktivasyon anından sonra gösterilir** (ör. ilk dersi bitirince, ya da 2-3 gün üst üste açılış sonrası — Kent Bekçi/Don Normal bu anı netleştirir). Bu, "onboardinge dokunma" kuralını hiç ihlal etmiyor çünkü onboarding'in dışında, kullanım sonrası bir native sistem diyaloğu.
 
 ### 3. Tutma (retention)
 
@@ -42,14 +47,21 @@ Yeni madde yok — zaten bilinen açık maddeler burada öncelik kazanıyor, ç�
 **Nassim Talip'in uyarısı:** 3 kullanıcılık bir örneklemden "dönüşüm oranı" çıkarmak anlamsız — bu bir gözlem bile değil, gürültü. **Öncelik sırası önemli:** önce hacim (reklam+ASO ile indirme artışı), sonra yeterli örneklem birikince dönüşüm optimizasyonu. Şimdi fiyatlandırma/paywall değişikliğine efor harcamak erken.
 
 ## İtirazlar
-- **Nassim Talip:** Dört ayağı aynı anda açmak, hiçbirinin sonucunu net görmeyi zorlaştırır (hangi değişiklik neyi etkiledi?). **Öneri:** ASO (ücretsiz, hemen yapılabilir) ve tutma (zaten açık madde) ile başla; reklam bütçesini kaynak etiketi (Android) çalışır hale geldikten sonra aç — yoksa reklamın gerçekten indirme getirip getirmediğini göremezsin.
+- **Nassim Talip:** Dört ayağı aynı anda açmak, hiçbirinin sonucunu net görmeyi zorlaştırır (hangi değişiklik neyi etkiledi?). **Öneri (Mehmet'in kararı, 6 Kas: KABUL):** ASO (ücretsiz, hemen yapılabilir) ve tutma (zaten açık madde) ile başla; reklam pilotu, kaynak etiketi (Android Play Referrer) çalışır hale geldikten sonra açılır.
 - **Reid Hoffmann (Instagram ekibi, iş birliği sorumlusu):** Reklam dışında, ücretsiz bir büyüme kanalı da var — iş birlikleri/collab. Bu plana eklenmedi, ayrıca değerlendirilebilir.
 
-## Mehmet'e sorular
-1. Reklam pilotu için bir test bütçesi (ör. haftalık X TL) belirler misin, yoksa ekip bir aralık mı önersin?
-2. Native "değerlendirme iste" (App Store/Play'in kendi rating prompt'u) onboarding'e dokunmama kuralına giriyor mu, yoksa bu ayrı mı sayılır?
-3. Nassim Talip'in sırası (önce ASO+tutma, reklamı kaynak etiketinden sonra) uygun mu, yoksa dördünü paralel mi başlatalım?
+## Karar günlüğü (6 Kas 2026, aynı gün)
+1. **Reklam amacı ve pilot bütçesi çözüldü** — amaç "uygulama indirme", başlangıç ~250-500 TL/gün, 1 haftalık pilot ~1.750-3.500 TL, gerçek CPI ölçüldükten sonra revize edilecek. Ayrıntı: madde 1.
+2. **Rating prompt zamanlaması çözüldü** — onboarding'de değil, aktivasyon sonrası (ayrıntı: madde 2).
+3. **Sıralama kabul edildi** — ASO + tutma önce, reklam pilotu kaynak etiketinden (Android) sonra.
+
+## Sıra (güncel, 6 Kas kararlarıyla)
+1. Kaynak etiketi — Android Play Install Referrer kurulumu (bkz. `raporlar/2026-11-06_kaynak_etiketi_spesifikasyonu.md`).
+2. ASO — başlık/alt başlık/anahtar kelime kontrolü (Sean Büyüt), ücretsiz ve hemen başlanabilir.
+3. Tutma — push_opened ölçümü + akşam bildirim kodu derleme/test.
+4. Reklam pilotu — yalnızca 1 tamamlandıktan sonra, ~1.750-3.500 TL/hafta ile başlar.
 
 ## Kaynaklar
 - [AppTweak — App Store Conversion Rate](https://www.apptweak.com/en/aso-blog/app-store-conversion-rate?format=md)
 - [SmartSites — Instagram Reels Ads Best Practices 2026](https://www.smartsites.com/blog/best-practices-for-high-performing-instagram-reels-ads-in-2026/)
+- [VizUp — Meta Ads Minimum Budget Requirements 2026](https://www.tryvizup.com/blog/meta-ads-minimum-budget-requirements-2026)
