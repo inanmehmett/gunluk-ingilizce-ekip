@@ -1,0 +1,54 @@
+{
+ "equal_width": true,
+ "blocks": [
+  {
+   "box": "#ffffff",
+   "ink": "#1c1c1c",
+   "size": 50,
+   "wght": 560,
+   "align": "center",
+   "lines": [
+    "Bu metni sözlüksüz",
+    "anlayabiliyor musun?"
+   ],
+   "after": 18,
+   "pad": [
+    34,
+    24
+   ]
+  },
+  {
+   "box": "#ffffff",
+   "ink": "#1c1c1c",
+   "size": 44,
+   "align": "left",
+   "lines": [
+    "I had been looking forward to",
+    "a quiet night in when my phone lit up:",
+    "my friend wanted to go out.",
+    "I almost talked myself out of it,",
+    "but I reluctantly grabbed my coat.",
+    "It turned out to be",
+    "the best night I’d had in months."
+   ],
+   "after": 18,
+   "pad": [
+    38,
+    28
+   ]
+  },
+  {
+   "box": "#1c1c1c",
+   "ink": "#ffffff",
+   "size": 34,
+   "align": "center",
+   "lines": [
+    "Türkçesi açıklamada · B2"
+   ],
+   "pad": [
+    30,
+    18
+   ]
+  }
+ ]
+}
