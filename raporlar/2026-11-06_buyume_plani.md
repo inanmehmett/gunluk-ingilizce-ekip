@@ -1,13 +1,20 @@
-# Büyüme planı: IG reklam + ASO + tutma + premium dönüşüm
+# Büyüme planı: organik IG + ASO + tutma + premium dönüşüm (reklam şimdilik yok)
 
 **Tarih:** 6 Kasım 2026 · **Hazırlayan:** Steve İşler + Sean Büyüt + Nate Gümüş (Daily English), Adam Koseri + Reid Hoffmann görüşü (Instagram)
 **Sebep:** Mehmet'in isteği — elde hazır 142K'lık bir kitle var; modern reklam, IG hesabının kendisinin de büyümesi, ASO, tutma ve premium dönüşümü tek plana bağlamak.
 
 ## Dört ayak
 
-### 1. IG büyüme — reklam + hesabın kendisinin büyümesi
+### 1. IG büyüme — yalnızca organik (Mehmet'in kararı, 6 Kas: reklam yok)
 
-**Mevcut durum:** 142K+ takipçi, kazanan içerik formatı kanıtlı (paragraf+kalıp+çeviri), organik büyüme devam ediyor. Reklam hiç kullanılmadı.
+**Karar:** Mehmet reklamı şimdilik tamamen kapsam dışı bıraktı — yalnızca mevcut IG hesabı (142K+ takipçi) üzerinden organik ilerlenecek. **Ekibin değerlendirmesi: bu, zaten sıralamayla tutarlı, mantıklı bir karar** — reklam zaten kaynak etiketi + PMF olmadan "sıra 4" idi; şimdi tamamen çıkarmak ek bir kayıp yaratmıyor, çünkü ölçüm altyapısı hazır olmadan harcanacak her TL zaten riskliydi.
+
+**Bunun anlamı:**
+- Reklam bütçesi/CPI tartışması (aşağıda arşiv olarak duruyor) **şimdilik uygulanmayacak**. İleride (ölçüm + PMF + tutma oturduktan sonra) yeniden gündeme gelebilir, referans olarak saklanıyor.
+- Büyüme tamamen üç yola kalıyor: (a) organik IG içeriği — zaten kazanan formatla devam ediyor, değişiklik yok; (b) iş birlikleri/collab (Reid Hoffmann) — ücretsiz, hesabın kendi büyümesini de besliyor; (c) ASO — aşağıda, ücretsiz ve App Store'un kendi arama trafiğini büyütüyor.
+- **Risk (Nassim Talip):** 142K takipçiye rağmen toplam indirme hâlâ düşük (~137) — bunun nedeni büyük ölçüde zayıf lansman formatıydı (bkz. `raporlar/2026-11-06_lansman_incelemesi.md`), reklamsızlık değil. Yani organik + doğru format + ASO ile büyüme hâlâ gerçekçi; sadece daha yavaş olacak, hızlandırma (reklam) aracı şimdilik masada değil.
+
+**Mevcut durum (arşiv — reklam değerlendirmesi, uygulanmıyor):** 142K+ takipçi, kazanan içerik formatı kanıtlı (paragraf+kalıp+çeviri), organik büyüme devam ediyor. Reklam hiç kullanılmadı.
 
 **Reklam önerisi (kaynak: [SmartSites, 2026 Reels reklam rehberi](https://www.smartsites.com/blog/best-practices-for-high-performing-instagram-reels-ads-in-2026/)):**
 - Yeni "reklam içeriği" üretmeye gerek yok — zaten kanıtlanmış organik formatı reklamlaştırmak öneriliyor. Kaynak: reklamın organik içerikle aynı tonda, "stüdyo prodüksiyonu değil gerçek insan" hissi vermesi öneriliyor — bu, senin mevcut tercihinle ("reklam üslubunu kullanma, samimi kalsın") zaten örtüşüyor.
@@ -55,11 +62,12 @@ Yeni madde yok — zaten bilinen açık maddeler burada öncelik kazanıyor, ç�
 2. **Rating prompt zamanlaması çözüldü** — onboarding'de değil, aktivasyon sonrası (ayrıntı: madde 2).
 3. **Sıralama kabul edildi** — ASO + tutma önce, reklam pilotu kaynak etiketinden (Android) sonra.
 
-## Sıra (güncel, 6 Kas kararlarıyla)
-1. Kaynak etiketi — Android Play Install Referrer kurulumu (bkz. `raporlar/2026-11-06_kaynak_etiketi_spesifikasyonu.md`).
-2. ASO — başlık/alt başlık/anahtar kelime kontrolü (Sean Büyüt), ücretsiz ve hemen başlanabilir.
-3. Tutma — push_opened ölçümü + akşam bildirim kodu derleme/test.
-4. Reklam pilotu — yalnızca 1 tamamlandıktan sonra, ~1.750-3.500 TL/hafta ile başlar.
+## Sıra (güncel, 6 Kas kararlarıyla — reklam kapsam dışı)
+1. ASO — başlık/alt başlık/anahtar kelime kontrolü (Sean Büyüt), ücretsiz ve hemen başlanabilir.
+2. Tutma — push_opened ölçümü + akşam bildirim kodu derleme/test.
+3. Kaynak etiketi — Android Play Install Referrer kurulumu (bkz. `raporlar/2026-11-06_kaynak_etiketi_spesifikasyonu.md`) — aciliyeti düştü (reklam olmadığı için), ama iOS/Android ayrımında veri kalitesi için hâlâ değerli.
+4. Organik IG + iş birlikleri (Reid Hoffmann) — devam eden, zaten çalışan kanal.
+5. ~~Reklam pilotu~~ — kapsam dışı, referans olarak madde 1'de arşivlendi.
 
 ## Kaynaklar
 - [AppTweak — App Store Conversion Rate](https://www.apptweak.com/en/aso-blog/app-store-conversion-rate?format=md)
