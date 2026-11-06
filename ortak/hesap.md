@@ -5,7 +5,7 @@ Türkçe konuşan yetişkinler, 25–44 yaş, ~%57 kadın, ~%75 Türkiye. İngil
 
 ## Kimlik
 - Konsept: okuyarak İngilizce. "Sözlüksüz anlayabiliyor musun?"
-- Yüz yok; sakin doğa/şehir klibi üstünde Literata serif yazı, düz beyaz ve şeftali (#F9D7AE) kutular, eşit genişlik, grup ekranın tam ortasında.
+- Yüz yok; sakin doğa/şehir klibi üstünde Literata serif yazı, düz beyaz ve şeftali (#F9D7AE) kutular, eşit genişlik, grup Reels güvenli bandının (y 270–1200) ortasında; 6 Kas'a kadar çerçevenin tam ortasındaydı (bkz. araclar/README.md "Ekran alanı").
 - Müzik Instagram'da eklenir. Sıralı/animasyonlu belirme kullanılmaz (TIME reeli %74 ilk 3 sn'de geçildi); tek istisna ilk karede zaten görünen bir kelimenin "oturması".
 - Reklam üslubu yok: uygulamanın varlığını göstermek yeter.
 
