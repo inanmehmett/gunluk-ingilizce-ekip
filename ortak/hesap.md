@@ -38,3 +38,10 @@ Türkçe konuşan yetişkinler, 25–44 yaş, ~%57 kadın, ~%75 Türkiye. İngil
 - Aynı format en az 4–7 gün arayla, farklı görünüm ve hook ile.
 - Izgara: 2 reels + 1 carousel döngüsü.
 - Okuma bittiği anda döngü başlasın (paragraflarda ~9 sn).
+
+## Paragraf reeli ölçüsü (Mehmet'in kararı, 6 Kas 2026)
+- Uzunluk: "Last weekend I wanted to relax" (15 Eki, 388 bin erişim) ölçüsünde, ~200 karakter / ~40 kelime. +10–20 karakter esneklik; 220'yi geçmez.
+- Birkaç (4–6) kalıp: izleyicinin hemen anlayacağı, günlük konuşmada işe yarayan.
+- Tam olarak **bir** bilinmeyen kelime; açıklamada "Yeni kelime:" diye ayrı verilir. Diğer kelimeler seviyenin içinde kalır (David kontrol eder).
+- Süre: ~40 kelime için 15 sn.
+

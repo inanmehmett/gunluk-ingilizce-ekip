@@ -20,21 +20,20 @@
   {
    "box": "#ffffff",
    "ink": "#1c1c1c",
-   "size": 40,
+   "size": 44,
    "align": "left",
    "lines": [
-    "My phone buzzed at seven.",
-    "It was my friend: “Are you free tonight?”",
-    "I looked at my sofa, my blanket and my tea.",
-    "I typed “Sorry, I’m busy” and then deleted it.",
+    "My phone buzzed at seven:",
+    "“Are you free tonight?”",
+    "I looked at my sofa, my book and my tea.",
+    "I typed “Sorry, I’m busy” and deleted it.",
     "In the end, I put on my coat and went out.",
-    "We laughed until midnight.",
-    "I didn’t think about my sofa once."
+    "Best night in weeks."
    ],
    "after": 18,
    "pad": [
-    34,
-    26
+    38,
+    28
    ]
   },
   {
