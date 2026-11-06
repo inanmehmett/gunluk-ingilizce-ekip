@@ -8,38 +8,35 @@ Instagram ekibi yalnızca **profil linki tıklamasını** raporluyor (Metricool)
 - **Android:** Google Play, linke eklenen `referrer` parametresini native olarak destekliyor — ek bir servis gerekmiyor.
 - **iOS:** App Store, indirme sonrası uygulamaya kampanya parametresi taşımıyor (Apple Arama Reklamları hariç — organik Instagram trafiği için işe yaramaz). Üçüncü parti bir attribution servisi (Branch/AppsFlyer/Adjust) kurmadan teknik olarak güvenilir bir eşleştirme yok.
 
-## 2. Önerilen çözüm — iki katmanlı, düşük maliyetli
+## 2. Önerilen çözüm — güncellendi (6 Kas 2026, aynı gün)
 
-### A) Birincil katman (her iki platform, self-report): Onboarding'de "Bizi nereden duydun?"
-Hesap açma/ilk kullanım akışına tek bir soru eklenir:
-> "Daily English'i nereden duydun?" — seçenekler: **Instagram (@gunluk_ingilizce)** · Arkadaş tavsiyesi · App Store/Play Store arama · Diğer
+**Mehmet'in talimatı: onboarding akışına hiçbir şey eklenmeyecek.** Aşağıdaki "A katmanı" (self-report sorusu) bu yüzden geri çekildi. Geriye yalnızca onboarding'e dokunmayan, native/arka plan mekanizmalar kalıyor:
 
-**Neden bu:** Üçüncü parti attribution servisi kurmadan (maliyet + entegrasyon işi) her iki platformda da çalışan tek standart bu. Kesin değil ama yeterli sinyal — kullanıcı kendi hatırladığını söylüyor.
-**Kabul kriteri:** Cevap backend'de kullanıcı kaydına bir alan olarak tutulur (`acquisition_source`), Nate Gümüş'ün haftalık raporunda "kaynağa göre indirme/aktivasyon/abonelik" kırılımı olarak görünür.
-
-### B) İkincil katman (yalnızca Android, doğrulama amaçlı): Play Install Referrer
+### Android: Play Install Referrer (tek katman, ekrana dokunmaz)
 Google Play, mağaza linkine `&referrer=utm_source%3Dinstagram%26utm_medium%3D<tür>%26utm_content%3D<içerik_id>` eklenmesine izin veriyor; Play Store bunu ilk açılışta uygulamaya native olarak iletiyor (Play Install Referrer API). Instagram ekibi paylaştığı her linke (bio, story, post) bu parametreyi ekler:
 - `utm_medium`: `bio` | `story` | `post_reel` | `post_carousel`
 - `utm_content`: paylaşılan içeriğin tarihi/kısa kodu (ör. `20261106_lansman`)
 
-**Neden bu:** Android'de A katmanının (self-report) doğruluğunu çapraz kontrol eder — "Instagram dedi" diyen kullanıcı oranı ile gerçek referrer verisi karşılaştırılır. Ek bir servis/SDK gerekmez, yalnızca link formatı ve backend'de bir alanı okuyup kaydetmek yeterli.
-**iOS'ta bu katman yok** — Apple böyle bir mekanizma sunmuyor; A katmanı iOS'ta tek kaynak olarak kalır.
+**Neden bu:** Hiçbir UI eklemez, native Play Store mekanizması. Yalnızca link formatı ve backend'de bir alanı okuyup kaydetmek yeterli.
+
+### iOS: açık boşluk, çözümsüz kaldı
+Apple, indirme sonrası uygulamaya kampanya parametresi taşımıyor (Arama Reklamları hariç, organik Instagram trafiği için işe yaramaz). Onboarding'e soru eklenemeyeceğine göre, iOS'ta **şu an ekstra efor/maliyetsiz bir çözüm yok.** İki seçenek var, ikisi de bu raporun kapsamı dışında bırakıldı: (1) üçüncü parti attribution servisi (Branch/AppsFlyer) — maliyetli, bu ölçekte orantısız; (2) native "rate us"/anket API'si dışında bir native prompt yok. **Sonuç: iOS'ta kaynak ölçümü, Android'deki Play Referrer kadar güvenilir olamayacak — bu bilinen, kabul edilen bir boşluk, çözülmedi.**
 
 ## 3. Instagram ekibinin yapması gereken değişiklik
 Adam Koseri / Nate Gold: Paylaşılan her link (profil, story, carousel) yukarıdaki `utm_medium`/`utm_content` formatında olmalı. Bu, Instagram ekibinin içerik kararına karışmıyor — yalnızca link formatı standardı.
 
 ## 4. Nate Gümüş'ün haftalık rapor değişikliği
-Mevcut huni (`ortak/hedef.md`) artık şu kırılımla raporlanır: her huni adımı (indirme, aktivasyon, abonelik) kaynağa göre (`Instagram` / `Diğer` / Android için ek olarak `utm_medium` kırılımı) ayrılır. Bu, pazarlama stratejisinin işe yarayıp yaramadığının **tek doğrulama yolu**.
+Mevcut huni (`ortak/hedef.md`) artık Android için `utm_medium` kırılımıyla raporlanır. iOS tarafında kaynak kırılımı yapılamıyor — iOS indirmeleri "kaynağı bilinmiyor" olarak kalır.
 
 ## 5. Kapsam dışı (bilerek)
 Üçüncü parti attribution servisi (Branch/AppsFlyer) şimdilik önerilmiyor — bu ölçekte (haftalık onlarca indirme) maliyeti/entegrasyon eforu kazancını geçer. Ölçek büyürse (aylık 1000+ indirme) yeniden değerlendirilir.
 
 ## İtirazlar
-- **Nassim Talip:** Self-report (A katmanı) hafızaya dayanıyor, kullanıcı yanlış hatırlayabilir veya "Diğer"i seçebilir — bu "kesin veri" değil, "en iyi elimizdeki sinyal". Rapor bunu "Ders" değil her zaman "gözlem" olarak sunmalı, küçük örneklemde özellikle. **Kabul edildi**, madde 2'deki "kabul kriteri" buna göre yazıldı — kırılım raporlanır ama kesinlik iddia edilmez.
 - **Charlie Hunger (Instagram ekibi):** Instagram ekibine link formatı değişikliği yük bindiriyor — her paylaşımda doğru `utm_medium` girilmesi unutulabilir. **Öneri:** Adam Koseri, `ortak/takvim.md`'ye link şablonunu sabit bir sütun olarak ekler, elle hatırlamaya bırakmaz.
+- **Nassim Talip:** iOS'ta hiçbir ölçüm yokken "kaynak etiketi standardı kuruldu" demek yanıltıcı olur — rapor bunun yalnızca Android'i kapsadığını, iOS'un açık kaldığını her yerde açıkça yazmalı. **Kabul edildi.**
 
 ## Mehmet'e / editöre giden iş tanımı (özet)
-1. Onboarding'e tek soruluk "nereden duydun" ekranı — cevap `acquisition_source` alanında saklanır.
-2. Android: Play Install Referrer API'den gelen `referrer` string'i ilk açılışta okunup backend'e gönderilir.
-3. Backend: kullanıcı kaydına bu iki alan eklenir; haftalık rapor sorgusu kaynağa göre kırılım döner.
-4. Instagram ekibi: paylaştığı linklere `utm_medium`/`utm_content` formatını uygular (yalnızca Android mağaza linkinde anlamlı; iOS linkinde formatın bir etkisi yok ama tutarlılık için aynı şekilde yazılabilir).
+1. Android: Play Install Referrer API'den gelen `referrer` string'i ilk açılışta okunup backend'e gönderilir. (Onboarding'e dokunulmaz.)
+2. Backend: bu alan kullanıcı kaydına eklenir; haftalık rapor sorgusu Android için kaynağa göre kırılım döner.
+3. Instagram ekibi: paylaştığı linklere `utm_medium`/`utm_content` formatını uygular (yalnızca Android mağaza linkinde anlamlı).
+4. iOS kaynak ölçümü: çözülmedi, açık madde olarak kalıyor.
