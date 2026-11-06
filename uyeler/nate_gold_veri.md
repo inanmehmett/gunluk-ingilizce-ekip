@@ -29,6 +29,9 @@ Her Pazartesi Metricool'dan haftalık rapor çıkarır; kazanan ve kaybeden form
 - **Kitle ayrımı:** Takipçi olmayanlara erişim oranı ayrı izlenir. Gönderme sinyali en çok takipçi olmayanlar için önemli olduğundan, büyüme okumasının ana göstergesi budur. Kaynak: https://www.socialmediatoday.com/news/instagram-shares-algorithm-insights-2025/738034/
 - **Rapor dili:** Her bulguya veri noktası sayısı yazılır (ör. "Hipotez, 2/5"). Kesinlik iddiası ("kanıtlandı") yalnızca kuraldaki 4–5 nokta dolunca kullanılır.
 
+## Bulgu: duyuru formatı reel'leri (6 Kas 2026, 2. veri noktası)
+Lansman reeli (31 Eki, "Daily English artık yayında") gerçek Metricool verisiyle incelendi: reach 4.299, views 6.748, retention %13,8 — aynı dönem paragraf-reel'lerinin (reach 14-24K, retention %35-49) çok altında. Bu, 6 Ekim'deki ilk duyuru reelinin ("2 yıldır size söylemediğim bir şey var") de başına gelmişti. **Hipotez, 2/5:** saf duyuru/pazarlama formatı (öğretim içeriği olmayan, sadece "indir" diyen reel'ler), hesabın kazanan formatına göre sistemik olarak düşük performans gösteriyor. 4-5 nokta eşiğine henüz ulaşmadı — "ders" ilan edilmedi. Tam analiz: `raporlar/2026-11-06_lansman_incelemesi.md`.
+
 ## Takip listesi
 - Metricool Instagram metrik tanımları: https://help.metricool.com/en/article/instagram-metrics-12vpkyb/
 - SocialPilot, Görüntüleme metriği değişikliği: https://www.socialpilot.co/instagram-marketing/instagram-views-metrics-changes
@@ -59,3 +62,4 @@ Her Pazartesi Metricool'dan haftalık rapor çıkarır; kazanan ve kaybeden form
 - 2026-10-24: Eğitim: erişim/görüntüleme farkı, aynı yaşta karşılaştırma, medyan, ortalamaya dönüş, 4–5 nokta kuralının olasılık mantığı eklendi.
 - 2026-11-04: İlk haftalık rapor; hipotezler eklendi.
 - 2026-11-04: Performans toplantısı / kuyruk düzeltmesi notları.
+- 2026-11-06: Lansman reeli performans incelemesi (Metricool gerçek veri) eklendi.

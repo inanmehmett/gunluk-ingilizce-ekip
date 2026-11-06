@@ -28,3 +28,13 @@ Instagram ekibinin README'si: "Instagram ekibi uygulama tarafına yalnızca prof
 1. Mehmet'e sorulacak: lansman içeriği yayınlandı mı? (Steve İşler + Adam Koseri)
 2. Kaynak etiketi standardı kurulacak (Nate Gümüş ↔ Nate Gold) — teknik iş, henüz yapılmadı.
 3. push_opened ölçümü (Daily English ekibinin kendi önceliği, bu toplantıdan bağımsız, hâlâ en üstte).
+
+---
+
+## Güncelleme (6 Kas 2026, aynı gün): Madde 1 çözüldü
+
+Mehmet netleştirdi: **lansman reeli paylaşıldı, carousel paylaşılmadı.** Metricool'dan gerçek veri çekilip doğrulandı ve ekip (Nate Gold + Nate Gümüş) inceledi. Tam analiz: `raporlar/2026-11-06_lansman_incelemesi.md`.
+
+**Özet:** Lansman reeli (31 Eki, "Daily English artık yayında") aynı dönemin diğer reellerinin ~1/4'ü erişim, ~1/5'i izlenme ve çok daha düşük retention aldı — saf duyuru formatı, hesabın kazanan formatından (paragraf + kalıp + çeviri) uzaklaştığı için zayıf performans gösterdi. Bu, 6 Ekim'deki ilk duyuru reelinin de başına gelmişti (2. veri noktası — henüz "ders" eşiğinde değil, ama aynı yönde). Carousel'in paylaşılmamış olması muhtemelen ek bir kayıp değil.
+
+**Madde 1 artık kapalı.** Yeni öncelik: link tıklama → uygulama indirmesi zincirini ölçmek (madde 3, kaynak etiketi standardı).
