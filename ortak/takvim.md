@@ -73,6 +73,11 @@ Kural: seviye merdiveninin yanındaki reeller (Pzt 1 öncesi ve Sal 3) farklı k
 ## Aşama kararı (10 Kas kontrolü)
 **Aşama 2'ye geçilmedi.** Koşul 1 ✅ (medyan 11.253), koşul 2 🟡 (%0,28), koşul 3 🔴 (iki hafta üst üste 10 yerine 6 gönderi). Sıklık hipotezi için veri 0/4 hafta. Mehmet'e iki görüş: (A) Adam: Aşama 1 = 10 kalsın, envanterle doldurulsun; (B) Nate: 16–22 Kas için 5R+2C, şart "reelsiz gün en fazla 2". Aşağıdaki takvim (B)'ye göre; (A) için boş günler "boş" diye işaretli.
 
+## Mehmet'in kararı (11 Kas, canlı): önce reels
+- Izgara bozulmasın diye bazı carousel'ları Mehmet arşive aldı; reeller yeniden düzene girince geri alınabilir. **Kural:** carousel yalnızca önünde 2 reel çıktıysa yayınlanır; reel aksarsa sıradaki carousel bekletilir (taslak/arşiv), reel beklemez.
+- Asıl sorun reellerin aksaması. Öncelik sırası: reel > ızgara düzeni > carousel sayısı.
+- Klip uygunluğu bu oturumda dosyadan kontrol edilemedi (klipler oturumda yok). Günlüğe göre: yayınlanmayan reellerde kullanılan IMG_3200, 3175, 3171, 3161, 1528, 5314, 5624 izleyiciye hiç çıkmadı; o reeller rafa kalkarsa bu klipler serbest. IMG_6157 ve IMG_1565 11 Kas itibarıyla 3 haftayı doldurdu.
+
 ## 11–15 Kasım (haftanın kalanı, envanterden) – **Mehmet onayı bekliyor**
 Amaç: ızgarayı düzeltmek (C C'den sonra R R C) ve reelsiz gün bırakmamak. Hepsi teslim edilmiş reeller; üretim gerekmiyor.
 | Gün | Saat | Tür | İçerik |
