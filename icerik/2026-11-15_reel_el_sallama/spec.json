@@ -1,0 +1,55 @@
+{
+ "equal_width": true,
+ "blocks": [
+  {
+   "box": "#F9D7AE",
+   "ink": "#1c1c1c",
+   "size": 50,
+   "wght": 560,
+   "align": "center",
+   "lines": [
+    "Bu metni sözlüksüz",
+    "anlayabiliyor musun?"
+   ],
+   "after": 18,
+   "pad": [
+    34,
+    24
+   ]
+  },
+  {
+   "box": "#ffffff",
+   "ink": "#1c1c1c",
+   "size": 44,
+   "align": "left",
+   "lines": [
+    "A man waved at me",
+    "from across the street.",
+    "I smiled and waved back.",
+    "Then I saw his friend",
+    "right behind me.",
+    "I touched my hair and kept walking.",
+    "That was three days ago.",
+    "I still think about it."
+   ],
+   "after": 18,
+   "pad": [
+    38,
+    28
+   ]
+  },
+  {
+   "box": "#1c1c1c",
+   "ink": "#ffffff",
+   "size": 34,
+   "align": "center",
+   "lines": [
+    "Türkçesi açıklamada · A2"
+   ],
+   "pad": [
+    30,
+    18
+   ]
+  }
+ ]
+}

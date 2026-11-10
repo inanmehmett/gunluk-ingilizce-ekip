@@ -1,0 +1,59 @@
+{
+ "equal_width": true,
+ "blocks": [
+  {
+   "box": "#1c1c1c",
+   "ink": "#ffffff",
+   "size": 42,
+   "wght": 560,
+   "align": "center",
+   "lines": [
+    "İngilizceye yeniden başlıyorsan",
+    "önce bu 10 kalıp"
+   ],
+   "after": 12,
+   "pad": [
+    30,
+    20
+   ]
+  },
+  {
+   "box": "#ffffff",
+   "ink": "#1c1c1c",
+   "size": 40,
+   "align": "left",
+   "fixed_ink": true,
+   "gap": 5,
+   "lines": [
+    "1. I’d like…",
+    "2. Can I have…?",
+    "3. I’m looking for…",
+    "4. How much is it?",
+    "5. I don’t understand.",
+    "6. Could you repeat that?",
+    "7. What does … mean?",
+    "8. Let me think.",
+    "9. It depends.",
+    "10. Sounds good."
+   ],
+   "after": 12,
+   "pad": [
+    38,
+    22
+   ]
+  },
+  {
+   "box": "#F9D7AE",
+   "ink": "#1c1c1c",
+   "size": 30,
+   "align": "center",
+   "lines": [
+    "Türkçeleri açıklamada"
+   ],
+   "pad": [
+    30,
+    14
+   ]
+  }
+ ]
+}

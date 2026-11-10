@@ -92,7 +92,7 @@ Amaç: ızgarayı düzeltmek (C C'den sonra R R C) ve reelsiz gün bırakmamak. 
 Sıra: C(10) · R R · C R · R · C · R → Pazar sonunda R R C düzeni geri gelir.
 
 ## 16–22 Kasım (5 reels + 2 carousel = 7) – **Mehmet onayı bekliyor**
-Metinler: `icerik/2026-11-10_oneriler/PAKET_TASLAK.md`. 4 yeni klip gerekiyor (son 3 haftada kullanılmamış).
+Metinler: `icerik/2026-11-15_reel_el_sallama`, `2026-11-16_reel_1_hata`, `2026-11-19_reel_i_dont_know`, `2026-11-21_reel_yeniden_basliyorsan` (her birinde PAKET.md v2 + spec.json). 4 yeni klip gerekiyor (son 3 haftada kullanılmamış).
 | Gün | Saat | Tür | İçerik |
 |---|---|---|---|
 | Pzt 16 | 19:30 | Reels | **Öneri 2: "Bu İngilizce metinde 1 hata var"** (Mehmet'in fikri; yeni format, zorunlu kadro) |

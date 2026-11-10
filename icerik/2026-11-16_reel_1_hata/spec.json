@@ -1,0 +1,53 @@
+{
+ "equal_width": true,
+ "blocks": [
+  {
+   "box": "#1c1c1c",
+   "ink": "#ffffff",
+   "size": 48,
+   "wght": 560,
+   "align": "center",
+   "lines": [
+    "Bu İngilizce metinde 1 hata var.",
+    "Bulabilir misin?"
+   ],
+   "after": 18,
+   "pad": [
+    34,
+    24
+   ]
+  },
+  {
+   "box": "#ffffff",
+   "ink": "#1c1c1c",
+   "size": 46,
+   "align": "left",
+   "lines": [
+    "Every Friday my friend says,",
+    "“Let’s stay at home tonight.”",
+    "I am agree with her every time.",
+    "We order pizza",
+    "and watch an old film.",
+    "It is our little tradition."
+   ],
+   "after": 18,
+   "pad": [
+    38,
+    28
+   ]
+  },
+  {
+   "box": "#F9D7AE",
+   "ink": "#1c1c1c",
+   "size": 34,
+   "align": "center",
+   "lines": [
+    "Cevap açıklamada · A2"
+   ],
+   "pad": [
+    30,
+    18
+   ]
+  }
+ ]
+}
