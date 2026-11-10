@@ -7,7 +7,7 @@ Onay: v2 · David ✅ · Tomris ✅ · Daniel ✅ · Mr. Feast ✅ · Charlie �
 Bu İngilizce metinde 1 hata var. / Bulabilir misin?
 Every Friday my friend says, / “Let’s stay at home tonight.” / I am agree with her every time. / We order pizza / and watch an old film. / It is our little tradition.
 Cevap açıklamada · A2
-(157 karakter, 30 kelime)
+(156 karakter, 30 kelime)
 
 ## Açıklama
 Hatayı bulduysan yazma, sadece 💪 bırak. Cevap en altta 👇
