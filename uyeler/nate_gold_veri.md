@@ -63,3 +63,17 @@ Lansman reeli (31 Eki, "Daily English artık yayında") gerçek Metricool verisi
 - 2026-11-04: İlk haftalık rapor; hipotezler eklendi.
 - 2026-11-04: Performans toplantısı / kuyruk düzeltmesi notları.
 - 2026-11-06: Lansman reeli performans incelemesi (Metricool gerçek veri) eklendi.
+
+## Haftalık bulgular (10 Kas 2026; rapor: raporlar/2026-11-10.md)
+- **Ders (11 veri noktası, 10/11):** Liste/kalıp reelleri kaydetme oranında paragraflardan önde (liste %1,62–2,73; paragraf %0,75–1,70). 4 Kas'taki hipotez bu hafta eşiği geçti (7 Kas liste %2,69; paragraflar %1,22 ve %1,25).
+- **Ders → Hipotez (8/9):** "3 sn+ %40 altı reel 20 bini geçemez." 2 Kas listesi %35,8 ile 25.992'ye çıktı. Çelişen veri dersi hipoteze döndürdü. Not: 48. saatteki değer (19.877) 7. günde %31 büyüdü; liste reelleri geç toplanıyor olabilir (Hipotez, 1).
+- **Ders (8 veri noktası):** Paragraflar uzun izleniyor (12–18 sn), az gönderiliyor (%0,11–0,35).
+- **Hipotez (3, karışık):** A2 üstü paragraflar daha az erişiyor (B1 16,2 · C1 18,2 · B2 8,1 bin; A2 medyanı ~25 bin). Gün ve saat eşleşmiyor.
+- **Hipotez (2/2 bu hafta; Ekim verisi aynı yönde):** Reel çıkmayan gün net takipçi eksi (8 Kas −14, 9 Kas −26).
+- **Hipotez (1):** Açıklamanın ilk satırındaki somut gönderme sebebi gönderme oranını artırıyor (7 Kas liste %1,00; 11 bin erişimde 112 gönderme).
+- **Hipotez (1):** Reel ile carousel 10 dk arayla çıkınca ikisi de zayıf (6 Kas: 8,1 bin / 6,0 bin).
+- Carousel: düşüş durdu, 5–8 bin bandında yatay (10 veri noktası); set başına 1–5 takip.
+- Temel çizgi (son 7 ızgara reeli, 31 Eki–7 Kas): medyan erişim 15.570; bu haftanın 3 reeli medyan 11.253, gönderme/erişim medyanı %0,28.
+- Yöntem notu: IGEV43−IGEV44 toplamı (+143) ile IGEV01 farkı (+58) tutmuyor; hedef kaydında IGEV01 farkı kullanılıyor.
+- IGEV37 günlük gönderi sayısını veriyor; sıklık kontrolünde reel/carousel listesiyle çapraz kontrol için kullanılır.
+- 2026-11-10: Haftalık rapor; 1 hipotez derse çıktı, 1 ders hipoteze döndü.

@@ -45,3 +45,10 @@ Büyük kararlardaki zayıf varsayımları, kanıtsız iddiaları ve riskleri bu
 - 2026-10-23: El kitabı oluşturuldu.
 - 2026-10-24: Eğitim: ön ölüm adımları ve kanıtı, tersine çevirme, ortalamaya dönüş, 9→12 planı ön ölümü, 5 soruluk kontrol listesi eklendi.
 - 2026-11-04: Haftalık toplantı itirazları eklendi.
+
+## Haftalık notlar (10 Kas 2026)
+- Hedef itirazı 3. hafta cevapsız: gereken 8.434/hafta, gerçekleşen +58 (%0,7). İki seçenek (a/b) Mehmet'te.
+- Geriye dönük kalıp seçimi uyarısı: "A2 mini hikâye" kalıbı üç kazanandan çıkarıldı; aynı kalıptaki iki paragraf 10–18 binde kaldı. Y1 bir hipotez (3).
+- Otopside çok değişken birden değişiyorsa (seviye, gün, saat, yan gönderi) açıklama "karışık" etiketlenir; en zayıf açıklama adıyla yazılır.
+- Sahibi ve tarihi olmayan yol (Collab, yorum analizi) yol sayılmaz; üç haftadır "canlı oturumda" diye erteleniyor.
+- 2026-11-10: Haftalık notlar eklendi.

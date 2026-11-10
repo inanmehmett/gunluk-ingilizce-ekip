@@ -58,3 +58,11 @@ Instagram'ın dağıtım kurallarını ve resmi açıklamalarını takip eder, e
 - 2026-10-24: Eğitim: resmi sinyaller, özgünlük 2026, Collab, deneme reelleri, Görüntüleme metriği, Your Algorithm; takvimdeki 9/10 tutarsızlığı not edildi.
 - 2026-11-04: İlk haftalık toplantı ve Kasım sağlık kontrolü; kuyruk eşleme görevi eklendi.
 - 2026-11-04: Performans toplantısı / kuyruk düzeltmesi notları.
+
+## Haftalık bulgular (10 Kas 2026)
+- Son 7 günde hesabı etkileyen, kaynaklı resmi açıklama bulunamadı. Edits Mac sürümü (tarihsiz): https://metricool.com/instagram-news/ – etkisi yok.
+- Instagram Reels rehberi: 15–60 sn "ana tatlı nokta": https://about.instagram.com/blog/tips-and-tricks/how-to-make-instagram-reels/
+- Aşama 2'ye geçilmedi: iki hafta üst üste 10 yerine 6 gönderi; sıklık hipotezi için veri 0/4 hafta. Nate ile haftalık sayı konusunda uzlaşılamadı (10 mu 7 mi) → Mehmet'e iki görüş.
+- Metricool kuyruğu 10 Kas: çakışma yok. Eksik: R R C düzeni günde 1 reelde 2 günde bir carousel ister; kuyruk aralığı 2–5 gün. Reel sayısı arttıkça kuyruktan carousel öne çekmek gerekir (taşıma Mehmet'in kararı).
+- **Hipotez (2 hafta):** Plan ile yayın ayrı yürüyor; son 7 reelin 6'sı takvimde yoktu, teslim edilen 7 reel yayınlanmadı. Öneri: Mehmet'in tek satırlık haberi + ekip yalnız boş günlere üretir.
+- 2026-11-10: Haftalık toplantı notları eklendi.

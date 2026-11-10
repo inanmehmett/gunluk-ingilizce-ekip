@@ -43,3 +43,8 @@ Yalnızca görsel tasarım: yazı tipi (Literata), yazı boyutları, oranlar, ku
 ## Ders (6 Kas 2026, Mehmet'in isteği): Reels ekran alanı
 Metin grubu y 270–1200 bandında; üst 270 ve alt 720 px'e metin konmaz; sağda y>1000'de x>910'a metin girmez; kutular 950 px'i geçmez. İlk kare profil ızgarasında 3:4 (y 240–1680) kırpılır, hook bu bantta kalır. 6 Kas'a kadarki reellerde grup çerçevenin ortasındaydı (y ~550–1375): son satırlar ve "Türkçesi açıklamada" etiketi açıklama ve buton bölgesine giriyordu. Kural `render_v3.py`'ye işlendi; ayrıntı `araclar/README.md` "Ekran alanı".
 - Not (6 Kas): Güvenli alan ölçüleri 24 Eki'den beri bu el kitabında ve Walter'ınkinde (y 270–1250, x 65–850) yazılıydı ama render aracına işlenmemişti; reeller 6 Kas'a kadar çerçevenin ortasında üretildi. Ders: el kitabındaki ölçü araca işlenmeden kural sayılmaz. Walter'ın x≤850 sınırı tüm bant için sadeleştirmeydi; buton sütunu yalnız y>1000'de olduğu için araçta sağ sınır y≤1000'de 1015, y>1000'de 910.
+
+## Haftalık not (10 Kas 2026)
+- 10 satırlık liste + iki satırlık hook güvenli banda ancak tek sütun (yalnız İngilizce) ile sığar; Türkçesi açıklamaya. Sığmazsa 8 satır.
+- Klip günlüğü: IMG_6393'ün 6 Kas'ta yayınlanan sürümü B2 paragrafı. 16–22 Kas için 4 yeni klip gerekiyor.
+- 2026-11-10: Haftalık not eklendi.

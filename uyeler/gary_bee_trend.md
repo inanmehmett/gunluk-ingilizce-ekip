@@ -55,3 +55,9 @@ Trend sesleri, yükselen formatları ve viral olan dil öğretim içeriklerini t
 - 2026-10-23: El kitabı oluşturuldu.
 - 2026-10-24: Eğitim notları (Reels Trends, yükselen ses oku, Edits, @creators, Trend Talk, uygunluk filtresi) ve haftalık takip listesi eklendi.
 - 2026-11-04: Haftalık trend notu.
+
+## Haftalık bulgular (10 Kas 2026)
+- "Sunshine (Instrumental)" – Twista: sözsüz, ekran metni ve ipucu videolarının altına; "Linger" – The Cranberries: sıcak-hüzünlü sonbahar. Kaynak (31 Eki–10 Kas listesi): https://socialpilot.co/blog/instagram-reels-trends/
+- Yılbaşı sesleri listeye girdi; yılbaşı temalı A2 hikâyesi Aralık'ın ilk haftasına.
+- Buffer'ın trend ses sayfası bu hafta güncel liste vermedi; SocialPilot haftalık listesi takip listesine eklendi.
+- 2026-11-10: Haftalık bulgular eklendi.

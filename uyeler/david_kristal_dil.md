@@ -57,3 +57,9 @@ Her içeriğin İngilizcesinin doğal ve doğru, Türkçesinin doğal ve birebir
 - 2026-10-23: El kitabı oluşturuldu.
 - 2026-10-24: "Eğitim notları (24 Eki 2026)" ve "Takip listesi" eklendi (Oxford/EVP/EGP ile seviye kontrolü, 10 dakikalık kontrol listesi, Türk öğrencilerde eşdizim hataları). A1 örnekleri paket v4'e göre güncellendi ("hazırlarım" ve "çay koymak" notu, seviye metne ait).
 - 2026-11-04: Haftalık not.
+
+## Haftalık not (10 Kas 2026)
+- "1 hata var" formatı: hata tek ve tartışmasız olmalı; geçmiş zamanlı anlatıda "I am agree" iki hata gibi okunur, metin geniş zamanda kurulur.
+- Paragraf ölçüsü (tam bir yeni kelime): "pretend" gibi ikinci bilinmeyen kelime taslakta elenir. "wave" ve "tradition" seviyeleri Oxford 3000'le doğrulanacak (açık).
+- Hipotez (3, karışık): A2 üstü paragraflar daha az erişiyor; B2/C1 haftada en fazla 1.
+- 2026-11-10: Haftalık not eklendi.

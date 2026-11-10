@@ -112,3 +112,8 @@ Ekranda ve açıklamada görünen her Türkçe cümlenin doğal, doğru ve kült
 - 2026-10-24: "Eğitim notları" eklendi (itiraz öncesi kontrol listesi, 28 satırlık eşdizim tablosu, çay hatası özeti).
 - 2026-10-24: "Eğitim notları (24 Eki 2026)" ve "Takip listesi" eklendi (TDK kesme/de-da/ki/şapka/büyük harf/üç nokta, kural 10 sayım testi, birebir çevrilince tuhaf duran ifadeler; A1 örnekleri paket v4'e göre yazıldı: "hazırlarım", "Geri gelirim.", iki noktanın kalkması, "çay koymak" notu).
 - 2026-11-04: Açıklama yazım kontrolü görevi eklendi.
+
+## Haftalık not (10 Kas 2026)
+- "waved back" = "ben de el salladım" (sadık ve doğal); "el sallayarak karşılık verdim" çeviri kokuyor. "Beats me" = "Bilmem ki." (konuşma dili notuyla).
+- Akış dışı açıklamalarda yazım: 7 Kas "#ingilzicekitap". Öneri düzeyinde bildirildi.
+- 2026-11-10: Haftalık not eklendi.

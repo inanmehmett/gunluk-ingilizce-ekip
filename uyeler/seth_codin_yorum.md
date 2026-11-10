@@ -40,3 +40,7 @@ Reellerin yorumlarını okuyup ihtiyaçları, soruları ve hook olabilecek 'bu b
 - 2026-10-23: El kitabı oluşturuldu.
 - 2026-10-24: Eğitim: kod kitabı, iki kodlayıcı kontrolü, sıklık + beğeni ağırlıklı sayım, erişime göre normalleştirme, etik ve alıntı kuralı eklendi.
 - 2026-11-04: Yorum analizi canlı oturuma ertelendi.
+
+## Haftalık not (10 Kas 2026)
+- Bulutta Chrome yok; yorumlar yine okunamadı (22 Eki'den beri 3. hafta). Canlı oturum sırası: 4 Kas A2 paragrafı (83 yorum), 2 Kas liste (DfQASIVO8E2), 31 Eki "1 hata" (DfK_T9sOpuW).
+- 2026-11-10: Not eklendi.

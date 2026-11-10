@@ -50,3 +50,8 @@
 - 2026-10-24: El kitabı oluşturuldu.
 - 2026-10-24: Eğitim notları (öz yeterlik, kaygı, keyif, istenen zorluk, paylaşma motivasyonları, etik sınırlar) ve takip listesi eklendi.
 - 2026-11-04: Haftalık not.
+
+## Haftalık not (10 Kas 2026)
+- Hipotez (3: telefon, market, komşu sandım): Tanıdık küçük utanç anı + ters köşe son, yorumda izleyicinin kendi hikâyesini yazdırıyor (4 Kas: 83 yorum). Utanç izleyiciye değil anlatıcıya ait; kontrol listesi madde 6 ile çelişmiyor.
+- "En sık yapılan hata" gibi kanıtsız üstünlük cümlesi yerine "çok yapılan bir hata"; bulamayana "sorun değil" cümlesi kalır.
+- 2026-11-10: Haftalık not eklendi.

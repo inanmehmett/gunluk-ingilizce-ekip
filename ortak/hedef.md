@@ -37,3 +37,4 @@ Doğrusal yol bir ölçü çubuğudur; gerçek büyüme dalgalı olur. Asıl sor
 | 21 Eki 2026 | 141.448 | 141.448 | 0 | — | başlangıç |
 | 26 Eki 2026 (geriye dönük) | 141.886 | 147.320 | −5.434 | +664 (19→26 Eki) | 🔴 |
 | 2 Kas 2026 | 142.124 | 155.542 | −13.418 | +238 | 🔴 açık büyüyor; gereken tempo ~8.350/hafta |
+| 9 Kas 2026 | 142.182 | 163.763 | −21.581 | +58 | 🔴 açık büyüyor; gereken tempo ~8.434/hafta |

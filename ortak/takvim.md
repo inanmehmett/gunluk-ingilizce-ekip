@@ -65,24 +65,45 @@ Kural: seviye merdiveninin yanındaki reeller (Pzt 1 öncesi ve Sal 3) farklı k
 - **Düzeltildi (4 Kas, Mehmet'in talimatıyla):** Kopyalar taslağa alındı (yayınlanmaz, silinmedi): 8 Kas eski K07, 9 Kas eski P04, 15 Kas eski K08. Taşındı: H03 11→10 Kas, D05 16→12 Kas, K10 22→14 Kas (10:00).
 - Kalan eski kuyruk (kopyası yok): 18 Kas D02 · 23 Kas P05 · 25 Kas T01 · 29 Kas K11 · 30 Kas D06. Kural: yeni carousel eklemeden önce `getScheduledPosts` ile aynı set kimliği aranır.
 
-## 9–15 Kasım (Aşama 1, 2. hafta: 7 reels + 3 carousel = 10) – **Mehmet onayı bekliyor**
-Sıra: 8 Kas reelle biterse döngü R ile devam eder → R, C R, R, C R, R, C R, R.
+### 3–9 Kasım gerçekleşen (10 Kas toplantısı, Metricool)
+- Izgarada **6** gönderi (3R+3C); plan 10. Çar 4: 10:00 C "Hangisini ilk kez duydun?" + 17:57 R A2 paragraf (markette komşu sandım; 25,0 bin) · Cum 6: 20:50 R B2 "A quiet night in" (8,1 bin) + 21:00 C L01 · Cmt 7: 21:58 R liste ("Hepsini biliyorsan…", 11,3 bin) · Paz 8: 10:00 C K07.
+- Yayınlanmadı (envanterde hazır): R01 Altyazı 2. adım · R02 "Pazartesi başlıyorum" · R03 Takıldığınız 3 kelime · R04 Çay demlemek · R07 "almak" 6 fiil · R08 Beş dakika daha · Merdiven 1/6. R05 klip bekliyor.
+- Pzt 9: gönderi yok. Sal 10: 10:00 C H03 ✓. Izgara 8–10 Kas'ta bozuldu (R C C).
+
+## Aşama kararı (10 Kas kontrolü)
+**Aşama 2'ye geçilmedi.** Koşul 1 ✅ (medyan 11.253), koşul 2 🟡 (%0,28), koşul 3 🔴 (iki hafta üst üste 10 yerine 6 gönderi). Sıklık hipotezi için veri 0/4 hafta. Mehmet'e iki görüş: (A) Adam: Aşama 1 = 10 kalsın, envanterle doldurulsun; (B) Nate: 16–22 Kas için 5R+2C, şart "reelsiz gün en fazla 2". Aşağıdaki takvim (B)'ye göre; (A) için boş günler "boş" diye işaretli.
+
+## 11–15 Kasım (haftanın kalanı, envanterden) – **Mehmet onayı bekliyor**
+Amaç: ızgarayı düzeltmek (C C'den sonra R R C) ve reelsiz gün bırakmamak. Hepsi teslim edilmiş reeller; üretim gerekmiyor.
 | Gün | Saat | Tür | İçerik |
 |---|---|---|---|
-| Pzt 9 | 19:30 | Reels | Öneri 4: "İngilizceye yeniden başlıyorsan" 20 kalıp (liste) – paket gerekiyor |
-| Sal 10 | 10:00 | Carousel | H03 Kelime seçiminde 8 hata – Metricool ✓ (taşındı) |
-| Sal 10 | 19:30 | Reels | R05 Cümleyi küçült (klip gelirse) / yoksa R01 Altyazı 2. adım (teslim edildi, yayınlanmadı) |
-| Çar 11 | 19:30 | Reels | Öneri 3: "Bu metinde 1 hata var" (Mehmet'in fikri) – yeni format, zorunlu kadro |
-| Per 12 | 10:00 | Carousel | D05 "I'm sorry" yerine – Metricool ✓ (taşındı) |
-| Per 12 | 19:30 | Reels | R06 "Arkadaşından mesaj geldi" (klip gelirse) / yoksa R02 "Pazartesi başlıyorum" |
-| Cum 13 | 19:30 | Reels | "Sonuncusunu sen yaz" yeni konu (9 Eki formatı, 60,9 bin) – performans toplantısı kararı |
-| Cmt 14 | 10:00 | Carousel | K10 Acelen varken 8 ifade – Metricool ✓ (taşındı) |
-| Cmt 14 | 19:30 | Reels | Öneri 1: Seviye merdiveni 2/6 · A2 |
-| Paz 15 | 12:00 | Reels | Öneri 2: A2 paragraf yeniden sürüm (sonbahar, "My Own Universe") – patlama denemesi; 12:00 saat testi |
-Klip: Öneri 1–4 için son 3 haftada kullanılmamış 4 klip gerekiyor (Jony). 15 Kas: Aşama 2 kesin kontrolü (Nate).
+| Çar 11 | 13:00 | Reels | R07 Türkçede "almak", İngilizcede 6 fiil (envanter) |
+| Çar 11 | 19:30 | Reels | R08 "Beş dakika daha" A2 paragrafı (envanter). Tek reel çıkacaksa bu |
+| Per 12 | 10:00 | Carousel | D05 "I'm sorry" yerine – Metricool ✓ |
+| Per 12 | 19:30 | Reels | R03 Takıldığınız 3 kelime (envanter) |
+| Cum 13 | 19:30 | Reels | R04 Çay demlemek (envanter) |
+| Cmt 14 | 10:00 | Carousel | K10 Acelen varken 8 ifade – Metricool ✓. Akşam reel yok (carousel'dan sonra 2 reel sırası için) |
+| Paz 15 | 12:00 | Reels | **Öneri 1: A2 mini hikâye "el sallama"** (klip + render canlı oturumda yetişirse) / yoksa R02 "Pazartesi başlıyorum" A2 (envanter). 12:00 saat testi |
+Sıra: C(10) · R R · C R · R · C · R → Pazar sonunda R R C düzeni geri gelir.
+
+## 16–22 Kasım (5 reels + 2 carousel = 7) – **Mehmet onayı bekliyor**
+Metinler: `icerik/2026-11-10_oneriler/PAKET_TASLAK.md`. 4 yeni klip gerekiyor (son 3 haftada kullanılmamış).
+| Gün | Saat | Tür | İçerik |
+|---|---|---|---|
+| Pzt 16 | 19:30 | Reels | **Öneri 2: "Bu İngilizce metinde 1 hata var"** (Mehmet'in fikri; yeni format, zorunlu kadro) |
+| Sal 17 | — | boş | (A) seçilirse: 10:00 carousel + 19:30 envanter reeli; kuyruktan bir carousel taşınmalı |
+| Çar 18 | 10:00 | Carousel | D02 Katılırken ve katılmazken 8 ifade – Metricool ✓ |
+| Çar 18 | 19:30 | Reels | R01 Altyazıyı bırakıyoruz 2. adım (envanter) |
+| Per 19 | 19:30 | Reels | **Öneri 3: "'I don't know' yerine 4 ifade. 5.'yi sen yaz"** |
+| Cum 20 | 10:00 | Carousel | **Karar gerekiyor:** K11 "Emin olmadığında 8 ifade" 29 Kas → 20 Kas taşınsın (Mehmet). Taşınmazsa Cmt–Paz reelleri ızgarayı bozar (R R R R) |
+| Cmt 21 | 19:30 | Reels | **Öneri 4: "İngilizceye yeniden başlıyorsan: ilk 10 kalıp"** |
+| Paz 22 | 12:00 | Reels | A2 mini hikâye (Öneri 1 15 Kas'ta çıktıysa: R02 "Pazartesi başlıyorum"; çıkmadıysa Öneri 1) – patlama denemesi |
+| (Pzt 23) | 10:00 | Carousel | P05 LOOK ile 8 phrasal verb – Metricool ✓ |
+Kurallar: B2/C1 paragraf haftada en fazla 1 ve Pazar dışında (hipotez, 3). Reel ile carousel arasında en az birkaç saat (6 Kas: 10 dk arayla çıktılar; hipotez, 1). Mehmet kendi reelini atacaksa tek satır haber verir; takvim kaydırılır.
+Metricool kuyruğu (10 Kas kontrolü): 12 Kas D05 · 14 Kas K10 · 18 Kas D02 · 23 Kas P05 · 25 Kas T01 · 29 Kas K11 · 30 Kas D06; 15 Kas eski K08 kopyası taslakta. Çakışma yok.
 
 ## Seriler
-- **Seviye merdiveni (geçici ad; 6 basamak: A1 → A2 → A2+ → B1 → B1+ → B2):** haftada 1 metin; her bölüm tek başına anlaşılır; seviye metne aittir; yorumda "✅" (izleyicinin kendi beyanı); sonraki bölümün hook'u dürüst sayıyla açılır ("X kişi 1. metni anladı"). Kalıcı ad 27 Eki'ye kadar (toplantı kararı 6).
+- **Seviye merdiveni (geçici ad; 6 basamak: A1 → A2 → A2+ → B1 → B1+ → B2):** haftada 1 metin (**10 Kas: beklemede** – 1/6 iki haftadır yayınlanmadı, seri bağlantısı kaldırıldı; Mehmet "devam" demedikçe takvime yazılmaz); her bölüm tek başına anlaşılır; seviye metne aittir; yorumda "✅" (izleyicinin kendi beyanı); sonraki bölümün hook'u dürüst sayıyla açılır ("X kişi 1. metni anladı"). Kalıcı ad 27 Eki'ye kadar (toplantı kararı 6).
 
 ## Klip kullanım günlüğü (sahibi: Jony Ayv)
 | Klip | Son kullanım | Reel |
@@ -100,6 +121,6 @@ Klip: Öneri 1–4 için son 3 haftada kullanılmamış 4 klip gerekiyor (Jony).
 | IMG_1528 | 4 Kas | Çay demlemek (R04) |
 | IMG_5314 (kumsal) | 7 Kas | "Almak" 6 fiil (R07) |
 | IMG_5624 | 8 Kas | Beş dakika daha (R08) |
-| IMG_6393 (göl, tekneler, sonbahar yaprakları) | 6 Kas | "Are you free tonight?" A2 paragrafı |
+| IMG_6393 (göl, tekneler, sonbahar yaprakları) | 6 Kas | "A quiet night in" B2 paragrafı (yayınlanan sürüm) |
 
 Kural: aynı klip 3 hafta içinde tekrar kullanılmaz. Klip açığı (24 Eki, Nate/Jony): Aşama 2'de 3 haftalık rotasyon için en az 24 klip gerekir; Mehmet'ten istenen sayı 12–15'ten 20+'ya çıkarıldı. En az 15 sn, sakin, dikey klipler gerekiyor; Mehmet'ten 12–15 yeni klip istendi (sonbahar, yağmurlu cam, kahve, akşam ışıkları).

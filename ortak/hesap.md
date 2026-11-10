@@ -16,12 +16,15 @@ Türkçe konuşan yetişkinler, 25–44 yaş, ~%57 kadın, ~%75 Türkiye. İngil
 | Hook + liste açıklamada | 7 Eyl "Amerikalıların her gün kullandığı… 30 kalıp" | 171 bin izleyen, 1.409 takip |
 | "Demeyi bırak" carousel | 7 Eki "I don't know demeyi bırak" | 40.491 erişim, 566 paylaşım, 298 takip |
 | Liste reeli (kaydetme) | 15 Eki "B1'de 30 kelime" | 16.127 erişim, kaydetme oranı %2,9 |
+| A2 mini hikâye (utanç anı + ters köşe) | 4 Kas "Markette komşum sandım" | 25.003 erişim, 83 yorum, ort. izlenme 16,7 sn |
 
 ## Çalışmayanlar
 > Not: Bu bölümdeki ve el kitaplarındaki maddeler ilk Pazartesi toplantısında "hipotez / ders" kuralına göre yeniden etiketlenecek.
 - Deneme (trial) reelleri: 0–143 izleyen.
 - **Hipotez (4 veri noktası):** Aynı görünüm arka arkaya: paragraf erişimi 388 bin → 25 bin → 12 bin → 9 bin, oysa tutma ve paylaşım oranı düşmedi. Bir veri daha gelirse ders olur.
-- **Hipotez (1 veri noktası):** Seviye yükseltme tek başına: B1 paragraf 12 bin.
+- **Hipotez (3 veri noktası, karışık):** A2 üstü paragraflar daha az erişiyor: B1 16,2 bin · C1 18,2 bin · B2 8,1 bin (A2 medyanı 25 bin). B2/C1 haftada en fazla 1, Pazar dışında.
+- **Ders (11 veri noktası, 10/11):** Liste reelleri kaydettirir (%1,6–2,7), paragraflar izletir (12–18 sn) ama az gönderilir (%0,11–0,35).
+- **Hipotez (2/2 + Ekim):** Reel çıkmayan gün net takipçi eksi (8–9 Kas: −14, −26).
 - "Öğretilmeyen" gibi iddialar: "bunların hepsi öğretiliyor" eleştirisi getirdi.
 
 ## Yorumlardan çıkan ihtiyaçlar (22 Eki analizi)

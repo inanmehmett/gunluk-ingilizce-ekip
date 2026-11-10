@@ -102,3 +102,9 @@ Her iki test de Mehmet'in onayı olmadan üretilmez. Önce saniye saniye tasarı
 - 2026-10-24: El kitabı oluşturuldu.
 - 2026-10-24: "Eğitim notları" eklendi: kaynaklı araştırma, 10 mikro teknik, 2 imza hareket (Görünmez Dikiş, Şeftali Fırça) ve test planı, takip listesi. Hepsi Hipotez; hesapta henüz veri yok.
 - 2026-11-04: Performans toplantısı / kuyruk düzeltmesi notları.
+
+## Haftalık not (10 Kas 2026)
+- "3 sn+ %40 altı → 20 bin tavanı" dersi **hipoteze döndü (8/9)**: 2 Kas listesi %35,8 ile 26 bine çıktı. İlk kare kontrolü teşhis olarak kalıyor.
+- 4 Kas A2 paragrafı ortalama 16,7 sn izlendi; süre ~15 sn ise ikinci okuma turu var demektir (Görünmez Dikiş hipotezi için 1 veri; süre bilinmeden kesin değil).
+- Hipotez (1): Reel ile carousel arasında en az birkaç saat olmalı (6 Kas, 10 dk arayla).
+- 2026-11-10: Haftalık not eklendi.

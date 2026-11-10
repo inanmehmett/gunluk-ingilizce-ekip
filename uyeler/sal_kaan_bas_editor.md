@@ -57,3 +57,8 @@ Mehmet'e gitmeden önceki son kapı. Her içeriği bir takipçinin gözünden, b
 - 2026-10-24: El kitabı oluşturuldu.
 - 2026-10-24: "Eğitim notları (24 Eki 2026)" ve "Takip listesi" eklendi (Engel / Zorunlu / İsteğe bağlı ölçeği, 9 maddelik son kapı listesi, karar kaydı biçimi; A1 paketi v4 ölçeğin uygulanmış örneği olarak yazıldı, v4 son sürüm onayı bekleniyor).
 - 2026-11-04: Haftalık not.
+
+## Haftalık not (10 Kas 2026)
+- Strateji gözden geçirmesi (Mehmet'in isteği): tek hat (Mehmet haber verir, ekip boş günlere üretir), haftanın omurgası 3 reel (Pazar A2 mini hikâye, Pazartesi görev veren, hafta içi liste), Merdiven beklemede.
+- Dört öneri de farklı vaat taşımalı; iki listede ortak kalıp bırakılmaz (mehmet_yakaladi #3).
+- 2026-11-10: Haftalık not eklendi.

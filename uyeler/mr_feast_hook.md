@@ -72,3 +72,10 @@ Yayın öncesi sorular (biri "evet"se hook geri döner):
 - 2026-10-24: Eğitim notları (sinyaller, orijinallik, etkileşim yemi, merak boşluğu, clickbait), dürüst hook kontrol listesi ve takip listesi eklendi.
 - 2026-11-04: Haftalık not.
 - 2026-11-04: Performans toplantısı / kuyruk düzeltmesi notları.
+
+## Haftalık not (10 Kas 2026)
+- **Hipotez (2):** Paragraf reelinde durduran şey hook cümlesi değil (üçünde de aynı), metnin ilk cümlesi. "I saw a woman at the supermarket…" (25,0 bin, 3 sn+ %48,5) tek bakışta anlaşılıyor; "I had been looking forward to a quiet night in when…" (8,1 bin, %40,4) anlaşılmıyor. Kural taslağı: ilk cümle kısa, A2, somut bir sahne.
+- Hipotez (2): "1 hata var" çağrısı yorumu artırıyor (31 Eki: 44 yorum, güncel değer).
+- Patlama denemesinde kanıtlı hook ekranda kalır; yeni hook cümlesi açıklamanın ilk satırında denenir (Charlie ile uzlaşı).
+- Hipotez (1): Açıklamanın ilk satırındaki gönderme sebebi ("Hepsini biliyorsan arkadaşına gönder") %1,00 gönderme getirdi.
+- 2026-11-10: Haftalık not eklendi.
