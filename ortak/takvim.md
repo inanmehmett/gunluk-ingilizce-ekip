@@ -78,6 +78,8 @@ Kural: seviye merdiveninin yanındaki reeller (Pzt 1 öncesi ve Sal 3) farklı k
 - Asıl sorun reellerin aksaması. Öncelik sırası: reel > ızgara düzeni > carousel sayısı.
 - Klip uygunluğu bu oturumda dosyadan kontrol edilemedi (klipler oturumda yok). Günlüğe göre: yayınlanmayan reellerde kullanılan IMG_3200, 3175, 3171, 3161, 1528, 5314, 5624 izleyiciye hiç çıkmadı; o reeller rafa kalkarsa bu klipler serbest. IMG_6157 ve IMG_1565 11 Kas itibarıyla 3 haftayı doldurdu.
 
+**11 Kas güncelleme:** Bugünün reeli "el sallama" A2 mini hikâyesi (paket: `icerik/2026-11-15_reel_el_sallama`). Mehmet'e şeffaf yazı katmanı + açıklama teslim edildi; kurguyu ve klibi Mehmet yapıyor. Pazar 15 Kas için yeni bir A2 mini hikâye yazılacak.
+
 ## 11–15 Kasım (haftanın kalanı, envanterden) – **Mehmet onayı bekliyor**
 Amaç: ızgarayı düzeltmek (C C'den sonra R R C) ve reelsiz gün bırakmamak. Hepsi teslim edilmiş reeller; üretim gerekmiyor.
 | Gün | Saat | Tür | İçerik |
