@@ -1,0 +1,23 @@
+{
+ "hook": "Sözlüksüz anlayabiliyor musun?",
+ "satirlar": [
+  "A man waved at me",
+  "from across the street.",
+  "I smiled and waved back.",
+  "Then I saw his friend behind me.",
+  "I pretended to fix my hair.",
+  "That was three days ago.",
+  "I still think about it."
+ ],
+ "kelime": {
+  "satir": 5,
+  "yazi": "pretended",
+  "anlam": "-mış gibi yapmak",
+  "tur": "fiil",
+  "dokunma": 4.5,
+  "bitis": 8.3
+ },
+ "sure": 10.5,
+ "yavas": 0.75,
+ "baslangic": 0.5
+}

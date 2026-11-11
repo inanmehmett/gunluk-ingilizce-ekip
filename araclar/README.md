@@ -32,6 +32,9 @@ Instagram arayüzü videonun üstüne biner. Resmî Meta ölçüsü yayımlanmad
 `render_v3.py` grubu güvenli bandın ortasına koyar (çerçevenin değil), sığmazsa ya da kutu 950 px'ten genişse durur, sağ sütuna giren satırı uyarır. Bant değiştirmek gerekirse spec'e `safe_top` / `safe_bottom` yazılır.
 Sığmıyorsa sıra: satırı kısalt → punto 42→40 → pad küçült; bandı genişletme.
 
+## reels/paragraf_orijinal.py (11 Kas 2026) — GEÇERLİ PARAGRAF ŞABLONU
+15 Eki orijinalinin ölçüleriyle paragraf reeli + isteğe bağlı kelimeye dokunma animasyonu. `python3 paragraf_orijinal.py spec.json klip.mp4 cikti.mp4 [onizleme_dizini]`; font yolu `LITERATA` ortam değişkeni. Örnek spec: `icerik/2026-11-15_reel_el_sallama/spec_v3.json`.
+
 ## reels/ladder.py
 Seviye merdiveni overlay'i (A1→B2 şeridi + emoji'li hook).
 `python3 ladder.py <basamak> <klip> <baslangic> <sure> cikti.mp4`

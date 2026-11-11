@@ -48,3 +48,10 @@ Türkçe konuşan yetişkinler, 25–44 yaş, ~%57 kadın, ~%75 Türkiye. İngil
 - Tam olarak **bir** bilinmeyen kelime; açıklamada "Yeni kelime:" diye ayrı verilir. Diğer kelimeler seviyenin içinde kalır (David kontrol eder).
 - Süre: ~40 kelime için 15 sn.
 
+
+## Mehmet'in kararları (11 Kas 2026, canlı)
+- **Tek çalışan model paragraf.** Altyazı serisi, liste ve "ekranda şunlar" reelleri iptal (R01, R03, R04, R07 ve 16/19/21 Kas paketleri arşive kalktı).
+- **Paragraf şablonu 15 Eki orijinaline kilitlendi** (`araclar/reels/paragraf_orijinal.py`): tek satır beyaz hook "Sözlüksüz anlayabiliyor musun?" (kutu x 146–933, y 664–747, 48 px) · tek parça şeftali kutu, satır arası boşluk/şerit yok (x 142–939, y 760'tan; 40 px, satır adımı 71) · 7 satır · alt etiket yok · grup çerçevenin ortasında (y 664–1257) · 10,5 sn. 6 Kas'taki "güvenli banda yukarı taşıma" geri alındı: orijinalde yazı buton sütununa girmiyor, alt boşluk 243 px.
+- **Renk:** B Sıcak (colortemperature 5600 mix 0.6, kontrast 1.04, doygunluk kliple 1.05–1.18). HDR kliplere ton eşlemesi. 60 fps klip 0.5–0.75×, 30 fps klip 1.0×.
+- **Gizli uygulama tanıtımı (hipotez, 0 veri):** normal paragraf içinde seviye üstü tek kelime; uygulamadaki gibi dokunma + anlam balonu. Başka hiçbir fark yok.
+- Klipler artık Mehmet'in bilgisayarında: Masaüstü/Video-Kurgu/01_Ham-Malzeme (118 klip; tema ve hız önerisi `02_Projeler/_renk-testi/klip-analizi.csv`). Üretim o bilgisayarda yapılır, bitmiş video 04_Yayina-Hazir'a düşer.

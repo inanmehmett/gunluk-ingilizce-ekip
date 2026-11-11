@@ -80,6 +80,8 @@ Kural: seviye merdiveninin yanındaki reeller (Pzt 1 öncesi ve Sal 3) farklı k
 
 **11 Kas güncelleme:** Bugünün reeli "el sallama" A2 mini hikâyesi (paket: `icerik/2026-11-15_reel_el_sallama`). Mehmet'e şeffaf yazı katmanı + açıklama teslim edildi; kurguyu ve klibi Mehmet yapıyor. Pazar 15 Kas için yeni bir A2 mini hikâye yazılacak.
 
+**11 Kas akşam güncelleme (Mehmet):** liste/altyazı reelleri iptal; aşağıdaki 11–22 Kas tablolarındaki R01, R03, R04, R07 ve Öneri 2–4 geçersiz. Hazır: el sallama v3 (kelimeye dokunma), R02, R08 (R08 şeritli düzen, şablona uymuyor). Ayrıntı: `ortak/hesap.md` sonu.
+
 ## 11–15 Kasım (haftanın kalanı, envanterden) – **Mehmet onayı bekliyor**
 Amaç: ızgarayı düzeltmek (C C'den sonra R R C) ve reelsiz gün bırakmamak. Hepsi teslim edilmiş reeller; üretim gerekmiyor.
 | Gün | Saat | Tür | İçerik |
@@ -128,6 +130,7 @@ Metricool kuyruğu (10 Kas kontrolü): 12 Kas D05 · 14 Kas K10 · 18 Kas D02 ·
 | IMG_1528 | 4 Kas | Çay demlemek (R04) |
 | IMG_5314 (kumsal) | 7 Kas | "Almak" 6 fiil (R07) |
 | IMG_5624 | 8 Kas | Beş dakika daha (R08) |
+| IMG_3174 (sokak, evler) | 11 Kas (üretildi) | El sallama v3, kelimeye dokunma |
 | IMG_6393 (göl, tekneler, sonbahar yaprakları) | 6 Kas | "A quiet night in" B2 paragrafı (yayınlanan sürüm) |
 
 Kural: aynı klip 3 hafta içinde tekrar kullanılmaz. Klip açığı (24 Eki, Nate/Jony): Aşama 2'de 3 haftalık rotasyon için en az 24 klip gerekir; Mehmet'ten istenen sayı 12–15'ten 20+'ya çıkarıldı. En az 15 sn, sakin, dikey klipler gerekiyor; Mehmet'ten 12–15 yeni klip istendi (sonbahar, yağmurlu cam, kahve, akşam ışıkları).
