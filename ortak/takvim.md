@@ -134,3 +134,9 @@ Metricool kuyruğu (10 Kas kontrolü): 12 Kas D05 · 14 Kas K10 · 18 Kas D02 ·
 | IMG_6393 (göl, tekneler, sonbahar yaprakları) | 6 Kas | "A quiet night in" B2 paragrafı (yayınlanan sürüm) |
 
 Kural: aynı klip 3 hafta içinde tekrar kullanılmaz. Klip açığı (24 Eki, Nate/Jony): Aşama 2'de 3 haftalık rotasyon için en az 24 klip gerekir; Mehmet'ten istenen sayı 12–15'ten 20+'ya çıkarıldı. En az 15 sn, sakin, dikey klipler gerekiyor; Mehmet'ten 12–15 yeni klip istendi (sonbahar, yağmurlu cam, kahve, akşam ışıkları).
+
+## 12 Kas güncelleme (Mehmet'in talimatı)
+- Per 12 Kas 10:00 Reel: el sallama v4 (balonlu, 15 sn) – Mehmet paylaşıyor. Per 12 Kas 18:00 Reel: "Pazartesi başlıyorum" (R02 metni, orijinal şablon, balonsuz) – `icerik/2026-11-12_reel_pazartesi_basliyorum`.
+- Per 12 Kas 10:00 D05 carousel ("I'm sorry") Metricool'da **taslağa alındı** (yayınlanmaz; tarih bekliyor). Sıra: R R C → Cmt 14 Kas 10:00 K10.
+- Instagram'da arşivlenen carousel'lar (Metricool analizinde görünmeyenler: D03 4 Kas, P04 6 Kas, H03 10 Kas) kuyruğun sonuna yeniden eklendi: **25 Oca 2027 D03 · 27 Oca P04 · 31 Oca H03** (10:00, görseller carousel reposundan).
+- Dikkat: Cuma 13 Kas reel çıkarsa Cmt carousel'ından önce R R R olur; ya Cuma boş ya K10 bir gün kayar.
