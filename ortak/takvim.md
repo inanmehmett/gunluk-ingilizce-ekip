@@ -140,3 +140,4 @@ Kural: aynı klip 3 hafta içinde tekrar kullanılmaz. Klip açığı (24 Eki, N
 - Per 12 Kas 10:00 D05 carousel ("I'm sorry") Metricool'da **taslağa alındı** (yayınlanmaz; tarih bekliyor). Sıra: R R C → Cmt 14 Kas 10:00 K10.
 - Instagram'da arşivlenen carousel'lar (Metricool analizinde görünmeyenler: D03 4 Kas, P04 6 Kas, H03 10 Kas) kuyruğun sonuna yeniden eklendi: **25 Oca 2027 D03 · 27 Oca P04 · 31 Oca H03** (10:00, görseller carousel reposundan).
 - Dikkat: Cuma 13 Kas reel çıkarsa Cmt carousel'ından önce R R R olur; ya Cuma boş ya K10 bir gün kayar.
+- **12 Kas 10:51 düzeltme (Mehmet):** ızgarada carousel'dan sonra zaten 2 reel var, sıra carousel'da. D05 ("I'm sorry") taslaktan çıkarıldı → **Per 12 Kas 17:00** Metricool. Cmt 14 Kas K10 **taslağa alındı** (önünde 2 reel yoksa ızgara bozulur); 2 reel çıkınca tarih verilecek. "Pazartesi başlıyorum" reeli bugün değil, carousel'dan sonraki ilk reel.
