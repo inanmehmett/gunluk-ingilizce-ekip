@@ -51,3 +51,17 @@ Hepsi **hipotez**; her biri en az 2 kez denenmeden ders sayılmaz.
 - **Mr. Feast:** "Nasıl denir?" sorusu bizim "…biliyor musun?" yasağına girmez, çünkü cevabı belli değil ve izleyici kendini sınıyor (dürüst hook türü 1).
 
 Tek geçiş · Adam ✅ · Mr. Feast ✅ · Reid ✅ · Charlie ⚠️
+
+## Güncelleme 01:30: Mehmet'in gözlemi ve arşiv kontrolü
+**Mehmet:** "Ekranda önce büyük yazı, ardından içerik çıkması çalışmadı. Ekranda büyük yazı + içerik açıklamada daha önce iyi olmuştu."
+
+**Kontrol (Metricool + reel sayfası):**
+- 7 Eyl `Dc_0ag7OAQJ`: ekranda **yalnızca büyük hook yazısı** ("Amerikalıların her gün kullandığı… 30 kalıp"), 30 kalıp açıklamada. **201.934 erişim · 1.625 gönderme · 7.889 kaydetme · 3 sn geçme %48,7** (elimizdeki verinin en düşük geçme oranı ve en yüksek kaydetmesi).
+- Aynı ilke rakiplerde: attim.tuttum (ekranda durum, 5 kalıp açıklamada), gunlukingilizce1 "8 dizi" (2,9M; ekranda başlık, liste açıklamada).
+- Doğrudan içerik de çalışıyor: 15 Eki paragraf 435K, 13 Ağu AS IF – 01 57K (4 kalıp ekranda).
+- Uyarı: Ağustos'taki açıklama-listeli reellerin çoğu 7–15K'da kaldı (geçme %66–80). Büyük yazı formatı hook'a bağlı, garanti değil. 7 Eyl hook'u "sana öğretilmeyen" abartısını içeriyordu (dürüstlük kuralı); aynı çekim dürüst bir hook'la yeniden aranacak.
+
+**Karar (ekip):**
+- **Sıralı belirme yok** (zaten kural; Mehmet'in gözlemi doğruluyor). D1, "Türkçe cümle → cevaplar beliriyor" olarak **yapılmayacak**.
+- Paragraf reeli olduğu gibi kalır (doğrudan içerik, kanıtlı).
+- Haftalık ikinci format **D1 "Büyük yazı"**: ekranda tek büyük Türkçe hook, durumla uyumlu klip (ör. araba POV), içerik tamamen açıklamada; sonuncusu yoruma. Hipotez (1 kendi + 2 rakip veri noktası).
