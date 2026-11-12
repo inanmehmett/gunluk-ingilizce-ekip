@@ -38,6 +38,7 @@ Mehmet'in kararı: çok rollü alt ajan incelemesi tek turda ~190 bin token yak�
 - **Her Pazartesi raporu hedef kontrolüyle başlar** (bkz. `ortak/hedef.md`): takipçi, olması gereken, açık, durum. Geride kalınıyorsa ekip yeni yollar önerir.
 - **Her Pazartesi 08:47:** Nate Gold haftalık raporu yazar, Seth Codin yorumları özetler, Gary Bee trend taraması yapar, Adam Koseri platform güncellemelerini toplar. Hepsi el kitaplarını günceller. Rapor `raporlar/YYYY-AA-GG.md` olarak kaydedilir.
 - **Her Pazartesi raporunda "Performans otopsisi" (4 Kas, Mehmet'in isteği):** Nate + Walter; paylaşım türü (gönderme/repost/kaydetme), izlenme devamı (3 sn+ oranı, ortalama izlenme ÷ süre, tutma grafiği), kaybeden her reel için "neden tutmadı" (kanıt + Hipotez/Ders etiketi), ardından yeni fikirler bu veriye göre elenir. Mr. Feast ilk kareyi, Charlie en zayıf açıklamayı yazar. Ayrıntı: raporlar/2026-11-04_performans_toplantisi.md
+- **Her Pazartesi "1 yeni fikir + kaynak" (13 Kas, Mehmet'in isteği):** Raporun sabit bölümü. Ekip her hafta en az bir yeni büyüme fikri getirir: kaynak (link ya da kendi verimiz), deneme şekli, başarı ölçütü. Tek geçiş, alt ajan yok.
 - **Her Pazartesi Metricool kuyruğu kontrolü (Adam):** `getScheduledPosts` ile takvim eşlenir; aynı set kimliği iki kez varsa kopya taslağa alınır.
 - **Her canlı oturum:** Brené Braun yeni yorumlara ve DM'lere cevap taslakları hazırlar (Mehmet paylaşır).
 - **Ayda bir:** Reid Hoffmann iş birliği adaylarını ve sonuçlarını raporlar.
