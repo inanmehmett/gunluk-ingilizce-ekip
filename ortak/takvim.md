@@ -132,6 +132,7 @@ Metricool kuyruğu (10 Kas kontrolü): 12 Kas D05 · 14 Kas K10 · 18 Kas D02 ·
 | IMG_5624 | 8 Kas | Beş dakika daha (R08) |
 | IMG_3174 (sokak, evler) | 11 Kas (üretildi) | El sallama v3, kelimeye dokunma |
 | IMG_5109 (Köln katedrali, yaya köprüsü) | 13 Kas (üretildi) | Anlıyorum ama konuşamıyorum |
+| IMG_1362 (deniz, açık gökyüzü) | 13 Kas (üretildi) | Pazartesi başlıyorum |
 | IMG_6393 (göl, tekneler, sonbahar yaprakları) | 6 Kas | "A quiet night in" B2 paragrafı (yayınlanan sürüm) |
 
 Kural: aynı klip 3 hafta içinde tekrar kullanılmaz. Klip açığı (24 Eki, Nate/Jony): Aşama 2'de 3 haftalık rotasyon için en az 24 klip gerekir; Mehmet'ten istenen sayı 12–15'ten 20+'ya çıkarıldı. En az 15 sn, sakin, dikey klipler gerekiyor; Mehmet'ten 12–15 yeni klip istendi (sonbahar, yağmurlu cam, kahve, akşam ışıkları).
@@ -142,3 +143,18 @@ Kural: aynı klip 3 hafta içinde tekrar kullanılmaz. Klip açığı (24 Eki, N
 - Instagram'da arşivlenen carousel'lar (Metricool analizinde görünmeyenler: D03 4 Kas, P04 6 Kas, H03 10 Kas) kuyruğun sonuna yeniden eklendi: **25 Oca 2027 D03 · 27 Oca P04 · 31 Oca H03** (10:00, görseller carousel reposundan).
 - Dikkat: Cuma 13 Kas reel çıkarsa Cmt carousel'ından önce R R R olur; ya Cuma boş ya K10 bir gün kayar.
 - **12 Kas 10:51 düzeltme (Mehmet):** ızgarada carousel'dan sonra zaten 2 reel var, sıra carousel'da. D05 ("I'm sorry") taslaktan çıkarıldı → **Per 12 Kas 17:00** Metricool. Cmt 14 Kas K10 **taslağa alındı** (önünde 2 reel yoksa ızgara bozulur); 2 reel çıkınca tarih verilecek. "Pazartesi başlıyorum" reeli bugün değil, carousel'dan sonraki ilk reel.
+
+## 13–19 Kasım (13 Kas 02:00, Mehmet "planı oluştur"): her gün 1 reel + 3 carousel, ızgara R R C
+| Gün | Saat | Tür | İçerik | Durum |
+|---|---|---|---|---|
+| Cum 13 | 19:30 | Reel | Pazartesi başlıyorum (IMG_1362) | ✅ 04_Yayina-Hazir |
+| Cmt 14 | 19:30 | Reel | PULL | taslak |
+| Paz 15 | 10:00 | Carousel | K10 Acelen varken | ✅ Metricool (taslaktan çıkarıldı) |
+| Paz 15 | 12:00 | Reel | Anlıyorum ama konuşamıyorum (IMG_5109) – patlama denemesi | ✅ 04_Yayina-Hazir |
+| Pzt 16 | 19:30 | Reel | D1 taksi, büyük yazı | taslak |
+| Sal 17 | 10:00 | Carousel | Katılırken/katılmazken 8 ifade | ✅ Metricool (18→17) |
+| Sal 17 | 19:30 | Reel | Which boss? | taslak |
+| Çar 18 | 19:30 | Reel | %1 şarj | taslak |
+| Per 19 | 10:00 | Carousel | K11 Emin olmadığında | ✅ Metricool (29→19) |
+| Per 19 | 19:30 | Reel | En kısa sıra | taslak |
+Metricool'da kalan: 15 Kas eski K08 kopyası (taslak, çıkmaz) · 23 Kas P05 · 25 Kas T01 · 30 Kas D06. Her reel gününde App Store link çıkartmalı hikâye.
