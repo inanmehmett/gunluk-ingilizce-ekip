@@ -28,3 +28,6 @@
 - **Charlie:** Kararlar düzeni kurar, 10 kat açığı tek başına kapatmaz. Taramada patlayan bir format çıkmazsa hedef ya da kanal (Collab, TikTok ağırlığı) yeniden konuşulur. Not edildi.
 
 Tek geçiş · Adam ✅ · Mr. Feast ✅ · Charlie ⚠️
+
+## Güncelleme 01:21 (Mehmet)
+- **Collab şimdilik beklemede.** Aday listesi (`raporlar/2026-11-13_rakip_taramasi.md` §5) duruyor; Mehmet açmadıkça mesaj taslağı hazırlanmaz, takvime yazılmaz.
