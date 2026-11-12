@@ -1,4 +1,4 @@
-# TASLAK v1: "Anlıyorum ama konuşamıyorum" paragraf reeli (Mehmet onayı bekliyor, üretim yok)
+# v2 ÜRETİLDİ: "Anlıyorum ama konuşamıyorum" paragraf reeli (Mehmet onayı 13 Kas 01:25)
 
 Kaynak: 22 Eki yorum analizi, en çok beğenilen yorum "anlıyorum ama konuşamıyorum" (222 beğeni). Rakip taramasından D3: durum paragrafı, klip olayın geçtiği yerden.
 
@@ -8,7 +8,7 @@ Hook (beyaz kutu): **Sözlüksüz anlayabiliyor musun?**
 Şeftali kutu, 7 satır, ~205 karakter:
 ```
 I understand English videos perfectly.
-Yesterday a tourist asked me for directions.
+A tourist asked me for directions.
 I knew every word in my head.
 My mouth said: "Eee... there... go."
 She said "thanks" and walked away.
@@ -33,7 +33,7 @@ Anlıyorsun ama konuşamıyorsan bu senin hikâyen. Aynısını yaşayan arkada�
 Türkçesi aşağıda ama önce kendin dene ☝️
 
 👇 Türkçesi
-İngilizce videoları çok iyi anlıyorum. Dün bir turist bana yol sordu. Kafamda her kelimeyi biliyordum. Ağzımdan çıkan: "Eee... şurası... git." "Teşekkürler" dedi ve uzaklaştı. Evde çok güzel anlattım. Aynaya.
+İngilizce videoları çok iyi anlıyorum. Bir turist bana yol sordu. Kafamda her kelimeyi biliyordum. Ağzımdan çıkan: "Eee... şurası... git." "Teşekkürler" dedi ve uzaklaştı. Evde çok güzel anlattım. Aynaya.
 
 Metindeki kalıplar:
 1. ask someone for directions = birine yol sormak
@@ -59,4 +59,9 @@ Böyle metinleri her gün, sözlüğe bakmadan okumanın bir yolu var 👀 Link 
 - Dürüstlük: izleyici seviyesi hakkında iddia yok, uydurma sayı yok ✅. Not’taki "en kısa yol" kanıtsızdı, "iyi bir yolu" yapıldı ✅
 - Karakter adı yok ✅. Tek bilinmeyen kelime ✅
 
-v1 · Adam ✅ · Mr. Feast ✅ · David ✅ (v1 düzeltilmiş) · Mehmet ⏳
+## Üretim (13 Kas, Mac)
+- Satır 2 "Yesterday…" şablon genişliğini aştı (816 px > 747); "Yesterday" çıkarıldı, Türkçede "Dün" de çıkarıldı (ekran–paket eşit). 219 karakter.
+- Klip: IMG_5109 (Köln katedrali, yaya köprüsü; HLG HDR → hable ton eşleme, B Sıcak), kaynak 1,8–13,3 sn, 0,75×. İlk 2 sn'deki pozlama kayması kesildi; döngüde renk sıçraması yok.
+- Çıktı: 04_Yayina-Hazir/anliyorum-konusamiyorum_15sn.mp4 (15 sn, 1080×1920, 13,5 MB) + _ACIKLAMA.txt. Müziği Mehmet IG'de ekler.
+
+v2 · Adam ✅ · Mr. Feast ✅ · David ✅ · Jony ✅ (telefon boyutunda okunur, satırlar kutuda) · Mehmet ✅ (taslak onayı)
