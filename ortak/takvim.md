@@ -133,6 +133,11 @@ Metricool kuyruğu (10 Kas kontrolü): 12 Kas D05 · 14 Kas K10 · 18 Kas D02 ·
 | IMG_3174 (sokak, evler) | 11 Kas (üretildi) | El sallama v3, kelimeye dokunma |
 | IMG_5109 (Köln katedrali, yaya köprüsü) | 13 Kas (üretildi) | Anlıyorum ama konuşamıyorum |
 | IMG_1362 (deniz, açık gökyüzü) | 13 Kas (üretildi) | Pazartesi başlıyorum |
+| IMG_3210 (iç mekân, bina girişi) | 13 Kas (üretildi) | PULL |
+| IMG_3222 (Köln, araç içi) | 13 Kas (üretildi) | D1 taksi |
+| IMG_3192 (gün batımı, sokak) | 13 Kas (üretildi) | Which boss? |
+| IMG_1529 (deniz, martılar) | 13 Kas (üretildi) | %1 şarj |
+| IMG_0898 (deniz, kayalık) | 13 Kas (üretildi) | En kısa sıra |
 | IMG_6393 (göl, tekneler, sonbahar yaprakları) | 6 Kas | "A quiet night in" B2 paragrafı (yayınlanan sürüm) |
 
 Kural: aynı klip 3 hafta içinde tekrar kullanılmaz. Klip açığı (24 Eki, Nate/Jony): Aşama 2'de 3 haftalık rotasyon için en az 24 klip gerekir; Mehmet'ten istenen sayı 12–15'ten 20+'ya çıkarıldı. En az 15 sn, sakin, dikey klipler gerekiyor; Mehmet'ten 12–15 yeni klip istendi (sonbahar, yağmurlu cam, kahve, akşam ışıkları).
@@ -148,13 +153,13 @@ Kural: aynı klip 3 hafta içinde tekrar kullanılmaz. Klip açığı (24 Eki, N
 | Gün | Saat | Tür | İçerik | Durum |
 |---|---|---|---|---|
 | Cum 13 | 19:30 | Reel | Pazartesi başlıyorum (IMG_1362) | ✅ 04_Yayina-Hazir |
-| Cmt 14 | 19:30 | Reel | PULL | taslak |
+| Cmt 14 | 19:30 | Reel | PULL (IMG_3210) | ✅ 04_Yayina-Hazir |
 | Paz 15 | 10:00 | Carousel | K10 Acelen varken | ✅ Metricool (taslaktan çıkarıldı) |
 | Paz 15 | 12:00 | Reel | Anlıyorum ama konuşamıyorum (IMG_5109) – patlama denemesi | ✅ 04_Yayina-Hazir |
-| Pzt 16 | 19:30 | Reel | D1 taksi, büyük yazı | taslak |
+| Pzt 16 | 19:30 | Reel | D1 taksi, büyük yazı (IMG_3222, Köln araç içi; IMG_1398 İstanbul köprüsü olduğu için "yurt dışında" hook'uyla çelişti, elendi) | ✅ 04_Yayina-Hazir |
 | Sal 17 | 10:00 | Carousel | Katılırken/katılmazken 8 ifade | ✅ Metricool (18→17) |
-| Sal 17 | 19:30 | Reel | Which boss? | taslak |
-| Çar 18 | 19:30 | Reel | %1 şarj | taslak |
+| Sal 17 | 19:30 | Reel | Which boss? (IMG_3192) | ✅ 04_Yayina-Hazir |
+| Çar 18 | 19:30 | Reel | %1 şarj (IMG_1529) | ✅ 04_Yayina-Hazir |
 | Per 19 | 10:00 | Carousel | K11 Emin olmadığında | ✅ Metricool (29→19) |
-| Per 19 | 19:30 | Reel | En kısa sıra | taslak |
+| Per 19 | 19:30 | Reel | En kısa sıra (IMG_0898) | ✅ 04_Yayina-Hazir |
 Metricool'da kalan: 15 Kas eski K08 kopyası (taslak, çıkmaz) · 23 Kas P05 · 25 Kas T01 · 30 Kas D06. Her reel gününde App Store link çıkartmalı hikâye.
