@@ -33,3 +33,8 @@ Yeni kelime: charger = şarj aleti · Gönder: Şarjı hep %1'de gezen arkadaş�
 I chose the shortest line. / The woman in front of me / had only one thing to buy. / Then she found a coupon. / Then she couldn’t find her card. / The other lines moved fast. / I’m still in the same line.
 Türkçesi: En kısa sırayı seçtim. Önümdeki kadının alacak tek bir şeyi vardı. Sonra bir kupon buldu. Sonra kartını bulamadı. Diğer sıralar hızla ilerledi. Ben hâlâ aynı sıradayım.
 Yeni kelime: coupon = indirim kuponu · Gönder: Hep yanlış sırayı seçen arkadaşına
+
+## D2 ses denemesi (taslak, 13 Kas 15:15; Mehmet sesi verecek, klibi çekebilirse çekecek)
+Konu: restoran (D1 ailesi: büyük yazı + içerik açıklamada). Karşılaştırma: D1 taksi (müzikli, 16 Kas) ↔ D2 restoran (Mehmet'in sesi). Konu farklı olduğu için sonuç yalnızca **Hipotez (1)**.
+Ekran: "Yurt dışında restoranda lazım olacak 8 cümle" (büyük yazı). Klip: masa POV, yüz ve Türkçe tabela yok.
+Ses metni (~14 sn): Yurt dışında restorandasın. Garson geldi. Ne diyeceksin? / Can I see the menu, please? / I'll have this one. / Can we get some water? / Can I get the bill, please? / Sonuncusunu sen söyle: "Bahşiş dahil mi?" (→ Is the tip included?)
