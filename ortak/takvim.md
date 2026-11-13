@@ -163,3 +163,4 @@ Kural: aynı klip 3 hafta içinde tekrar kullanılmaz. Klip açığı (24 Eki, N
 | Per 19 | 10:00 | Carousel | K11 Emin olmadığında | ✅ Metricool (29→19) |
 | Per 19 | 19:30 | Reel | En kısa sıra (IMG_0898) | ✅ 04_Yayina-Hazir |
 Metricool'da kalan: 15 Kas eski K08 kopyası (taslak, çıkmaz) · 23 Kas P05 · 25 Kas T01 · 30 Kas D06. Her reel gününde App Store link çıkartmalı hikâye.
+**13 Kas 15:26 (Mehmet: "reelsleri sen planla, müziği ben eklerim"):** 7 reel Metricool'da REEL olarak planlandı (autoPublish, müziksiz; videolar carousel reposunda `reels/2026-11/`). Yayından sonra IG'de müzik eklenemediği için Mehmet müziği **yayından önce Metricool planlayıcısında** ekler.
