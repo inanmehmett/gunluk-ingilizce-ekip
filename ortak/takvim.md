@@ -164,3 +164,8 @@ Kural: aynı klip 3 hafta içinde tekrar kullanılmaz. Klip açığı (24 Eki, N
 | Per 19 | 19:30 | Reel | En kısa sıra (IMG_0898) | ✅ 04_Yayina-Hazir |
 Metricool'da kalan: 15 Kas eski K08 kopyası (taslak, çıkmaz) · 23 Kas P05 · 25 Kas T01 · 30 Kas D06. Her reel gününde App Store link çıkartmalı hikâye.
 **13 Kas 15:26 (Mehmet: "reelsleri sen planla, müziği ben eklerim"):** 7 reel Metricool'da REEL olarak planlandı (autoPublish, müziksiz; videolar carousel reposunda `reels/2026-11/`). Yayından sonra IG'de müzik eklenemediği için Mehmet müziği **yayından önce Metricool planlayıcısında** ekler.
+
+## 14 Kas 23:45 (Mehmet, canlı)
+- **PULL reeli 4. saat içgörüsü (telefon ekranı):** 5.553 kişi · 11.556 görüntüleme · ort. izlenme 10 sn · takipçi olmayan %52,5 · kaynak Akış %85,6 / Reels sekmesi %13,6 / Keşfet %0,5 · beğeni 126, yorum 16, gönderme 18, kaydetme 43 · profil ziyareti 64 · **takip 2 · biyografi linki tıklaması 1**. Sonuç: kısıtlama (gölge ban) yok; sorun dönüşüm (takip ve uygulamaya geçiş). İlk gerçek link tıklaması ölçümü.
+- **Karar:** uygulama satırı kalıyor (A/B yapılmayacak). Açıklamalara takip sebebi eklendi: "Yarın 19:30'da yenisi var. Takipte kal 👀" → Paz 15, Pzt 16, Sal 17, Çar 18 reelleri (Metricool güncellendi; Paz 15 müziği korundu). Per 19'a eklenmedi: Cuma 20 için reel planlı değil. Hipotez (0 veri): ölçüt reel başına takip (taban: 2 takip / 5,5 bin kişi).
+- Pzt 16–Per 19 reellerinde hâlâ müzik seçili değil (Mehmet ekleyecek).
