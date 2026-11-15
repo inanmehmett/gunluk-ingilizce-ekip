@@ -23,12 +23,12 @@ def kare(n,ust,metin,kelime,anlam,hook=None,alt=None,off=None):
     x0=100; step=88
     for para in metin.split('\n'):
         for ln in wrap(d,para,fp,W-2*x0):
-            has=any(kelime in w for w in ln)
+            has=bool(kelime) and any(kelime in w for w in ln)
             if has: y+=78
             x=x0
             for w in ln:
                 ww=d.textlength(w,font=fp)
-                if kelime in w:
+                if kelime and kelime in w:
                     px=d.textlength(w[:w.index(kelime)],font=fp); x+=px; kw=d.textlength(kelime,font=fp); d.rounded_rectangle((x-8,y+4,x+kw+8,y+76),10,fill=PEACH)
                     bw=d.textlength(anlam,font=fb)+56; cx=x+kw/2; bx=min(max(cx-bw/2,60),W-60-bw)
                     d.rounded_rectangle((bx,y-92,bx+bw,y-16),22,fill=INK); d.polygon([(cx-14,y-18),(cx+14,y-18),(cx,y+2)],fill=INK)
@@ -39,14 +39,21 @@ def kare(n,ust,metin,kelime,anlam,hook=None,alt=None,off=None):
     if alt: d.text((W/2,y+50),alt,font=font(40,600),fill=ORANGE,anchor='mm')
     assert y<1620,(n,y); im.save(f'hikaye_{n}.png'); return y
 T='THE WRONG SUITCASE'
-kare(1,T+' · 1/4','I got home from the airport at midnight. I was exhausted.\nI opened my suitcase to find my pajamas.\nBut these were not my clothes.','exhausted','bitkin',hook='Bu hikâyeyi sözlüksüz|bitirebilen var mı?')
-kare(2,T+' · 2/4','Inside, there was a blue dress, a camera, and an old notebook.\nOn the first page, someone wrote:\n“If you find this, please don’t call the airline.”','airline','havayolu şirketi')
-kare(3,T+' · 3/4','“Call me.”\nBelow, there was a phone number. I was curious.\nIt was late, but I called. A woman answered after one ring.','curious','meraklı')
-kare(4,T+' · 4/4','“Finally,” she said. “I have your suitcase too. And I opened it.”\n“We need to talk about the letter in your bag.”\nI didn’t have a letter in my bag.','Finally','nihayet')
+kare(1,T+' · 1/4','I got home from the airport at midnight. I was exhausted.\nI opened my suitcase to find my pajamas.\nBut these were not my clothes.',None,None,hook='Bu hikâyeyi sözlüksüz|bitirebilen var mı?')
+kare(2,T+' · 2/4','Inside, there was a blue dress, a camera, and an old notebook.\nOn the first page, someone wrote:\n“If you find this, please don’t call the airline.”',None,None)
+kare(3,T+' · 3/4','“Call me.”\nBelow, there was a phone number. I was curious.\nIt was late, but I called. A woman answered after one ring.',None,None)
+kare(4,T+' · 4/4','“Finally,” she said. “I have your suitcase too. And I opened it.”\n“We need to talk about the letter in your bag.”\nI didn’t have a letter in my bag.',None,None)
+im=Image.new('RGB',(W,H),BG); d=ImageDraw.Draw(im); fp=font(60); fb=font(40,600)
+d.text((W/2,470),'Takıldığın kelime',font=font(60,700),fill=INK,anchor='mm'); d.text((W/2,555),'bunlardan biri miydi?',font=font(60,700),fill=INK,anchor='mm')
+for j,(k,a) in enumerate([('exhausted','bitkin'),('airline','havayolu şirketi'),('curious','meraklı'),('finally','nihayet')]):
+    y=790+j*210; kw=d.textlength(k,font=fp); x=W/2-kw/2; d.rounded_rectangle((x-10,y+2,x+kw+10,y+80),10,fill=PEACH)
+    bw=d.textlength(a,font=fb)+56; d.rounded_rectangle((W/2-bw/2,y-92,W/2+bw/2,y-16),22,fill=INK); d.polygon([(W/2-14,y-18),(W/2+14,y-18),(W/2,y+2)],fill=INK)
+    d.text((W/2,y-54),a,font=fb,fill=(255,255,255),anchor='mm'); d.text((W/2,y+42),k,font=fp,fill=INK,anchor='mm')
+im.save('hikaye_5.png')
 im=Image.new('RGB',(W,H),BG); d=ImageDraw.Draw(im)
 for i,(t,sz,w,c) in enumerate([('Mektup kimin?',76,700,INK),('Hikâyenin sonu yarın burada.',46,400,INK),('',10,400,INK),('Beklemek istemeyenlere:',40,400,GREY),('böyle hikâyeler her gün',46,600,INK),('Daily English’te 🧡'.replace(' 🧡',''),60,700,ORANGE)]):
     d.text((W/2,640+i*110),t,font=font(sz,w),fill=c,anchor='mm')
-im.save('hikaye_5.png')
-s=Image.new('RGB',(5*270,480),BG)
-for i in range(5): s.paste(Image.open(f'hikaye_{i+1}.png').resize((270,480)),(i*270,0))
+im.save('hikaye_6.png')
+s=Image.new('RGB',(6*270,480),BG)
+for i in range(6): s.paste(Image.open(f'hikaye_{i+1}.png').resize((270,480)),(i*270,0))
 s.save('sheet.jpg',quality=85)
