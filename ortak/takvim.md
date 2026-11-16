@@ -171,18 +171,21 @@ Metricool'da kalan: 15 Kas eski K08 kopyası (taslak, çıkmaz) · 23 Kas P05 ·
 - Pzt 16–Per 19 reellerinde hâlâ müzik seçili değil (Mehmet ekleyecek).
 **15 Kas 21:55 (Mehmet):** Metricool'un müzik listesi yetersiz; 16–19 Kas reellerini Mehmet **Instagram uygulamasında kendisi planlıyor** (müzik orada). Metricool'daki 4 reel taslağa alındı (yayınlanmaz, çift paylaşım olmaz). Bundan sonra reel akışı: ekip mp4 + açıklama → 04_Yayina-Hazir; Mehmet IG'de planlar. Carousel'lar Metricool'da kalır.
 
-## 17–23 Kasım (16 Kas haftalık rapor): her gün 1 reel, ızgara R R C, haftada 1 D1
+## 16–23 Kasım (16 Kas, Mehmet canlı): her gün 1 reel, ızgara R R C, haftada 1 D1
+**Karar (16 Kas, Mehmet):** Reelleri bundan sonra Mehmet Instagram uygulamasında planlar (müzik orada). Ekip mp4 + açıklama hazırlar; reel Metricool'a yazılmaz. Carousel'lar Metricool'da kalır.
+Yeni fikir "arkadaşın hikâyesi" öne alındı: bugün çıkıyor; D1 taksi Cuma 20'ye kaydı.
 | Gün | Saat | Tür | İçerik | Durum |
 |---|---|---|---|---|
+| Pzt 16 | 19:30 | Reel | Paragraf "Cüzdan" (arkadaşın hikâyesi, 1. deneme) – `icerik/2026-11-16_reel_cuzdan` | ⏳ render (Mehmet) + IG |
 | Sal 17 | 10:00 | Carousel | Katılırken/katılmazken 8 ifade | ✅ Metricool |
-| Sal 17 | 19:30 | Reel | Paragraf "Which boss?" | ✅ Mehmet IG'de |
-| Çar 18 | 19:30 | Reel | Paragraf "%1 şarj" | ✅ Mehmet IG'de |
+| Sal 17 | 19:30 | Reel | Paragraf "Which boss?" | ✅ mp4 hazır, IG'de Mehmet |
+| Çar 18 | 19:30 | Reel | Paragraf "%1 şarj" | ✅ mp4 hazır, IG'de Mehmet |
 | Per 19 | 10:00 | Carousel | K11 Emin olmadığında | ✅ Metricool |
-| Per 19 | 19:30 | Reel | Paragraf "En kısa sıra" | ✅ Mehmet IG'de |
-| Cum 20 | 19:30 | Reel | Paragraf, yeni fikir "arkadaşın hikâyesi" (anlatıcı "my friend") | ⏳ metin + klip |
+| Per 19 | 19:30 | Reel | Paragraf "En kısa sıra" | ✅ mp4 hazır, IG'de Mehmet |
+| Cum 20 | 19:30 | Reel | D1 "büyük yazı" taksi (16'dan kaydı) | ✅ mp4 hazır, IG'de Mehmet |
 | Cmt 21 | 10:00 | Carousel | Öneri: arşivden D03'ü 25 Oca'dan öne çek | ⏳ öneri |
 | Cmt 21 | 19:30 | Reel | Paragraf (durum paragrafı) | ⏳ metin + klip |
-| Paz 22 | 19:30 | Reel | Paragraf | ⏳ metin + klip |
+| Paz 22 | 19:30 | Reel | Paragraf, arkadaşın hikâyesi 2. deneme (1. sonuca göre) | ⏳ metin + klip |
 | Pzt 23 | 10:00 | Carousel | P05 LOOK ile 8 phrasal verb | ✅ Metricool |
-| Pzt 23 | 19:30 | Reel | D1 "büyük yazı" #2 | ⏳ 16 Kas D1'in 48 sa sonucuna göre |
-Sonrası Metricool'da: 25 Kas T01 · 30 Kas D06. Collab beklemede (Mehmet).
+| Pzt 23 | 19:30 | Reel | Paragraf | ⏳ metin + klip |
+Sonrası Metricool'da: 25 Kas T01 · 30 Kas D06. Collab beklemede (Mehmet). D1 #2 taksi'nin 48 saat sonucundan (Paz 22 19:30) sonra.

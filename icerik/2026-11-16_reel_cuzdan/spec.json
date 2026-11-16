@@ -1,0 +1,15 @@
+{
+ "hook": "Sözlüksüz anlayabiliyor musun?",
+ "satirlar": [
+  "My friend never answers my calls.",
+  "I called him five times yesterday.",
+  "Nothing.",
+  "Then I sent him a message:",
+  "“I found your wallet.”",
+  "He called me back",
+  "in two seconds."
+ ],
+ "sure": 10.5,
+ "yavas": 0.75,
+ "baslangic": 0.5
+}
