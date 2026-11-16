@@ -138,6 +138,10 @@ Metricool kuyruğu (10 Kas kontrolü): 12 Kas D05 · 14 Kas K10 · 18 Kas D02 ·
 | IMG_3192 (gün batımı, sokak) | 13 Kas (üretildi) | Which boss? |
 | IMG_1529 (deniz, martılar) | 13 Kas (üretildi) | %1 şarj |
 | IMG_0898 (deniz, kayalık) | 13 Kas (üretildi) | En kısa sıra |
+| IMG_3229 (Köln, Hohenzollern köprüsü, akşam) | 16 Kas | Cüzdan |
+| IMG_3526 (Amsterdam kanalı, sokak) | 16 Kas (üretildi) | Yanlış yön (Cmt 21) |
+| IMG_3216 (Köln, Ren nehri, köprü) | 16 Kas (üretildi) | Pizza (Paz 22) |
+| IMG_3151 (yağmurlu havalimanı apronu) | 16 Kas (üretildi) | Şemsiye (Pzt 23) |
 | IMG_6393 (göl, tekneler, sonbahar yaprakları) | 6 Kas | "A quiet night in" B2 paragrafı (yayınlanan sürüm) |
 
 Kural: aynı klip 3 hafta içinde tekrar kullanılmaz. Klip açığı (24 Eki, Nate/Jony): Aşama 2'de 3 haftalık rotasyon için en az 24 klip gerekir; Mehmet'ten istenen sayı 12–15'ten 20+'ya çıkarıldı. En az 15 sn, sakin, dikey klipler gerekiyor; Mehmet'ten 12–15 yeni klip istendi (sonbahar, yağmurlu cam, kahve, akşam ışıkları).
@@ -176,7 +180,7 @@ Metricool'da kalan: 15 Kas eski K08 kopyası (taslak, çıkmaz) · 23 Kas P05 ·
 Yeni fikir "arkadaşın hikâyesi" öne alındı: bugün çıkıyor; D1 taksi Cuma 20'ye kaydı.
 | Gün | Saat | Tür | İçerik | Durum |
 |---|---|---|---|---|
-| Pzt 16 | 19:30 | Reel | Paragraf "Cüzdan" (arkadaşın hikâyesi, 1. deneme) – `icerik/2026-11-16_reel_cuzdan` | ⏳ render (Mehmet) + IG |
+| Pzt 16 | 19:30 | Reel | Paragraf "Cüzdan" (arkadaşın hikâyesi, 1. deneme) – `icerik/2026-11-16_reel_cuzdan` | ✅ mp4 hazır, IG'de Mehmet |
 | Sal 17 | 10:00 | Carousel | Katılırken/katılmazken 8 ifade | ✅ Metricool |
 | Sal 17 | 19:30 | Reel | Paragraf "Which boss?" | ✅ mp4 hazır, IG'de Mehmet |
 | Çar 18 | 19:30 | Reel | Paragraf "%1 şarj" | ✅ mp4 hazır, IG'de Mehmet |
@@ -184,10 +188,10 @@ Yeni fikir "arkadaşın hikâyesi" öne alındı: bugün çıkıyor; D1 taksi Cu
 | Per 19 | 19:30 | Reel | Paragraf "En kısa sıra" | ✅ mp4 hazır, IG'de Mehmet |
 | Cum 20 | 19:30 | Reel | D1 "büyük yazı" taksi (16'dan kaydı) | ✅ mp4 hazır, IG'de Mehmet |
 | Cmt 21 | 10:00 | Carousel | Öneri: arşivden D03'ü 25 Oca'dan öne çek | ⏳ öneri |
-| Cmt 21 | 19:30 | Reel | Paragraf (durum paragrafı) | ⏳ metin + klip |
-| Paz 22 | 19:30 | Reel | Paragraf, arkadaşın hikâyesi 2. deneme (1. sonuca göre) | ⏳ metin + klip |
+| Cmt 21 | 19:30 | Reel | Durum paragrafı "Yanlış yön" (otobüs) | ✅ mp4 hazır, IG'de Mehmet |
+| Paz 22 | 19:30 | Reel | Arkadaşın hikâyesi 2. deneme "Pizza" | ✅ mp4 hazır, IG'de Mehmet |
 | Pzt 23 | 10:00 | Carousel | P05 LOOK ile 8 phrasal verb | ✅ Metricool |
-| Pzt 23 | 19:30 | Reel | Paragraf | ⏳ metin + klip |
+| Pzt 23 | 19:30 | Reel | Paragraf "Şemsiye" ("yarın yenisi var" satırı yok: 24 Kas reeli yok) | ✅ mp4 hazır, IG'de Mehmet |
 Sonrası Metricool'da: 25 Kas T01 · 30 Kas D06. Collab beklemede (Mehmet). D1 #2 taksi'nin 48 saat sonucundan (Paz 22 19:30) sonra.
 
 **Ekip onayı (16 Kas, Adam + Sal + Charlie, tek geçiş):**

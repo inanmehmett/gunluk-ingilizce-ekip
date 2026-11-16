@@ -1,0 +1,15 @@
+{
+ "hook": "Sözlüksüz anlayabiliyor musun?",
+ "satirlar": [
+  "I waited twenty minutes for the bus.",
+  "It finally came. I got on.",
+  "I sat down and put on my headphones.",
+  "Ten minutes later, I looked outside.",
+  "Nothing looked familiar.",
+  "It was the right number.",
+  "But the wrong direction."
+ ],
+ "sure": 10.5,
+ "yavas": 0.75,
+ "baslangic": 0.5
+}

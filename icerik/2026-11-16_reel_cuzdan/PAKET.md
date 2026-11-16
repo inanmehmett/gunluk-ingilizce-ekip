@@ -46,4 +46,4 @@ answer someone's calls = birinin aramalarına cevap vermek · five times = beş 
 ## İtirazlar
 - Charlie (yukarıda): uyarı, engel değil. Mr. Feast'in ilk satır önerisi ertelendi (tek değişken).
 
-Onay: v1 · David ✅ · Tomris ✅ · Mr. Feast ✅ · Daniel ✅ · Jony ✅ · Walter ✅ · Charlie ⚠️ · Sal ✅ (son sürüm, render bekliyor)
+Onay: v1 · David ✅ · Tomris ✅ · Mr. Feast ✅ · Daniel ✅ · Jony ✅ · Walter ✅ · Charlie ⚠️ · Sal ✅ · render ✅ (16 Kas 12:40, IMG_3229 Köln Hohenzollern köprüsü, akşam; ekran = PAKET birebir; 04_Yayina-Hazir/2026-11-16_cuzdan.mp4 + .txt)

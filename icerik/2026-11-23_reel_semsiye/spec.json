@@ -1,0 +1,15 @@
+{
+ "hook": "Sözlüksüz anlayabiliyor musun?",
+ "satirlar": [
+  "The forecast said: sunny all day.",
+  "So I left my umbrella at home.",
+  "At noon, it started to rain.",
+  "I bought a new umbrella.",
+  "Five minutes later, the sun came out.",
+  "Now I have six umbrellas at home.",
+  "I never use any of them."
+ ],
+ "sure": 10.5,
+ "yavas": 0.75,
+ "baslangic": 0.5
+}

@@ -1,0 +1,15 @@
+{
+ "hook": "Sözlüksüz anlayabiliyor musun?",
+ "satirlar": [
+  "My friend takes a photo of every meal.",
+  "Yesterday we ordered pizza.",
+  "I was starving.",
+  "She took twenty photos.",
+  "Then she moved to a better table.",
+  "She took ten more.",
+  "The pizza was cold. I ate it anyway."
+ ],
+ "sure": 10.5,
+ "yavas": 0.75,
+ "baslangic": 0.5
+}
