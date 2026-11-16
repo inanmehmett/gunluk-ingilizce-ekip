@@ -28,3 +28,9 @@ take a photo of = fotoğrafını çekmek · order pizza = pizza söylemek · mov
 - David: doğal, A2; tek yeni kelime (starving). Tomris: kural 10, her öğe karşılıklı, eklenti yok. Jony: lnum/tnum, kutu sığıyor, ilk kare telefon boyunda okundu. Walter: ekran = PAKET birebir. Daniel: utandırma yok, gönderme sebebi var. Charlie: reklam üslubu yok.
 
 Onay: v1 · David ✅ · Tomris ✅ · Jony ✅ · Walter ✅ · Sal ✅ · render ✅
+
+
+## v2 (16 Kas 13:15, Mehmet: uzunluk ~200, doğal satır, dolgu yok; klip bazında renk)
+Ekran: Sözlüksüz anlayabiliyor musun? / My friend takes a photo of every meal. / Last night we ordered pizza. / She took twenty photos of it. / Then she moved it to the window. / “Better light,” she said. Ten more. / I was starving. The pizza was cold. / I ate it anyway.
+Türkçesi: Arkadaşım her yemeğin fotoğrafını çeker. Dün akşam pizza söyledik. Pizzanın yirmi fotoğrafını çekti. Sonra pizzayı pencerenin önüne taşıdı. “Işık daha iyi,” dedi. On tane daha. Açlıktan ölüyordum. Pizza soğumuştu. Yine de yedim.
+Açıklamanın geri kalanı v1 ile aynı. Dosya: 04_Yayina-Hazir/1_SIRADAKI. Onay: v2 · David ✅ · Tomris ✅ · Jony ✅ (tam boy kare incelendi) · Walter ✅ · Sal ✅ · render ✅

@@ -47,3 +47,9 @@ answer someone's calls = birinin aramalarına cevap vermek · five times = beş 
 - Charlie (yukarıda): uyarı, engel değil. Mr. Feast'in ilk satır önerisi ertelendi (tek değişken).
 
 Onay: v1 · David ✅ · Tomris ✅ · Mr. Feast ✅ · Daniel ✅ · Jony ✅ · Walter ✅ · Charlie ⚠️ · Sal ✅ · render ✅ (16 Kas 12:40, IMG_3229 Köln Hohenzollern köprüsü, akşam; ekran = PAKET birebir; 04_Yayina-Hazir/2026-11-16_cuzdan.mp4 + .txt)
+
+
+## v2 (16 Kas 13:15, Mehmet: uzunluk ~200, doğal satır, dolgu yok; klip bazında renk)
+Ekran: Sözlüksüz anlayabiliyor musun? / My friend never answers his phone. / Yesterday I called him five times. / Nothing. I sent him three messages. / Still nothing. / So I tried something else. / I texted: “Hey, I found your wallet.” / He called me back in two seconds.
+Türkçesi: Arkadaşım telefonunu hiç açmaz. Dün onu beş kez aradım. Hiçbir şey. Ona üç mesaj attım. Yine hiçbir şey. Ben de başka bir şey denedim. Mesaj attım: “Selam, cüzdanını buldum.” İki saniye içinde beni geri aradı.
+Açıklamanın geri kalanı v1 ile aynı. Dosya: 04_Yayina-Hazir/1_SIRADAKI. Onay: v2 · David ✅ · Tomris ✅ · Jony ✅ (tam boy kare incelendi) · Walter ✅ · Sal ✅ · render ✅

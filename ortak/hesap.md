@@ -55,3 +55,10 @@ Türkçe konuşan yetişkinler, 25–44 yaş, ~%57 kadın, ~%75 Türkiye. İngil
 - **Renk:** B Sıcak (colortemperature 5600 mix 0.6, kontrast 1.04, doygunluk kliple 1.05–1.18). HDR kliplere ton eşlemesi. 60 fps klip 0.5–0.75×, 30 fps klip 1.0×.
 - **Gizli uygulama tanıtımı (hipotez, 0 veri):** normal paragraf içinde seviye üstü tek kelime; uygulamadaki gibi dokunma + anlam balonu. Başka hiçbir fark yok.
 - Klipler artık Mehmet'in bilgisayarında: Masaüstü/Video-Kurgu/01_Ham-Malzeme (118 klip; tema ve hız önerisi `02_Projeler/_renk-testi/klip-analizi.csv`). Üretim o bilgisayarda yapılır, bitmiş video 04_Yayina-Hazir'a düşer.
+
+## Mehmet'in kararları (16 Kas 2026, canlı)
+- **Uzunluk kuralına geri dönüldü:** 13 Kas partisi ve Cüzdan 155–168 karakterde kalmıştı (kural ~200, en çok 220). Yayınlanmamış 4 reel 205–219'a çıkarıldı. Mehmet'in şartı: **karakter için dolgu yok**; ekleme yalnızca hikâyenin gerilimini büyüten adım olabilir (ör. "üç mesaj attım, yine hiçbir şey"). Mantığı bozan ekleme çıkarılır (Cüzdan'daki "His wallet was in his pocket" satırı çıkarıldı: anlatıcı bunu bilemez, punchline'ı gölgeliyordu).
+- **Satır kuralı (15 Eki orijinali incelendi):** satır yalnızca virgülde, "and/but/then/so" öncesinde ya da cümle sonunda biter; özne ile fiil ayrı satıra düşmez; satırlar birbirine yakın uzunlukta; kısa satır yalnızca bilinçli vurgu ("Still nothing.") ya da son satır punchline'ı.
+- **Kutu görünümü değişmez** (15 Eki kazananı; Mehmet sordu, ekip "değişmesin" dedi).
+- **Klip bazında renk:** `araclar/reels/uret_renk.py` (Mac'te `02_Projeler/_uret2.py`). Önce/sonra karşılaştırması `02_Projeler/_renk-testi/once_sonra_hafta.jpg`.
+- HyperFrames bu oturumdan erişilemiyor (Mac'te `~/.hyperframes`, bağlı klasör yalnız Video-Kurgu). Paragraf reelinde animasyon kullanılmaz (sıralı belirme yasak); yeni formatlarda değerlendirilecek.
