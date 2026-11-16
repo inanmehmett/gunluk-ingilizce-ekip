@@ -189,3 +189,9 @@ Yeni fikir "arkadaşın hikâyesi" öne alındı: bugün çıkıyor; D1 taksi Cu
 | Pzt 23 | 10:00 | Carousel | P05 LOOK ile 8 phrasal verb | ✅ Metricool |
 | Pzt 23 | 19:30 | Reel | Paragraf | ⏳ metin + klip |
 Sonrası Metricool'da: 25 Kas T01 · 30 Kas D06. Collab beklemede (Mehmet). D1 #2 taksi'nin 48 saat sonucundan (Paz 22 19:30) sonra.
+
+**Ekip onayı (16 Kas, Adam + Sal + Charlie, tek geçiş):**
+- Adam: ONAY. Izgara R R C tutuyor (15 C → 16 R, 17 C, 17–18 R, 19 C, 19–20 R, 21 C, 21–22 R, 23 C). Tek açık: Cmt 21 carousel'ı; D03'ü 25 Oca'dan öne çekmek Mehmet'in onayına bağlı (Metricool taşıması). Risk (el kitabı hipotezi, 2 hafta): plan ile yayın ayrı yürüyor; her gün 19:30 IG planlaması Mehmet'te.
+- Sal: ONAY. Aynı format üst üste paragraf, ama vaatler farklı (cüzdan, patron, şarj, sıra, taksi). "Yarın 19:30'da yenisi var" satırları tutuyor: 16→17, 17→18, 18→19; 19 En kısa sıra'ya Mehmet IG'de ekleyebilir (Cum 20'de D1 var). [İsteğe bağlı]
+- Charlie: ⚠️ 21–23 Kas reellerinin metni yok; üretim aynı hafta yetişmezse boş gün, takipçi kaybı (reelsiz gün hipotezi 4/4). Metinler bu hafta Salı'ya kadar yazılmalı.
+- Üretim istemi: `icerik/URETIM_ISTEMI_2026-11-16.md` (Mehmet'in bilgisayarına bağlı oturumda çalıştırılır).

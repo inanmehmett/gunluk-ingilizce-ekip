@@ -33,4 +33,17 @@ answer someone's calls = birinin aramalarına cevap vermek · five times = beş 
 - Psikoloji: utandırma yok; gönderme sebebi metinde. Charlie: reklam üslubu yok; "Mehmet ne yakalardı?" listesinde benzeri yok.
 - Ölçüt: 48 saatte gönderme ÷ erişim ≥ %0,5 ve erişim ≥ 10 bin.
 
-Onay: v1 · tek geçiş (David/Tomris/Mr. Feast/Jony/Walter/Daniel/Charlie listesi) ✅ · Sal ✅ – Mehmet'in son bakışı bekleniyor
+## Ekip incelemesi (16 Kas, Mehmet "ekip onayına sun"; yeni format → zorunlu kadro, el kitapları okundu, tek geçiş)
+- **Mr. Feast:** ONAY. İlk cümle tek bakışta anlaşılıyor (el kitabı hipotezi: paragrafı durduran şey ilk cümle). [İsteğe bağlı] Gönderme çağrısını açıklamanın ilk satırına almak (%1,00 hipotezi) bu denemede yapılmadı: tek değişken anlatıcı kalsın.
+- **Daniel:** ONAY. Gönderme sebebi kimlik + mizah ("bu sensin"); ters köşe son. Takılma hafif, arkadaşı küçük düşürmüyor; izleyiciye utanç yok.
+- **David:** ONAY. Dört cümle de doğal. Tek yeni kelime "wallet"; Oxford 3000 seviyesi doğrulanmadı (açık, "pull" ile aynı düzey varsayımı).
+- **Tomris:** ONAY. Kural 10 sayım testi geçti; kalıp notu ile Türkçesi aynı fiiller ("geri aramak", "mesaj atmak", "iki saniye içinde"). "Hiçbir şey." PULL'daki karşılıkla tutarlı.
+- **Jony:** ONAY (düzen). 7 satır kutuda, lnum/tnum, emoji yok. Klip ve telefon boyu kontrolü render'da.
+- **Walter:** ONAY (spec). 10,5 sn diğer paragraflarla aynı; ekran = PAKET birebir render'dan sonra kontrol edilecek.
+- **Charlie:** ⚠️ Twist sonlu PULL da %0,25'te kaldı; Cüzdan tutarsa fark anlatıcıdan mı twist'ten mi tek veriyle ayrılamaz, 2. deneme şart.
+- **Sal (son kapı, 16 Kas): ONAY.** Engel yok. Kayıt render ve "ekran = PAKET" kontrolünden sonra kapanır.
+
+## İtirazlar
+- Charlie (yukarıda): uyarı, engel değil. Mr. Feast'in ilk satır önerisi ertelendi (tek değişken).
+
+Onay: v1 · David ✅ · Tomris ✅ · Mr. Feast ✅ · Daniel ✅ · Jony ✅ · Walter ✅ · Charlie ⚠️ · Sal ✅ (son sürüm, render bekliyor)
