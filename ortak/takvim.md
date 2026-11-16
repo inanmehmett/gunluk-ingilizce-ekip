@@ -199,3 +199,4 @@ Sonrası Metricool'da: 25 Kas T01 · 30 Kas D06. Collab beklemede (Mehmet). D1 #
 - Sal: ONAY. Aynı format üst üste paragraf, ama vaatler farklı (cüzdan, patron, şarj, sıra, taksi). "Yarın 19:30'da yenisi var" satırları tutuyor: 16→17, 17→18, 18→19; 19 En kısa sıra'ya Mehmet IG'de ekleyebilir (Cum 20'de D1 var). [İsteğe bağlı]
 - Charlie: ⚠️ 21–23 Kas reellerinin metni yok; üretim aynı hafta yetişmezse boş gün, takipçi kaybı (reelsiz gün hipotezi 4/4). Metinler bu hafta Salı'ya kadar yazılmalı.
 - Üretim istemi: `icerik/URETIM_ISTEMI_2026-11-16.md` (Mehmet'in bilgisayarına bağlı oturumda çalıştırılır).
+**16 Kas 12:45:** 04_Yayina-Hazir üç klasöre ayrıldı: 1_SIRADAKI (yayın tarihli adlar, 16–23 Kas), 2_YAYINLANDI (12–15 Kas, Metricool'la doğrulandı), 3_KULLANILMAYACAK (R02 eski diyet, R08 liste). Taksi dosyası 2026-11-20 oldu. 17–20 açıklamalarına "Yarın 19:30'da yenisi var" eklendi (19'a da: 20'de taksi var). Kural: yayınlanan dosya 2_YAYINLANDI'ya taşınır.
