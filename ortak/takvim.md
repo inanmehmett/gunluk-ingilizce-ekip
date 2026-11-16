@@ -170,3 +170,19 @@ Metricool'da kalan: 15 Kas eski K08 kopyası (taslak, çıkmaz) · 23 Kas P05 ·
 - **Karar:** uygulama satırı kalıyor (A/B yapılmayacak). Açıklamalara takip sebebi eklendi: "Yarın 19:30'da yenisi var. Takipte kal 👀" → Paz 15, Pzt 16, Sal 17, Çar 18 reelleri (Metricool güncellendi; Paz 15 müziği korundu). Per 19'a eklenmedi: Cuma 20 için reel planlı değil. Hipotez (0 veri): ölçüt reel başına takip (taban: 2 takip / 5,5 bin kişi).
 - Pzt 16–Per 19 reellerinde hâlâ müzik seçili değil (Mehmet ekleyecek).
 **15 Kas 21:55 (Mehmet):** Metricool'un müzik listesi yetersiz; 16–19 Kas reellerini Mehmet **Instagram uygulamasında kendisi planlıyor** (müzik orada). Metricool'daki 4 reel taslağa alındı (yayınlanmaz, çift paylaşım olmaz). Bundan sonra reel akışı: ekip mp4 + açıklama → 04_Yayina-Hazir; Mehmet IG'de planlar. Carousel'lar Metricool'da kalır.
+
+## 17–23 Kasım (16 Kas haftalık rapor): her gün 1 reel, ızgara R R C, haftada 1 D1
+| Gün | Saat | Tür | İçerik | Durum |
+|---|---|---|---|---|
+| Sal 17 | 10:00 | Carousel | Katılırken/katılmazken 8 ifade | ✅ Metricool |
+| Sal 17 | 19:30 | Reel | Paragraf "Which boss?" | ✅ Mehmet IG'de |
+| Çar 18 | 19:30 | Reel | Paragraf "%1 şarj" | ✅ Mehmet IG'de |
+| Per 19 | 10:00 | Carousel | K11 Emin olmadığında | ✅ Metricool |
+| Per 19 | 19:30 | Reel | Paragraf "En kısa sıra" | ✅ Mehmet IG'de |
+| Cum 20 | 19:30 | Reel | Paragraf, yeni fikir "arkadaşın hikâyesi" (anlatıcı "my friend") | ⏳ metin + klip |
+| Cmt 21 | 10:00 | Carousel | Öneri: arşivden D03'ü 25 Oca'dan öne çek | ⏳ öneri |
+| Cmt 21 | 19:30 | Reel | Paragraf (durum paragrafı) | ⏳ metin + klip |
+| Paz 22 | 19:30 | Reel | Paragraf | ⏳ metin + klip |
+| Pzt 23 | 10:00 | Carousel | P05 LOOK ile 8 phrasal verb | ✅ Metricool |
+| Pzt 23 | 19:30 | Reel | D1 "büyük yazı" #2 | ⏳ 16 Kas D1'in 48 sa sonucuna göre |
+Sonrası Metricool'da: 25 Kas T01 · 30 Kas D06. Collab beklemede (Mehmet).
