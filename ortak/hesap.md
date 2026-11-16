@@ -62,3 +62,4 @@ Türkçe konuşan yetişkinler, 25–44 yaş, ~%57 kadın, ~%75 Türkiye. İngil
 - **Kutu görünümü değişmez** (15 Eki kazananı; Mehmet sordu, ekip "değişmesin" dedi).
 - **Klip bazında renk:** `araclar/reels/uret_renk.py` (Mac'te `02_Projeler/_uret2.py`). Önce/sonra karşılaştırması `02_Projeler/_renk-testi/once_sonra_hafta.jpg`.
 - HyperFrames bu oturumdan erişilemiyor (Mac'te `~/.hyperframes`, bağlı klasör yalnız Video-Kurgu). Paragraf reelinde animasyon kullanılmaz (sıralı belirme yasak); yeni formatlarda değerlendirilecek.
+- **HyperFrames erişimi (16 Kas 13:40):** Mehmet `~/.hyperframes` klasörüne izin verdi. Bağlı oturumda `npx -y hyperframes` (v0.9.56) çalışıyor; render henüz denenmedi (headless Chrome gerekebilir). Kullanım alanı: paragraf reelinde değil (yazı sabit, sıralı belirme yasak); hikâye serisi, D2 ses denemesi (altyazı), uygulama tanıtımı gibi yeni formatlarda. `grade-compare` ve `measure` renk/görünüm kontrolü için faydalı.
