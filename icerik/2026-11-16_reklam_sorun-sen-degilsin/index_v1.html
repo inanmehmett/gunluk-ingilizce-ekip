@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="tr" data-resolution="portrait">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=1080, height=1920" />
+<script src="assets/gsap.min.js"></script>
+<style>
+  @font-face { font-family: "Lit"; src: url("assets/Literata.ttf"); font-weight: 200 900; }
+  :root { --cream:#F7F1E8; --ink:#1C1C1C; --peach:#F9D7AE; --orange:#EF8F33; --black:#0E0E0E; }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html, body { width:1080px; height:1920px; overflow:hidden; background:var(--cream); }
+  #root { position:relative; width:1080px; height:1920px; overflow:hidden; background:var(--cream); font-family:"Lit", serif; color:var(--ink); }
+  .layer { position:absolute; inset:0; }
+  .center { display:flex; flex-direction:column; align-items:center; justify-content:center; }
+
+  /* sahne 1 */
+  #s1 { background:var(--cream); }
+  #q { position:absolute; top:1090px; width:100%; text-align:center; font-family:"Inter", sans-serif; font-weight:600; font-size:50px; color:var(--ink); }
+  #hero { position:absolute; left:80px; right:80px; top:790px; font-size:82px; font-weight:650; line-height:1.22; transform-origin:0 0; }
+  #story { position:absolute; left:80px; right:60px; top:775px; font-size:52px; line-height:1.5; font-weight:430; }
+  #story span { display:block; }
+  .hl { text-decoration:underline; text-decoration-color:var(--peach); text-decoration-thickness:30px; text-underline-offset:-18px; text-decoration-skip-ink:none; }
+
+  /* telefon */
+  #phone { position:absolute; left:50%; top:50%; width:690px; height:1488px; margin-left:-345px; margin-top:-744px; border-radius:86px; background:#111; padding:18px; box-shadow:0 60px 120px rgba(60,40,10,.28), 0 0 0 2px #2a2a2a inset; opacity:0; }
+  #screen { position:relative; width:100%; height:100%; border-radius:70px; overflow:hidden; background:var(--cream); }
+  #screen video, #screen img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+  #tap { position:absolute; width:110px; height:110px; border-radius:50%; border:6px solid rgba(239,143,51,.95); background:rgba(239,143,51,.18); opacity:0; }
+
+  /* sahne 3 */
+  #s3 { background:var(--black); opacity:0; }
+  .big { position:absolute; left:80px; right:80px; font-weight:650; font-size:84px; line-height:1.12; color:#fff; }
+  #l1 { top:690px; }
+  #l2 { top:1010px; color:var(--peach); }
+
+  /* sahne 5 */
+  #s5 { background:var(--cream); opacity:0; }
+  #brand { font-size:118px; font-weight:700; letter-spacing:-.02em; }
+  #brand b { color:var(--orange); font-weight:700; }
+  #sub { margin-top:18px; font-family:"Inter", sans-serif; font-size:42px; font-weight:500; color:#6f6455; }
+  #stores { position:absolute; bottom:300px; width:100%; text-align:center; font-family:"Inter", sans-serif; font-size:38px; font-weight:600; color:var(--ink); }
+  #handle { position:absolute; bottom:220px; width:100%; text-align:center; font-family:"Inter", sans-serif; font-size:32px; color:#8a7d6b; }
+  #rule { width:120px; height:8px; background:var(--orange); border-radius:4px; margin:44px auto 0; }
+</style>
+</head>
+<body>
+<div id="root" data-composition-id="main" data-start="0" data-duration="18" data-width="1080" data-height="1920">
+
+  <!-- SAHNE 1: izleyicinin okuduğu hikâye -->
+  <div id="s1" class="layer clip" data-start="0" data-duration="7.2" data-track-index="0">
+    <div id="q">Bunu anladın, değil mi?</div>
+    <div id="hero"><span class="hl">I finally understood the joke.</span></div>
+    <div id="story">
+      <span>Everyone at the table was laughing.</span>
+      <span>I smiled, but I didn't get it.</span>
+      <span>On the way home, I thought about it.</span>
+      <span>Then, at a red light, I got it.</span>
+      <span>I laughed alone in my car.</span>
+      <span>The man in the next car looked at me.</span>
+    </div>
+  </div>
+
+  <!-- TELEFON: gerçek uygulama kaydı -->
+  <div id="phone" data-track-index="1">
+    <div id="screen">
+      <img id="i_okuma" src="assets/okuma.png" class="clip" data-start="6.0" data-duration="1.1" />
+      <video id="v_tap" src="assets/dokunma.mp4" class="clip" data-start="7.0" data-duration="2.6" data-media-start="1.3" muted playsinline></video>
+      <img id="i_kesfet" src="assets/kesfet.png" class="clip" data-start="13.0" data-duration="0.85" />
+      <video id="v_sesli" src="assets/sesli.mp4" class="clip" data-start="13.85" data-duration="0.95" data-media-start="1.0" muted playsinline></video>
+      <video id="v_quiz" src="assets/quiz.mp4" class="clip" data-start="14.8" data-duration="0.95" data-media-start="0.7" muted playsinline></video>
+      <img id="i_defter" src="assets/defter.png" class="clip" data-start="15.75" data-duration="0.6" />
+      <div id="tap"></div>
+    </div>
+  </div>
+
+  <!-- SAHNE 3: suçu kaldır -->
+  <div id="s3" class="layer clip" data-start="9.5" data-duration="3.6" data-track-index="2">
+    <div id="l1" class="big">Sorun hiçbir zaman İngilizcen değildi.</div>
+    <div id="l2" class="big">Okuyacak doğru bir şeyin yoktu.</div>
+  </div>
+
+  <!-- SAHNE 5: kapanış -->
+  <div id="s5" class="layer center clip" data-start="16.3" data-duration="1.7" data-track-index="3">
+    <div id="brand">Daily <b>English</b></div>
+    <div id="sub">İngilizce Oku</div>
+    <div id="rule"></div>
+    <div id="stores">App Store · Google Play</div>
+    <div id="handle">@gunluk_ingilizce'nin uygulaması</div>
+  </div>
+</div>
+
+<script>
+const tl = gsap.timeline({ paused: true, defaults:{ ease:"power3.out" } });
+const lines = gsap.utils.toArray("#story span");
+
+/* 0–7: hikâye. Tek hamlede gelen cümle, sonra paragraf hızla yerleşir (sıralı yavaş belirme yok) */
+tl.fromTo("#hero", { opacity:0, y:40, scale:1.06, filter:"blur(10px)" }, { opacity:1, y:0, scale:1, filter:"blur(0px)", duration:0.35 }, 0.05)
+  .fromTo("#q", { opacity:0, y:12 }, { opacity:1, y:0, duration:0.3 }, 0.55)
+  .to("#q", { opacity:0, duration:0.25 }, 1.75)
+  .to("#hero", { top:560, scale:0.72, duration:0.55, ease:"power4.inOut" }, 1.8)
+  .fromTo(lines, { opacity:0, y:26 }, { opacity:1, y:0, duration:0.3, stagger:0.05 }, 2.05)
+  .fromTo("#s1", { scale:1 }, { scale:1.035, duration:3.6, ease:"none" }, 2.3);
+
+/* 5.9–9.5: sayfa telefona dönüşür, kelimeye dokunma */
+tl.to("#s1", { scale:0.55, opacity:0, duration:0.6, ease:"power3.in" }, 5.9)
+  .fromTo("#phone", { opacity:0, scale:1.5, y:120 }, { opacity:1, scale:1, y:0, duration:0.7, ease:"power3.out" }, 6.05)
+  .to("#phone", { scale:1.42, y:330, duration:0.9, ease:"power2.inOut" }, 7.2)          /* kamera balona yaklaşır */
+  .set("#tap", { left:205, top:425 }, 7.0)
+  .fromTo("#tap", { opacity:0, scale:1.6 }, { opacity:1, scale:0.8, duration:0.22, ease:"power2.out" }, 7.75)
+  .to("#tap", { opacity:0, scale:1.3, duration:0.3 }, 8.0)
+  .to("#phone", { scale:1.0, y:0, duration:0.6, ease:"power2.inOut" }, 8.75);
+
+/* 9.5–13.1: iki satır, vuruşla */
+tl.to("#phone", { opacity:0, scale:0.9, duration:0.3 }, 9.3)
+  .fromTo("#s3", { opacity:0 }, { opacity:1, duration:0.2 }, 9.45)
+  .fromTo("#l1", { opacity:0, scale:1.25, filter:"blur(14px)" }, { opacity:1, scale:1, filter:"blur(0px)", duration:0.32, ease:"power4.out" }, 9.6)
+  .fromTo("#l2", { opacity:0, scale:1.25, filter:"blur(14px)" }, { opacity:1, scale:1, filter:"blur(0px)", duration:0.32, ease:"power4.out" }, 11.0)
+  .to("#s3", { opacity:0, duration:0.25 }, 12.85);
+
+/* 13–16.3: hızlı montaj, her kesmede küçük itiş */
+tl.fromTo("#phone", { opacity:0, scale:0.92, rotation:-2 }, { opacity:1, scale:1, rotation:0, duration:0.35, ease:"back.out(1.6)" }, 12.95);
+[13.85, 14.8, 15.75].forEach(t => {
+  tl.fromTo("#phone", { scale:1.035 }, { scale:1, duration:0.28, ease:"power2.out" }, t);
+});
+tl.to("#phone", { opacity:0, scale:0.85, duration:0.3, ease:"power3.in" }, 16.05);
+
+/* 16.3–18: kapanış */
+tl.fromTo("#s5", { opacity:0 }, { opacity:1, duration:0.25 }, 16.3)
+  .fromTo("#brand", { opacity:0, y:30, letterSpacing:"0.04em" }, { opacity:1, y:0, letterSpacing:"-0.02em", duration:0.5 }, 16.35)
+  .fromTo(["#sub","#rule"], { opacity:0, y:14 }, { opacity:1, y:0, duration:0.35, stagger:0.08 }, 16.55)
+  .fromTo(["#stores","#handle"], { opacity:0 }, { opacity:1, duration:0.35 }, 16.75);
+
+window.__timelines["main"] = tl;
+tl.seek(0);
+</script>
+</body>
+</html>

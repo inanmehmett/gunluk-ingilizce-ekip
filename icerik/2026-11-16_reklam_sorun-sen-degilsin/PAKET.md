@@ -6,3 +6,8 @@ Dürüstlük: rakam yok, ücretsiz deneme yok (doğrulanmadı), sahte yorum yok,
 Test B (üretilmedi): açılış "Altyazısız izlemek isteyenler için."
 Açık: uygulama ikonu (son kare yazı ile), lisanslı müzik.
 Çıktı: `04_Yayina-Hazir/reklam/daily-english-reklam_v1.mp4`.
+
+## v2 (16 Kas 15:21, Mehmet "v2'yi yap")
+Mr. Feast'in v1 eleştirisi: ilk 6 sn durgun, koz (dokunma + balon) 7. sn'de, son kare kısa, kırmızı kayıt saati ham görünüyor.
+Değişenler: 0–1.9 sn kelimeye dokunma ve "heykel" balonu en başta (yakın plan, dokunma halkası) · hikâye 4 satıra indi, sert son: "The man in the next car locked his doors." · 5.4–9.5 sesli okuma, kamera vurgulanan cümleyi izler · temiz durum çubuğu (9:41, kırmızı kayıt işareti yok) · montaj 13–15.35 (quiz yeşile dönüyor) · kapanış 2.8 sn. HyperFrames lint: 0 hata (letterSpacing animasyonu kaldırıldı).
+Çıktı: 04_Yayina-Hazir/reklam/daily-english-reklam_v2.mp4. Müzik yok (kesmeler sabit ritimde).
