@@ -38,3 +38,7 @@ Yarın ilk hikâye geliyor. Takipte kal 👀
 Böyle kalıpları ezberlemeden, okuyarak öğrenmenin bir yolu var 👀 Link profilde 🧡
 
 #ingilizce #ingilizceöğren #ingilizcekalıplar #günlükingilizce #ingilizcekonuşma
+
+## v2 (19 Kas 11:20, Mehmet: Literata, tek düz kutu, tutan reellerin başlık sistemi; alt satırı ekip değerlendirsin)
+Ekran: paragraf şablonunun beyaz hook kutusu (x 146–933, y 664–876, tek dikdörtgen), Literata 400, 60 px, iki satır: "Amerikalıların her gün / kullandığı 20 kalıp". Alt satır ekrandan çıktı.
+Ekip (tek geçiş): Mr. Feast alt satırı istedi (geri gelme sebebi). Charlie: 7 Eyl kazananında ekranda yalnız hook vardı (3 sn geçme %48,7, verinin en iyisi); ikinci satır denenmemiş ikinci değişken. Nate: alt satıra dair veri yok. Karar: ekranda yalnız hook; seri vaadi açıklamanın ilk satırında (akışta görünen ilk 125 karakter) ve her paragrafın 📌 satırında. Onay: Adam ✅ · Mr. Feast ✅ (vaat açıklamada kaldığı için) · Charlie ✅ · Jony ✅ (tam boy kare)
