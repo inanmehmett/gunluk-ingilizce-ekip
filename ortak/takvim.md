@@ -142,6 +142,7 @@ Metricool kuyruğu (10 Kas kontrolü): 12 Kas D05 · 14 Kas K10 · 18 Kas D02 ·
 | IMG_3526 (Amsterdam kanalı, sokak) | 16 Kas (üretildi) | Yanlış yön (Cmt 21) |
 | IMG_3216 (Köln, Ren nehri, köprü) | 16 Kas (üretildi) | Pizza (Paz 22) |
 | IMG_3151 (yağmurlu havalimanı apronu) | 16 Kas (üretildi) | Şemsiye (Pzt 23) |
+| IMG_6157 (göl, kano) | 19 Kas | 20 kalıp listesi (D1) |
 | IMG_6393 (göl, tekneler, sonbahar yaprakları) | 6 Kas | "A quiet night in" B2 paragrafı (yayınlanan sürüm) |
 
 Kural: aynı klip 3 hafta içinde tekrar kullanılmaz. Klip açığı (24 Eki, Nate/Jony): Aşama 2'de 3 haftalık rotasyon için en az 24 klip gerekir; Mehmet'ten istenen sayı 12–15'ten 20+'ya çıkarıldı. En az 15 sn, sakin, dikey klipler gerekiyor; Mehmet'ten 12–15 yeni klip istendi (sonbahar, yağmurlu cam, kahve, akşam ışıkları).
@@ -200,3 +201,16 @@ Sonrası Metricool'da: 25 Kas T01 · 30 Kas D06. Collab beklemede (Mehmet). D1 #
 - Charlie: ⚠️ 21–23 Kas reellerinin metni yok; üretim aynı hafta yetişmezse boş gün, takipçi kaybı (reelsiz gün hipotezi 4/4). Metinler bu hafta Salı'ya kadar yazılmalı.
 - Üretim istemi: `icerik/URETIM_ISTEMI_2026-11-16.md` (Mehmet'in bilgisayarına bağlı oturumda çalıştırılır).
 **16 Kas 12:45:** 04_Yayina-Hazir üç klasöre ayrıldı: 1_SIRADAKI (yayın tarihli adlar, 16–23 Kas), 2_YAYINLANDI (12–15 Kas, Metricool'la doğrulandı), 3_KULLANILMAYACAK (R02 eski diyet, R08 liste). Taksi dosyası 2026-11-20 oldu. 17–20 açıklamalarına "Yarın 19:30'da yenisi var" eklendi (19'a da: 20'de taksi var). Kural: yayınlanan dosya 2_YAYINLANDI'ya taşınır.
+
+
+## 19 Kas güncel sıra (liste formatı eklendi)
+| Gün | Reel |
+|---|---|
+| Per 19 14:00 | Amerikalıların her gün kullandığı 20 kalıp (D1) |
+| Cum 20 | Şarj |
+| Cmt 21 | En kısa sıra |
+| Paz 22 | Yanlış yön |
+| Pzt 23 | Pizza |
+| Sal 24 | Şemsiye |
+| Çar 25 | Taksi (D1) |
+Haftalık hedef: 5 paragraf + 1 'sonuncusunu yaz' görev listesi + 1 hook+liste; okuma videosu 2 haftada bir test.
