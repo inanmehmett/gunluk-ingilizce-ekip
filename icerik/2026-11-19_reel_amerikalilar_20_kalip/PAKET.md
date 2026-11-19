@@ -42,3 +42,5 @@ Böyle kalıpları ezberlemeden, okuyarak öğrenmenin bir yolu var 👀 Link pr
 ## v2 (19 Kas 11:20, Mehmet: Literata, tek düz kutu, tutan reellerin başlık sistemi; alt satırı ekip değerlendirsin)
 Ekran: paragraf şablonunun beyaz hook kutusu (x 146–933, y 664–876, tek dikdörtgen), Literata 400, 60 px, iki satır: "Amerikalıların her gün / kullandığı 20 kalıp". Alt satır ekrandan çıktı.
 Ekip (tek geçiş): Mr. Feast alt satırı istedi (geri gelme sebebi). Charlie: 7 Eyl kazananında ekranda yalnız hook vardı (3 sn geçme %48,7, verinin en iyisi); ikinci satır denenmemiş ikinci değişken. Nate: alt satıra dair veri yok. Karar: ekranda yalnız hook; seri vaadi açıklamanın ilk satırında (akışta görünen ilk 125 karakter) ve her paragrafın 📌 satırında. Onay: Adam ✅ · Mr. Feast ✅ (vaat açıklamada kaldığı için) · Charlie ✅ · Jony ✅ (tam boy kare)
+
+## v3 (19 Kas 12:10, Mehmet: başlığa uygun klip): IMG_3246 (akşam alışveriş caddesi, ışık süsleri, kalabalık, sırtı dönük yürüyenler). Renk: gamma 1.34, doygunluk 1.18, kontrast 1.06, B Sıcak. IMG_6157 serbest kaldı. Yazı v2 ile aynı.

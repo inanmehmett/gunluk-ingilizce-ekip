@@ -142,7 +142,7 @@ Metricool kuyruğu (10 Kas kontrolü): 12 Kas D05 · 14 Kas K10 · 18 Kas D02 ·
 | IMG_3526 (Amsterdam kanalı, sokak) | 16 Kas (üretildi) | Yanlış yön (Cmt 21) |
 | IMG_3216 (Köln, Ren nehri, köprü) | 16 Kas (üretildi) | Pizza (Paz 22) |
 | IMG_3151 (yağmurlu havalimanı apronu) | 16 Kas (üretildi) | Şemsiye (Pzt 23) |
-| IMG_6157 (göl, kano) | 19 Kas | 20 kalıp listesi (D1) |
+| IMG_3246 (Köln, akşam alışveriş caddesi, ışıklar) | 19 Kas | 20 kalıp listesi (D1) |
 | IMG_6393 (göl, tekneler, sonbahar yaprakları) | 6 Kas | "A quiet night in" B2 paragrafı (yayınlanan sürüm) |
 
 Kural: aynı klip 3 hafta içinde tekrar kullanılmaz. Klip açığı (24 Eki, Nate/Jony): Aşama 2'de 3 haftalık rotasyon için en az 24 klip gerekir; Mehmet'ten istenen sayı 12–15'ten 20+'ya çıkarıldı. En az 15 sn, sakin, dikey klipler gerekiyor; Mehmet'ten 12–15 yeni klip istendi (sonbahar, yağmurlu cam, kahve, akşam ışıkları).
