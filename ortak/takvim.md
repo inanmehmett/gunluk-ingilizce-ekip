@@ -214,3 +214,8 @@ Sonrası Metricool'da: 25 Kas T01 · 30 Kas D06. Collab beklemede (Mehmet). D1 #
 | Sal 24 | Şemsiye |
 | Çar 25 | Taksi (D1) |
 Haftalık hedef: 5 paragraf + 1 'sonuncusunu yaz' görev listesi + 1 hook+liste; okuma videosu 2 haftada bir test.
+
+## 21 Kas 00:10 (Mehmet: carousel'ler "ruhsuz", hook'lar ilgi çekici olsun, aldatıcı değil)
+- K11 Emin olmadığında (19 Kas) Mehmet arşivledi → K11R olarak **Cmt 21 10:00** Metricool'da. Kapak: "Herkes “Maybe” der, sen bunları de"; 1. kart Maybe → Not sure.
+- Kapak + açıklama ilk satırı yenilendi (Metricool): Pzt 23 P05 "Tek kelime, 8 farklı anlam: LOOK" · Çar 25 T01 "Uçağı kaçırmamak için 8 kelime" · Paz 30 D06 "Hâlâ “I’m tired” mı diyorsun?". Görseller carousel reposunda */01b.jpg.
+- Kural (Charlie): pohpohlama serbest, doğrulanamayan iddia yok ("hepsini bilen azdır" çıkarıldı).
