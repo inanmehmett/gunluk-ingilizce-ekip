@@ -1,5 +1,5 @@
 import subprocess,array,sys,json,wave
-F="/mnt/user-data/uploads/Video-Kurgu/Uygulama görselleri/ScreenRecording_11-21-2026 00-20-01_1.MP4"
+F=sys.argv[2] if len(sys.argv)>2 else "/mnt/user-data/uploads/Video-Kurgu/Uygulama görselleri/ScreenRecording_11-21-2026 00-20-01_1.MP4"
 SR=48000
 raw=subprocess.run(['ffmpeg','-v','error','-i',F,'-vn','-ac','1','-ar',str(SR),'-f','s16le','-'],capture_output=True).stdout
 src=array.array('h',raw)

@@ -31,7 +31,7 @@ def build(path,sents,balloons,taps,end,heading_ids=()):
     s=open(path).read()
     s=re.sub(r'<div id="para">.*</div></div>\s*<script>',f'<div id="para">{para}</div></div>\n<script>',s,flags=re.S)
     T={"titleAt":-1 if 'reel' in path else 0.25,"paraAt":-1 if 'reel' in path else 0.8,"sent":[],"taps":taps,"end":end}
-    s=re.sub(r'const T = \{.*?\};',f'const T = {json.dumps(T)}; const SENT={json.dumps(S)}; const WORDS={json.dumps(W)};',s,count=1,flags=re.S)
+    s=re.sub(r'const T = \{.*?\};(?: const SENT=.*?\]; const WORDS=.*?\];)?',f'const T = {json.dumps(T)}; const SENT={json.dumps(S)}; const WORDS={json.dumps(W)};',s,count=1,flags=re.S)
     s=s.replace('T.sent.forEach(([a,b], i) => {\n  const s = "#s" + (i+1);','SENT.forEach(([sid,a,b]) => {\n  const s = "#" + sid;')
     if 'WORDS.forEach' not in s:
         s=s.replace('T.taps.forEach','WORDS.forEach(([id,a,b]) => { tl.set("#"+id, {boxShadow:"inset 0 -5px 0 0 #F08C1E"}, a).set("#"+id, {boxShadow:"inset 0 0 0 0 rgba(0,0,0,0)"}, b); });\nT.taps.forEach')
