@@ -219,3 +219,4 @@ Haftalık hedef: 5 paragraf + 1 'sonuncusunu yaz' görev listesi + 1 hook+liste;
 - K11 Emin olmadığında (19 Kas) Mehmet arşivledi → K11R olarak **Cmt 21 10:00** Metricool'da. Kapak: "Herkes “Maybe” der, sen bunları de"; 1. kart Maybe → Not sure.
 - Kapak + açıklama ilk satırı yenilendi (Metricool): Pzt 23 P05 "Tek kelime, 8 farklı anlam: LOOK" · Çar 25 T01 "Uçağı kaçırmamak için 8 kelime" · Paz 30 D06 "Hâlâ “I’m tired” mı diyorsun?". Görseller carousel reposunda */01b.jpg.
 - Kural (Charlie): pohpohlama serbest, doğrulanamayan iddia yok ("hepsini bilen azdır" çıkarıldı).
+- 21 Kas 17:07 (Mehmet hook'ları, onaylı): T01 kapak 'Uçağı kaçırınca akıl veren çok olur. Biz şimdiden verelim: 8 kelime' (01c.jpg) · D06 kapak 'Tired ama hangi tired? Sana hangisi lazım?' (01c.jpg). Metricool güncellendi, açıklama ilk satırları aynı tonda.
