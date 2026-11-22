@@ -14,7 +14,7 @@
 
 ## Kurallar
 1. İlk karede hareket: durağan manzara klibi yok; yürüyen insan, akan trafik, kamera hareketi.
-2. İlk 3 sn'de insan: en az sırtı dönük/elleri görünen biri. Mehmet'in el/yüz çekimi ya da sesi test edilecek (D2 ses testi).
+2. İlk 3 sn'de insan: klipteki insanlar (sırtı dönük, el, kalabalık). KALICI KARAR 22 Kas: Mehmet'in yüzü/sesi yok, yapay zekâ sesi yok, yeni çekim istenmez.
 3. Kutu metni güvenli alanda (y 270–1250).
 4. Deney (Trial Reel, takipçi dışı): aynı reelin iki hali → A: "Sözlüksüz anlayabiliyor musun?" B: hikâyeye özel merak cümlesi (örn. "Telefonu hiç açmayan arkadaşı nasıl aratırsın?"). Kazanan geçme oranıyla seçilir.
 5. Açıklama ilk satırı = ikinci hook (akışta görünen tek metin).
