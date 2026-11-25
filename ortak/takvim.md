@@ -220,3 +220,20 @@ Haftalık hedef: 5 paragraf + 1 'sonuncusunu yaz' görev listesi + 1 hook+liste;
 - Kapak + açıklama ilk satırı yenilendi (Metricool): Pzt 23 P05 "Tek kelime, 8 farklı anlam: LOOK" · Çar 25 T01 "Uçağı kaçırmamak için 8 kelime" · Paz 30 D06 "Hâlâ “I’m tired” mı diyorsun?". Görseller carousel reposunda */01b.jpg.
 - Kural (Charlie): pohpohlama serbest, doğrulanamayan iddia yok ("hepsini bilen azdır" çıkarıldı).
 - 21 Kas 17:07 (Mehmet hook'ları, onaylı): T01 kapak 'Uçağı kaçırınca akıl veren çok olur. Biz şimdiden verelim: 8 kelime' (01c.jpg) · D06 kapak 'Tired ama hangi tired? Sana hangisi lazım?' (01c.jpg). Metricool güncellendi, açıklama ilk satırları aynı tonda.
+
+## 25 Kas – 2 Ara (25 Kas haftalık rapor): her gün 1 reel, haftada 1 D1, ızgara R R C
+| Gün | Saat | Tür | İçerik | Durum |
+|---|---|---|---|---|
+| Çar 25 | 10:00 | Carousel | T01 Uçak 8 kelime | ✅ yayınlandı |
+| Çar 25 | 19:30 | Reel | Paragraf "En kısa sıra" | ✅ mp4 hazır, IG'de Mehmet |
+| Per 26 | 19:30 | Reel | Paragraf "Yanlış yön" | ✅ mp4 hazır, IG'de Mehmet |
+| Cum 27 | 19:30 | Reel | Paragraf "Şemsiye" | ✅ mp4 hazır, IG'de Mehmet |
+| Cmt 28 | 10:00 | Carousel | Öneri: "Telefonda İngilizce" 6 Ara'dan öne çekilsin | ⏳ öneri |
+| Cmt 28 | 19:30 | Reel | D1 "büyük yazı" taksi | ✅ mp4 hazır, IG'de Mehmet |
+| Paz 29 | 19:30 | Reel | Paragraf "Telefonu açmayan arkadaş" 2. bölüm (yeni fikir) | ⏳ metin + klip |
+| Pzt 30 | 10:00 | Carousel | D06 Tired | ✅ Metricool |
+| Pzt 30 | 19:30 | Reel | Paragraf | ⏳ metin + klip |
+| Sal 1 | 19:30 | Reel | Paragraf "Telefonu açmayan arkadaş" 3. bölüm | ⏳ metin + klip |
+| Çar 2 | 10:00 | Carousel | in, on, at | ✅ Metricool |
+| Çar 2 | 19:30 | Reel | Paragraf | ⏳ metin + klip |
+Collab beklemede (Mehmet). 6–7 Ara carousel kapakları eski tip, yenilenmeli.

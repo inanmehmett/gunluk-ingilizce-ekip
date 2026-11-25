@@ -39,3 +39,4 @@ Doğrusal yol bir ölçü çubuğudur; gerçek büyüme dalgalı olur. Asıl sor
 | 2 Kas 2026 | 142.124 | 155.542 | −13.418 | +238 | 🔴 açık büyüyor; gereken tempo ~8.350/hafta |
 | 9 Kas 2026 | 142.182 | 163.763 | −21.581 | +58 | 🔴 açık büyüyor; gereken tempo ~8.434/hafta |
 | 16 Kas 2026 | 142.169 (14 Kas, Metricool son veri) | 171.985 | −29.816 | −13 (9→14 Kas) | 🔴 açık büyüyor; gereken tempo ~8.517/hafta |
+| 23 Kas 2026 | 143.294 (23 Kas, Metricool son veri) | 180.206 | −36.912 | +1.125 (14→23 Kas; son 7 gün −96) | 🔴 açık büyüyor; gereken tempo ~8.592/hafta |
