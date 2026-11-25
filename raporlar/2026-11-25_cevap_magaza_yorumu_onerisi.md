@@ -37,3 +37,7 @@ Satış değil, itiraf: "8 yıl / 2 yıl / tek başıma". Takipçi Mehmet'i hiç
 
 ## Uygulama (25 Kas 19:10)
 Mehmet onayladı: Per 26 akşamı yalnız iOS ile başlıyor. Kareler: `icerik/2026-11-26_hikaye_magaza-yorumu/`. Yorumlar App Store sayfasından çekildi (7 yorum, Play'de yorum yok). Editörden yorum metni istemeye gerek kalmadı; Play 1.0.4 tarihi hâlâ bekleniyor.
+
+## Son karar (25 Kas 19:35, Mehmet)
+Instagram'dan yalnız tek bir hikaye karesi: doğrudan, yorum alıntısız istek + App Store bağlantısı (Per 26 akşam). Android karesi, teşekkür karesi ve dizi yok.
+Uygulama ekibine: asıl ve sürekli yol uygulama içi istek. Mehmet "ya direkt iste ya da sadece uygulama içi isteyelim" dedi. Öneri: iOS'ta sistemin yerleşik puanlama penceresi (SKStoreReviewController / Flutter in_app_review), Play'de In-App Review API; olumlu bir anın ardından (ör. okuma bitişi, seri günü) gösterilsin. Kodda var mı önce kontrol edilsin (ekip kuralı); karar ve ölçüm uygulama ekibinde.

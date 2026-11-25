@@ -30,3 +30,7 @@ Yorum alıntısı tamamen kaldırıldı. v1 kareleri `v1/` altında (Mac: 3_KULL
 2. `v2_2_android.png` – Play 1.0.4 yayına girince, Play bağlantısıyla.
 3. `v2_3_tesekkur.png` (Cum 27) – "Yazanlara teşekkürler. Hepsini tek tek okuyorum."
 Not: Play'de 24 saatlik yayın gecikmesi var; şüpheli toplu aktivitede tüm yeni yorumlar bekletiliyor (support.google.com/googleplay/android-developer/answer/138230). Bu yüzden yalnız gerçek kullanıcılara sesleniyoruz.
+
+## Son karar (25 Kas 19:35, Mehmet): "3 hikaye istek hikayesi olmaz"
+Yalnız TEK kare: `v2_1_istek_ios.png` (Per 26 akşam, App Store bağlantısı). Android ve teşekkür kareleri iptal (`v2_kullanilmayan/`).
+Diğer yol: uygulama içi istek — uygulama ekibine iletildi (raporlar/2026-11-25_cevap_magaza_yorumu_onerisi.md).

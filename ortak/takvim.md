@@ -242,4 +242,5 @@ Collab beklemede (Mehmet). 6–7 Ara carousel kapakları eski tip, yenilenmeli.
 
 25 Kas 16:43 (Mehmet): COME 7 Ara → Per 26 10:00; T01 Uçak yeniden en sona, Pzt 7 Ara 10:00 (Metricool). Bu akşam En kısa sıra (deniz klibiyle, olduğu gibi; klip-hikâye uyumsuzluğu 1. veri noktası), yarın akşam Yanlış yön.
 
-- **Per 26 Kas akşam – Hikaye:** mağaza yorumu isteği, tek kare + App Store bağlantısı (v2, yorumsuz). Cum 27 hikaye: teşekkür karesi. Paket: `icerik/2026-11-26_hikaye_magaza-yorumu/`.
+- **Per 26 Kas akşam – Hikaye:** mağaza yorumu isteği, TEK kare + App Store bağlantısı (dizi yok). Paket: `icerik/2026-11-26_hikaye_magaza-yorumu/`.
+- **Çar 25 Kas akşam – Hikaye:** kelime "line" (En kısa sıra reelinden). `icerik/2026-11-25_hikaye_kelime/`.
