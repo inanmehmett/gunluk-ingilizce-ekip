@@ -43,9 +43,8 @@ def save(im,n):
 
 # Kare 1 — hikaye + gerçek yorum
 im=Image.new('RGB',(W,H),BG); d=ImageDraw.Draw(im)
-y=block(d,430,"8 yıldır bu hesaptayım.\nBir süredir de bir uygulama yapıyorum: Daily English.",font(64,600),92)
-y=block(d,y+40,"Mağazaya şöyle bir yorum yazılmış:",font(46,420),70,GREY)
-card(im,y+70,"Program gündelik hayatta kelimelerin cümle içerisinde hangi anlamda kullanıldığını göstermesi açısından çok iyi. Öğreticiliği mükemmel.","App Store'da bir kullanıcı · 31 Ekim")
+y=block(d,620,"8 yıldır bu hesaptayım.\nBir süredir de bir uygulama yapıyorum: Daily English.",font(64,600),92)
+y=block(d,y+70,"Mağazadaki yorumları tek tek okuyorum. Hepsini.",font(52,450),80,GREY)
 save(im,'yorum_1.png')
 
 # Kare 2 — istek (App Store link çıkartması alttaki boşluğa)
@@ -66,7 +65,7 @@ save(im,'yorum_3_android.png')
 # Ertesi gün — teşekkür
 im=Image.new('RGB',(W,H),BG); d=ImageDraw.Draw(im)
 y=block(d,560,"Okudum. Teşekkürler.",font(72,650),100)
-card(im,y+80,"Tasarımı gerçekten çok hoşuma gitti. Gereksiz özelliklerle dolu değil. Okumaya odaklanabiliyorum. Gelişmeye devam etmesini isterim.","App Store'da bir kullanıcı · 1 Kasım")
+card(im,y+80,"…Okumaya odaklanabiliyorum.","App Store'da bir kullanıcı · 1 Kasım")
 save(im,'yorum_4_tesekkur.png')
 
 sheet=Image.new('RGB',(4*360+50,640),(200,200,200))

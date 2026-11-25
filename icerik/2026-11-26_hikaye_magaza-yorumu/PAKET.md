@@ -17,3 +17,9 @@ Yorumlar kelimesi kelimesine; kullanıcı adı gösterilmiyor ("App Store'da bir
 4. `yorum_4_tesekkur.png` – ertesi gün (Cum 27). Kampanyadan yeni yorum gelirse onunla yeniden üretilir; gelmezse bu (1 Kas yorumu) kullanılır.
 
 Öne çıkanlar: "Yorumlar". Ölçüm: hikaye bağlantı dokunuşu; App Store yorum sayısı 25 Kas = 7 → 29 Kas ve 3 Ara'da tekrar sayılacak.
+
+## Revizyon (25 Kas 19:27, Mehmet)
+Mevcut yorumların bir kısmı arkadaş yorumu/zorlama gibi duruyor. Karar: yorum metni asla düzenlenmez, olmayan yorum yazılmaz.
+- Kare 1: yorum kartı kaldırıldı; yedek metin: "Mağazadaki yorumları tek tek okuyorum. Hepsini."
+- Kare 4: 1 Kas yorumundan yalnız "…Okumaya odaklanabiliyorum." (kısaltma üç noktayla belli, anlam değişmedi).
+- Kural (kalıcı): mağaza yorumu ya kelimesi kelimesine ya üç noktalı kısaltmayla ya da tırnaksız aktarım olarak kullanılır; içerik değiştirilmez. Zorlama duran yorum gösterilmez.
