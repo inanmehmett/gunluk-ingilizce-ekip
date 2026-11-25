@@ -226,10 +226,10 @@ Haftalık hedef: 5 paragraf + 1 'sonuncusunu yaz' görev listesi + 1 hook+liste;
 |---|---|---|---|---|
 | Çar 25 | 10:00 | Carousel | T01 Uçak 8 kelime | 🗄️ arşive (24 Kas reeli çıkmadı, ızgara bozuldu) |
 | Çar 25 | 19:30 | Reel | Paragraf "En kısa sıra" | ✅ mp4 hazır, IG'de Mehmet |
-| Per 26 | 10:00 | Carousel | Öneri: "Telefonda İngilizce" 6 Ara'dan öne | ⏳ öneri |
+| Per 26 | 10:00 | Carousel | COME (7 Ara'dan öne çekildi, Mehmet 25 Kas) | ✅ Metricool |
 | Per 26 | 19:30 | Reel | Paragraf "Yanlış yön" | ✅ mp4 hazır, IG'de Mehmet |
 | Cum 27 | 19:30 | Reel | Paragraf "Şemsiye" | ✅ mp4 hazır, IG'de Mehmet |
-| Cmt 28 | 10:00 | Carousel | Öneri: T01 yeniden ya da COME (7 Ara'dan) | ⏳ öneri |
+| Cmt 28 | 10:00 | Carousel | Boş (öneri: Telefonda İngilizce 6 Ara'dan) | ⏳ |
 | Cmt 28 | 19:30 | Reel | D1 "büyük yazı" taksi | ✅ mp4 hazır, IG'de Mehmet |
 | Paz 29 | 19:30 | Reel | Paragraf "Telefonu açmayan arkadaş" 2. bölüm (yeni fikir) | ⏳ metin + klip |
 | Pzt 30 | 10:00 | Carousel | D06 Tired | ✅ Metricool |
@@ -239,3 +239,5 @@ Haftalık hedef: 5 paragraf + 1 'sonuncusunu yaz' görev listesi + 1 hook+liste;
 | Çar 2 | 19:30 | Reel | Paragraf | ⏳ metin + klip |
 25 Kas (Mehmet): 24 Kas reeli çıkmadı; T01 arşive. Hedef ızgara 23 C · 23 R · 25 R · 26 C · 26 R · 27 R · 28 C · 28 R · 29 R · 30 C · 30 R · 1 R · 2 C.
 Collab beklemede (Mehmet). 6–7 Ara carousel kapakları eski tip, yenilenmeli.
+
+25 Kas 16:43 (Mehmet): COME 7 Ara → Per 26 10:00; T01 Uçak yeniden en sona, Pzt 7 Ara 10:00 (Metricool). Bu akşam En kısa sıra (deniz klibiyle, olduğu gibi; klip-hikâye uyumsuzluğu 1. veri noktası), yarın akşam Yanlış yön.
