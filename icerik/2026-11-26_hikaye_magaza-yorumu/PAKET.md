@@ -23,3 +23,10 @@ Mevcut yorumların bir kısmı arkadaş yorumu/zorlama gibi duruyor. Karar: yoru
 - Kare 1: yorum kartı kaldırıldı; yedek metin: "Mağazadaki yorumları tek tek okuyorum. Hepsini."
 - Kare 4: 1 Kas yorumundan yalnız "…Okumaya odaklanabiliyorum." (kısaltma üç noktayla belli, anlam değişmedi).
 - Kural (kalıcı): mağaza yorumu ya kelimesi kelimesine ya üç noktalı kısaltmayla ya da tırnaksız aktarım olarak kullanılır; içerik değiştirilmez. Zorlama duran yorum gösterilmez.
+
+## v2 (25 Kas 19:30, Mehmet: "direkt isteyelim, yorumlara gerek yok; samimi, dürüst, bilgilendirici")
+Yorum alıntısı tamamen kaldırıldı. v1 kareleri `v1/` altında (Mac: 3_KULLANILMAYACAK/eski_surumler/hikaye_magaza-yorumu_v1).
+1. `v2_1_istek_ios.png` (Per 26 akşam) – "Daily English'i kullanıyorsan senden küçük bir şey isteyeceğim: Ne düşündüğünü mağazaya yaz. İyi ya da kötü, fark etmez. Hepsini okuyorum; düzeltmem gerekenleri oradan öğreniyorum. Senin birkaç cümlen, uygulamayı ilk kez gören birine de yol gösterir." + App Store bağlantı çıkartması (okun altı, y≈1370).
+2. `v2_2_android.png` – Play 1.0.4 yayına girince, Play bağlantısıyla.
+3. `v2_3_tesekkur.png` (Cum 27) – "Yazanlara teşekkürler. Hepsini tek tek okuyorum."
+Not: Play'de 24 saatlik yayın gecikmesi var; şüpheli toplu aktivitede tüm yeni yorumlar bekletiliyor (support.google.com/googleplay/android-developer/answer/138230). Bu yüzden yalnız gerçek kullanıcılara sesleniyoruz.
