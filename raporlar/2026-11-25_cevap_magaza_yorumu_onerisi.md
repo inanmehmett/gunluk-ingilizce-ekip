@@ -34,3 +34,6 @@ Satış değil, itiraf: "8 yıl / 2 yıl / tek başıma". Takipçi Mehmet'i hiç
 ## Uygulama ekibinden ihtiyaç
 - Üç gerçek mağaza yorumunun metni ve takma adları (editör).
 - Play 1.0.4 yayın tarihi.
+
+## Uygulama (25 Kas 19:10)
+Mehmet onayladı: Per 26 akşamı yalnız iOS ile başlıyor. Kareler: `icerik/2026-11-26_hikaye_magaza-yorumu/`. Yorumlar App Store sayfasından çekildi (7 yorum, Play'de yorum yok). Editörden yorum metni istemeye gerek kalmadı; Play 1.0.4 tarihi hâlâ bekleniyor.

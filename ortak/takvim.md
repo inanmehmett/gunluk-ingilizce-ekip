@@ -241,3 +241,5 @@ Haftalık hedef: 5 paragraf + 1 'sonuncusunu yaz' görev listesi + 1 hook+liste;
 Collab beklemede (Mehmet). 6–7 Ara carousel kapakları eski tip, yenilenmeli.
 
 25 Kas 16:43 (Mehmet): COME 7 Ara → Per 26 10:00; T01 Uçak yeniden en sona, Pzt 7 Ara 10:00 (Metricool). Bu akşam En kısa sıra (deniz klibiyle, olduğu gibi; klip-hikâye uyumsuzluğu 1. veri noktası), yarın akşam Yanlış yön.
+
+- **Per 26 Kas akşam – Hikaye:** mağaza yorumu dizisi kare 1+2 (yalnız iOS). Cum 27 hikaye: teşekkür karesi. Paket: `icerik/2026-11-26_hikaye_magaza-yorumu/`.
