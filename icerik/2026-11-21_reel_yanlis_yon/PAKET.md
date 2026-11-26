@@ -54,3 +54,19 @@ Erişim 8–10 bin · 3 sn atlama %58–61 · paylaşım <15 · yorum: soru saye
 
 ## Sabit yorum (Mehmet paylaşır ve sabitler)
 Cevap: B ✅ the direction. Numarası doğruydu, yönü yanlıştı.
+
+## Video v2 (26 Kas 17:20) – Mehmet: "ekip isterse videoyu güncelleyin; bu seferlik 3 hafta kuralına takılan klip de olur"
+1. tur itirazları (hook, klip) yeniden açıldı ve kabul edildi.
+- Klip: IMG_0919 (İstanbul tramvayı, 23 Kas'ta 5 dakika'da kullanıldı; 3 hafta kuralına tek seferlik istisna). Renk: önceki derecelendirilmiş kopya.
+- Hook: "Otobüste dalıp gidenler bilir." (Mr. Feast; Daniel: tanıma duygusu, kimlik; Charlie: seviye iddiası yok ✅; Tomris: doğal ✅)
+- Ekran metni aynı. `spec_v2.json`.
+
+### 2. tur (video v2 + açıklama v3)
+| İtiraz | Karar |
+|---|---|
+| **David + Charlie:** metin "bus", görüntü tramvay. | Kısmen kabul: toplu taşıma + "yanlış yön" hissi sokak görüntüsünden yakın; birebir değil, kayda geçti. |
+| **Nate:** Aynı klip 3 gün önce yayında (5 dakika: 10,3 bin, %58,5). Hook ve klip aynı anda değişti; fark çıkarsa hangisinden geldiği ayrılamaz. | Kabul (ölçüm notu). Sonuç "v2 paketi" olarak okunur, tek değişkene bağlanmaz. |
+| **Jony:** 4–6. saniyelerde tramvay camında bir yolcunun yüzü seçiliyor (aynı görüntü 23 Kas reelinde de vardı). | Mehmet'e bildirildi; karar onda. |
+Onay: Adam ✅ · Sal ✅ · Mr. Feast ✅ · Daniel ✅ · Tomris ✅ · Walter ✅ · Max ✅ · Gary ✅ · Seth ✅ · Brené ✅ · Reid ✅ · David ✅ (şerh: bus/tramvay) · Charlie ✅ (şerh) · Nate ✅ (şerh: ölçüm) · Jony ✅ (şerh: yüz)
+
+Tahmin güncellendi (Daniel + Nate): erişim 9–12 bin, atlama %56–59, paylaşım 10–20. Eski v1 tahmini: 8–10 bin, %58–61.
