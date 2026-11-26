@@ -228,7 +228,7 @@ Haftalık hedef: 5 paragraf + 1 'sonuncusunu yaz' görev listesi + 1 hook+liste;
 | Çar 25 | 10:00 | Carousel | T01 Uçak 8 kelime | 🗄️ arşive (24 Kas reeli çıkmadı, ızgara bozuldu) |
 | Çar 25 | 19:30 | Reel | Paragraf "En kısa sıra" | ✅ mp4 hazır, IG'de Mehmet |
 | Per 26 | 10:00 | Carousel | COME (7 Ara'dan öne çekildi, Mehmet 25 Kas) | ✅ Metricool |
-| Per 26 | 19:30 | Reel | Paragraf "Yanlış yön" v1 (eski plan; Mehmet 18:03 "eski plan kalsın"). "Yedin mi?" iptal (Mehmet: etkilemedi). Açıklama v3 (çeviri düzeltmesi + A/B/C sorusu). | ✅ mp4 hazır, IG'de Mehmet |
+| Per 26 | ~21:00 | Reel | Paragraf "Pizza" (ders raporuna göre Yanlış yön yerine; açıklamada A/B/C sorusu; iki turlu onay). Yanlış yön beklemede. | ✅ mp4 hazır, IG'de Mehmet |
 | Cum 27 | 19:30 | Reel | Paragraf "Şemsiye" | ✅ mp4 hazır, IG'de Mehmet |
 | Cmt 28 | 10:00 | Carousel | Boş (öneri: Telefonda İngilizce 6 Ara'dan) | ⏳ |
 | Cmt 28 | 19:30 | Reel | D1 "büyük yazı" taksi | ✅ mp4 hazır, IG'de Mehmet |
