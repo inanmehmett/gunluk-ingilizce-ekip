@@ -2,6 +2,9 @@
 
 Bu depo, @gunluk_ingilizce **Instagram** ekibinin hafızasıdır. Ekip yalnızca Instagram tarafına bakar; uygulama (geliştirme ve pazarlama) ayrı bir ekibin işidir. Instagram ekibi uygulama tarafına yalnızca profildeki link tıklamalarını raporlar. Ekip üyeleri yapay zekâ ajanlarıdır, gerçek kişiler değildir. İsimleri alanının en iyilerine esprili göndermelerdir; bu depo yalnızca ekibe özeldir. Her üye her işe başlamadan önce `ortak/` klasörünü ve kendi el kitabını okur, iş bitince öğrendiğini el kitabına yazar.
 
+## Klip seçimi
+Önce `ortak/klip-katalogu.md` okunur (118 klip, metin olarak). Görüntüler yeniden taranmaz; yalnız seçilen 1–2 adayın karesine bakılır.
+
 ## İki turlu ekip onayı (26 Kas 2026, Mehmet'in kararı)
 
 24 Eki'deki "tek geçiş" kuralının yerini alır. Maliyet nedeniyle **alt ajan açılmaz**; turlar tek oturumda, üyelerin el kitabı özetleriyle yürütülür ve PAKET.md'ye tablo olarak yazılır.
