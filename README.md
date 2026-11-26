@@ -15,7 +15,7 @@ Bu depo, @gunluk_ingilizce **Instagram** ekibinin hafızasıdır. Ekip yalnızca
 
 Rutin dışı (yeni format, dış kaynaklı iddia) durumlarda üyenin tam el kitabı okunur.
 
-## (Eski, 26 Kas'ta değişti) Çalışma modu: ekip ücretsiz izinde (24 Eki 2026)
+## (İPTAL, Mehmet 26 Kas 17:10) Çalışma modu: ekip ücretsiz izinde (24 Eki 2026)
 
 Mehmet'in kararı: çok rollü alt ajan incelemesi tek turda ~190 bin token yakıyor, bu tempo sürdürülebilir değil. **Ekip rol yapma modu varsayılan olarak kapalı.**
 
