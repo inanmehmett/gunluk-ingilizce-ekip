@@ -2,7 +2,20 @@
 
 Bu depo, @gunluk_ingilizce **Instagram** ekibinin hafızasıdır. Ekip yalnızca Instagram tarafına bakar; uygulama (geliştirme ve pazarlama) ayrı bir ekibin işidir. Instagram ekibi uygulama tarafına yalnızca profildeki link tıklamalarını raporlar. Ekip üyeleri yapay zekâ ajanlarıdır, gerçek kişiler değildir. İsimleri alanının en iyilerine esprili göndermelerdir; bu depo yalnızca ekibe özeldir. Her üye her işe başlamadan önce `ortak/` klasörünü ve kendi el kitabını okur, iş bitince öğrendiğini el kitabına yazar.
 
-## Çalışma modu: ekip ücretsiz izinde (24 Eki 2026)
+## İki turlu ekip onayı (26 Kas 2026, Mehmet'in kararı)
+
+24 Eki'deki "tek geçiş" kuralının yerini alır. Maliyet nedeniyle **alt ajan açılmaz**; turlar tek oturumda, üyelerin el kitabı özetleriyle yürütülür ve PAKET.md'ye tablo olarak yazılır.
+
+**Maddeler (her içerikte tek tek dönülür):** 1) duygu ve beklenen davranış · 2) hook/kapak · 3) İngilizce metin · 4) Türkçe çeviri · 5) görsel/klip · 6) kurgu ve süre · 7) açıklama ve çağrı · 8) dürüstlük · 9) veri (benzer içerik ne yaptı).
+
+1. **1. tur:** Her madde için bütün üyeler sırayla ONAY ya da gerekçeli İTİRAZ verir. Bir üye onaylamış olsa bile sonraki üyenin itirazı geçerlidir.
+2. **Karar:** Her itiraz tek tek karara bağlanır (kabul / kısmen / ret + gerekçe). Kararı Adam Koseri verir; kendi alanındaki itirazda üyenin sözü ağır basar (dil: David/Tomris, dürüstlük: Charlie, veri: Nate, psikoloji: Daniel). 2 turda çözülmezse iki görüş Mehmet'e çıkar.
+3. **2. tur:** Düzeltilmiş **son hâl** yeniden bütün üyelerden geçer. Yeni itiraz çıkarsa 2. ve 3. adım tekrarlanır.
+4. **Kayıt:** PAKET.md'de madde × üye tablosu, itirazlar ve kararlar, en altta son sürüm onay satırı. Bu kayıt yoksa içerik Mehmet'e gitmez.
+
+Rutin dışı (yeni format, dış kaynaklı iddia) durumlarda üyenin tam el kitabı okunur.
+
+## (Eski, 26 Kas'ta değişti) Çalışma modu: ekip ücretsiz izinde (24 Eki 2026)
 
 Mehmet'in kararı: çok rollü alt ajan incelemesi tek turda ~190 bin token yakıyor, bu tempo sürdürülebilir değil. **Ekip rol yapma modu varsayılan olarak kapalı.**
 

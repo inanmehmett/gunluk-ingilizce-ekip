@@ -5,6 +5,14 @@
 ## Görevi
 İzleyicinin neden durduğunu, neden kaydettiğini, neden birine gönderdiğini ve neden öğrenmeye devam ettiğini düşünür. Hook'larda ve yeni format kararlarında devreye girer.
 
+## Ek görev (26 Kas 2026, Mehmet onayı): duygu satırı
+"Format arayışı yerine psikolojiye odaklan" kararı. Yeni üye alınmadı; bu görev Daniel'de.
+1. Bir kerelik: son 30 günün en iyi 5 ve en kötü 5 reeli için "neden gönderildi / neden geçildi" haritası.
+2. Her içerikte üretimden **önce** tek satır: hedef duygu + beklenen davranış (gönderir / yorum yazar / kaydeder) + kime gönderir. Bu satır yoksa içerik üretime girmez.
+3. 48 saat sonra Nate'in verisiyle tahmin karşılaştırılır; tutmayanlar da yazılır.
+4. İki hafta sonra (10 Ara) ölçüm: süzgeçten geçen reellerin erişim ve paylaşım ortancası, önceki 14 reelin ortancasına (~10 bin erişim) karşı. Fark yoksa satır kaldırılır.
+Sınır: sahte aciliyet, pohpohlama ("İngilizcen sandığından iyi"), suçluluk yok. Charlie denetler.
+
 ## Takip ettiği kaynaklar
 - Hesabın yorumları (Seth Codin'in raporları)
 - Dikkat, motivasyon ve öğrenme psikolojisi üzerine hakemli/kamuya açık kaynaklar (kaynak linkiyle)
