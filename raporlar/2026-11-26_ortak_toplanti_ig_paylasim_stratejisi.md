@@ -80,3 +80,13 @@ Mr. Feast: Reklam yerine **merak** satıyoruz. Okuma metninin ilk yarısını re
 ## 7. Mehmet'ten beklenen
 - Bu çerçeveye onay. Özellikle **haftada en çok 2 uygulama hikâyesi** ve **akışta uygulamanın tek konu olduğu gönderi yok** kuralları.
 - Karar 3 ve 6'daki iki küçük teknik iş (bio linki, öne çıkan ekleme). Diğerlerini ekipler yürütür.
+
+## Onay (26 Kas 08:42, Mehmet)
+Tüm kurallar onaylandı. Ek: **nadiren uygulama reklamı yapılabilir, abartmadan, araya yedirerek.** Uygulama: akışta en çok 2 haftada 1; değerli içeriğin içinde (Cüzdan örneği: açıklamanın ilk satırı), tek konu uygulama olmadan, emir kipi yok.
+
+## Ek oturum: format değişmeli mi? (aynı veri)
+- 3 sn atlama erişimi belirliyor: ≤%51 → 30–185 bin (Cüzdan, Komşu); %52–57 → 16–20 bin (C1, 31 Eki, Pull, Pazartesi); ≥%58 → 8–10 bin (16 Kas sonrası paragrafların hepsi). 14 veri noktası, aynı yön → ders.
+- 17 Kas'tan beri arka arkaya 5 paragraf reeli %58–61'de. Biçim aynı, konu farklı → yorgunluk hipotezi (5 nokta, nedensellik kanıtlanmadı).
+- Kaydetme listeden geliyor (2 Kas 828, 7 Kas 403, 20 kalıp 176); paylaşım ve yorum anlardan (Cüzdan 449 paylaşım).
+- Carousel: "herkes X der / X her zaman doğru ama…" hook'lu iki set (Maybe, Sorry) 11,8–13,1 bin erişim ve 7–12 takip; düz başlıklılar 5,3–6,4 bin ve 0–1 takip. 2'ye 3 → hipotez.
+Karar önerisi: formatı atma, monotonluğu kır. Haftalık karışım + carousel kapak dili + 2 yeni format testi (Mehmet onayına sunuldu).
