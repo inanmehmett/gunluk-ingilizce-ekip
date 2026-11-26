@@ -139,7 +139,8 @@ Metricool kuyruğu (10 Kas kontrolü): 12 Kas D05 · 14 Kas K10 · 18 Kas D02 ·
 | IMG_1529 (deniz, martılar) | 13 Kas (üretildi) | %1 şarj |
 | IMG_0898 (deniz, kayalık) | 13 Kas (üretildi) | En kısa sıra |
 | IMG_3229 (Köln, Hohenzollern köprüsü, akşam) | 16 Kas | Cüzdan |
-| IMG_3526 (Amsterdam kanalı, sokak) | 16 Kas (üretildi) | Yanlış yön (Cmt 21) |
+| IMG_3526 (Amsterdam kanalı, sokak) | 16 Kas (üretildi, yayınlanmadı) | Yanlış yön v1 |
+| IMG_3448 (araç içinden, şehir, kırmızı ışık) | 26 Kas | Yanlış yön v3 |
 | IMG_3216 (Köln, Ren nehri, köprü) | 16 Kas (üretildi) | Pizza (Paz 22) |
 | IMG_3151 (yağmurlu havalimanı apronu) | 16 Kas (üretildi) | Şemsiye (Pzt 23) |
 | IMG_3246 (Köln, akşam alışveriş caddesi, ışıklar) | 19 Kas | 20 kalıp listesi (D1) |
@@ -227,7 +228,7 @@ Haftalık hedef: 5 paragraf + 1 'sonuncusunu yaz' görev listesi + 1 hook+liste;
 | Çar 25 | 10:00 | Carousel | T01 Uçak 8 kelime | 🗄️ arşive (24 Kas reeli çıkmadı, ızgara bozuldu) |
 | Çar 25 | 19:30 | Reel | Paragraf "En kısa sıra" | ✅ mp4 hazır, IG'de Mehmet |
 | Per 26 | 10:00 | Carousel | COME (7 Ara'dan öne çekildi, Mehmet 25 Kas) | ✅ Metricool |
-| Per 26 | 19:30 | Reel | Paragraf "Yanlış yön" v2 (IMG_0919 tramvay, 3 hafta kuralına tek seferlik istisna; hook "Otobüste dalıp gidenler bilir."; iki turlu onay) | ✅ mp4 hazır, IG'de Mehmet |
+| Per 26 | 19:30 | Reel | Paragraf "Yanlış yön" v3 (IMG_3448 araç içinden; tramvay v2 reddedildi; hook "Otobüste dalıp gidenler bilir."; iki turlu onay) | ✅ mp4 hazır, IG'de Mehmet |
 | Cum 27 | 19:30 | Reel | Paragraf "Şemsiye" | ✅ mp4 hazır, IG'de Mehmet |
 | Cmt 28 | 10:00 | Carousel | Boş (öneri: Telefonda İngilizce 6 Ara'dan) | ⏳ |
 | Cmt 28 | 19:30 | Reel | D1 "büyük yazı" taksi | ✅ mp4 hazır, IG'de Mehmet |

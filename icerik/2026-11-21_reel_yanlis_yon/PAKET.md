@@ -70,3 +70,10 @@ Cevap: B ✅ the direction. Numarası doğruydu, yönü yanlıştı.
 Onay: Adam ✅ · Sal ✅ · Mr. Feast ✅ · Daniel ✅ · Tomris ✅ · Walter ✅ · Max ✅ · Gary ✅ · Seth ✅ · Brené ✅ · Reid ✅ · David ✅ (şerh: bus/tramvay) · Charlie ✅ (şerh) · Nate ✅ (şerh: ölçüm) · Jony ✅ (şerh: yüz)
 
 Tahmin güncellendi (Daniel + Nate): erişim 9–12 bin, atlama %56–59, paylaşım 10–20. Eski v1 tahmini: 8–10 bin, %58–61.
+
+## Video v3 (26 Kas 17:30) – Mehmet v2'yi reddetti: "bu tramvay olmaz, daha çok yakın" (23 Kas'ta kullanıldı)
+- Klip: **IMG_3448** (araç içinden yan cam, yabancı şehir, kırmızı ışık; ilk kullanım). 6,6 sn → 0,61× ile 10,5 sn. Renk: gamma 0,91 · doygunluk 1,18 · kontrast 1,06.
+- Hook ve metin v2 ile aynı ("Otobüste dalıp gidenler bilir."). `spec_v3.json`.
+- Gerekçe (Jony + Daniel): "I looked outside. Nothing looked familiar." cümlesinin birebir görüntüsü: araçtan dışarı bakış, tanımadık şehir.
+- 2. tur: Jony ✅ · Walter ✅ (0,61× yavaşlatma akıcı) · David ✅ (şerh: araç otobüs değil, otomobil camı; yakın plan olduğundan ayırt edilmiyor) · Charlie ✅ · Nate ✅ (şerh: hook + klip birlikte değişti) · Daniel ✅ · Mr. Feast ✅ · Tomris ✅ · Sal ✅ · Adam ✅ · diğerleri ✅. Yüz ve plaka görünmüyor.
+- v2 (tramvay) kullanılmadı. Klip günlüğü: IMG_3448 → 26 Kas Yanlış yön.
