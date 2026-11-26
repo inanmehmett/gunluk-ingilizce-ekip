@@ -37,8 +37,8 @@ Geriye dönük uyum: Cüzdan ve 5 dakika (arkadaş), Which boss (patron) zaten b
 
 ### S1 · Anne · "Yedin mi?" — özlem
 Hook: Annemin her akşam attığı mesaj.
-My mom texts me every evening: / “Did you eat?” / Sometimes I forget to answer. / Last night, no message came. / I looked at my phone for ten minutes. / Then I texted her: / “Did you eat?”
-TR: Annem her akşam mesaj atar: “Yedin mi?” Bazen cevap yazmayı unutuyorum. Dün gece mesaj gelmedi. On dakika telefona baktım. Sonra ben yazdım: “Yedin mi?”
+My mom texts me every evening: “Did you eat?” / Sometimes I’m busy and forget to answer. / Last night, no message came. / I looked at my phone for ten minutes. / Nothing. / Then I texted her: / “Did you eat?”
+TR: Annem her akşam mesaj atar: “Yedin mi?” Bazen işim oluyor, cevap yazmayı unutuyorum. Dün gece mesaj gelmedi. On dakika telefona baktım. Hiçbir şey. Sonra ben yazdım: “Yedin mi?”
 Kimi görecek: annesini. Davranış: anneye gönderir, kaydeder. Açıklama sorusu: "Sen en son ne zaman sordun?"
 
 ### S2 · Baba · söylenmeyen sevgi
@@ -70,6 +70,11 @@ Hook: “Küçük bir soru” diyen patron.
 At 5:55, my boss came to my desk. / “Just a quick question.” / The question took one hour. / At seven, he said, “Great talk!” / “Leave early tomorrow.” / The next day, at 5:55, / he had another quick question.
 TR: 17.55’te patronum masama geldi. “Küçük bir soru.” Soru bir saat sürdü. Yedide “Güzel konuştuk!” dedi. “Yarın erken çık.” Ertesi gün 17.55’te küçük bir sorusu daha vardı.
 Kimi görecek: patronunu. Davranış: iş arkadaşına gönderir.
+
+## 5b. Uzunluk (Mehmet 26 Kas 17:44: "tutan reellerdeki uzunluğu azaltmayalım")
+Ölçülen (İngilizce ekran metni): 15 Eki paragrafı ~200 krk/~40 kelime (388 bin) · Cüzdan 161/30 (185 bin) · Pull 160/33 (16,8 bin) · Pazartesi 174/33 (16,1 bin) · 5 dakika 198/35 (10,3 bin) · Which boss 214 (10,0 bin) · Şarj 219 (8,7 bin) · En kısa sıra 205 (5,3 bin). Uzunluk erişimi açıklamıyor (en iyi iki reel 161 ve ~200).
+Kural: 185–220 karakter, 33–42 kelime, 6–7 satır; 185'in altına inilmez.
+Bu 6 bölüm: S1 187/37 (v3, 176'dan uzatıldı) · S2 189/38 · S3 191/40 · T1 187/38 · T2 196/33 · T3 197/36.
 
 ## 6. Ekip turu (1. tur itirazları → karar → 2. tur)
 | Kim | İtiraz | Karar |
