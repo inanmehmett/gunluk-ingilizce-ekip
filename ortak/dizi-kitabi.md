@@ -95,3 +95,8 @@ Bu 6 bölüm: S1 196/37 (v3, 176'dan uzatıldı) · S2 189/38 · S3 191/40 · T1
 ## 7. Önerilen sıra
 Cum 27 S1 Anne · Cmt 28 T1 Arkadaş · Paz 29 S2 Baba · Pzt 30 T2 Hala · Sal 1 S3 Anneanne · Çar 2 T3 Patron.
 Kuyruktaki Şemsiye ve Taksi beklemeye alınır (Mehmet kararı).
+
+## 8. Seviye karışımı (Mehmet 26 Kas 20:49)
+"Erişim için A2 iyi ama bazen üst seviyelere de yapalım: B2, C1."
+Veri: 1 Kas C1 metni 19,9 bin erişim, 335 kaydetme (16,8/1000; paragraflar içinde en yüksek kaydetme oranı), paylaşım 1,9/1000. 20 Eki B1: 16,8 bin, 164 kaydetme. 6 Kas B2: 10,8 bin, 139 kaydetme. Üst seviye az gönderiliyor, çok kaydediliyor.
+Kural: haftada 5–6 A2, **1 üst seviye (B1–C1 dönüşümlü)**. Üst seviyede: ilk cümle yine kısa ve somut (6 Kas B2'nin zayıflığı ilk cümlenin uzunluğuydu), açıklamada "Metnin seviyesi: …" (seviye metne aittir, izleyiciye değil), çağrı "kaydet" ağırlıklı. Başarı ölçütü erişim değil kaydetme oranı.
