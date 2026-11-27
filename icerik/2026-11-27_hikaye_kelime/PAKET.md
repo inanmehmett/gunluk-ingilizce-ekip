@@ -13,3 +13,5 @@ Her karenin cevabı bir sonraki karenin üstünde. 1–4. karelere test çıkart
 
 Ekip: Daniel ✅ (merak + "bildiğimi sanıyordum" şaşkınlığı; her kare bir öncekinin cevabını veriyor, ileri dokunma nedeni var) · Mr. Feast ✅ · David ✅ (dört kullanım da doğru ve gündelik) · Tomris ✅ · Charlie ✅ (kapanışta özellik iddiası yok; "cümle içinde okumak" uygulamanın yaptığı şey) · Steve İşler: haftalık 2 uygulama hikâyesi sınırına sayılır (bu hafta 1. ya da 2.) · Nate: ölçüm = kare kare ileri/çıkış ve bağlantı dokunuşu (Instagram hikâye istatistikleri, Mehmet'ten).
 Tutarsa seri: her reelden bir kelime, 4 bağlam (line, run, get, right…).
+
+v2 (Mehmet 21:11: "ilk görsel ile format aynı olmalı"): 2–5. kareler ilk karenin düzeninde (üstte küçük etiket = önceki cevap, büyük vurgulu kelime, cümle, "Ne demek?"). Kural: seri kareleri hep bu tek şablonla.
