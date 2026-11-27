@@ -100,3 +100,8 @@ Kuyruktaki Şemsiye ve Taksi beklemeye alınır (Mehmet kararı).
 "Erişim için A2 iyi ama bazen üst seviyelere de yapalım: B2, C1."
 Veri: 1 Kas C1 metni 19,9 bin erişim, 335 kaydetme (16,8/1000; paragraflar içinde en yüksek kaydetme oranı), paylaşım 1,9/1000. 20 Eki B1: 16,8 bin, 164 kaydetme. 6 Kas B2: 10,8 bin, 139 kaydetme. Üst seviye az gönderiliyor, çok kaydediliyor.
 Kural: haftada 5–6 A2, **1 üst seviye (B1–C1 dönüşümlü)**. Üst seviyede: ilk cümle yine kısa ve somut (6 Kas B2'nin zayıflığı ilk cümlenin uzunluğuydu), açıklamada "Metnin seviyesi: …" (seviye metne aittir, izleyiciye değil), çağrı "kaydet" ağırlıklı. Başarı ölçütü erişim değil kaydetme oranı.
+
+## 9. Hook seçim ölçütü (Mehmet 27 Kas 21:15)
+"Hook seçiyorsak işini en iyi yapan olmalı. Kullanıcıyı durdurmayan hook işe yaramaz."
+Sıra: (1) dürüst mü (iddia, abartı, seviye vaadi yok) → (2) durduruyor mu (izleyene doğrudan sesleniyor, cevabı vermiyor, merak bırakıyor) → (3) dil pürüzsüzlüğü. Anlam inceliği itirazı, dürüstlük sorunu değilse durdurma gücünün önüne geçmez.
+Uygulama: "… ama hangi …? Sana hangisi lazım?" carousel serisinin sabit kapak kalıbı (Tired 30 Kas, Free 6 Ara). Tomris'in "Bedava mı, boş mu, özgür mü?" önerisi cevabı kapakta verdiği için reddedildi.
