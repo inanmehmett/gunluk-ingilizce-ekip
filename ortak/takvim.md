@@ -140,6 +140,7 @@ Metricool kuyruğu (10 Kas kontrolü): 12 Kas D05 · 14 Kas K10 · 18 Kas D02 ·
 | IMG_0898 (deniz, kayalık) | 13 Kas (üretildi) | En kısa sıra |
 | IMG_3229 (Köln, Hohenzollern köprüsü, akşam) | 16 Kas | Cüzdan |
 | IMG_3526 (Amsterdam kanalı, sokak) | 16 Kas (üretildi, yayınlanmadı) | Yanlış yön v1 |
+| IMG_3161 (yağmurlu cam) | 27 Kas | Cuma planı |
 | IMG_3448 (araç içinden, şehir, kırmızı ışık) | 26 Kas | Yanlış yön v3 |
 | IMG_3216 (Köln, Ren nehri, köprü) | 16 Kas (üretildi) | Pizza (Paz 22) |
 | IMG_3151 (yağmurlu havalimanı apronu) | 16 Kas (üretildi) | Şemsiye (Pzt 23) |
@@ -229,8 +230,8 @@ Haftalık hedef: 5 paragraf + 1 'sonuncusunu yaz' görev listesi + 1 hook+liste;
 | Çar 25 | 19:30 | Reel | Paragraf "En kısa sıra" | ✅ mp4 hazır, IG'de Mehmet |
 | Per 26 | 10:00 | Carousel | COME (7 Ara'dan öne çekildi, Mehmet 25 Kas) | ✅ Metricool |
 | Per 26 | ~21:00 | Reel | Paragraf "Pizza" (ders raporuna göre Yanlış yön yerine; açıklamada A/B/C sorusu; iki turlu onay). Yanlış yön beklemede. | ✅ mp4 hazır, IG'de Mehmet |
-| Cum 27 | 19:30 | Reel | Paragraf "Şemsiye" | ✅ mp4 hazır, IG'de Mehmet |
-| Cmt 28 | 10:00 | Carousel | Boş (öneri: Telefonda İngilizce 6 Ara'dan) | ⏳ |
+| Cum 27 | 19:30 | Reel | Paragraf "Cuma planı" (yeni; ders ölçütleriyle; IMG_3161; iki turlu onay). Şemsiye yedek. | ✅ mp4 hazır, IG'de Mehmet |
+| Cmt 28 | 10:00 | Carousel | K12 Telefonda 8 ifade (6 Ara'dan öne çekildi; yeni kapak 01c "Herkes “Hello” der. Peki sonrası?"; açıklama zenginleştirildi) | ✅ Metricool |
 | Cmt 28 | 19:30 | Reel | D1 "büyük yazı" taksi | ✅ mp4 hazır, IG'de Mehmet |
 | Paz 29 | 19:30 | Reel | Paragraf "Telefonu açmayan arkadaş" 2. bölüm (yeni fikir) | ⏳ metin + klip |
 | Pzt 30 | 10:00 | Carousel | D06 Tired | ✅ Metricool |
@@ -245,3 +246,5 @@ Collab beklemede (Mehmet). 6–7 Ara carousel kapakları eski tip, yenilenmeli.
 
 - **Per 26 Kas akşam – Hikaye:** mağaza yorumu isteği, TEK kare + App Store bağlantısı (dizi yok). Paket: `icerik/2026-11-26_hikaye_magaza-yorumu/`.
 - **Çar 25 Kas akşam – Hikaye:** kelime "line" (En kısa sıra reelinden). `icerik/2026-11-25_hikaye_kelime/`.
+
+27 Kas: Pizza 26 Kas 21:11'de yayınlandı (18 saatte 16,4 bin izlenme, 24 yorum; En kısa sıra 2 günde 16,4 bin, 11 yorum). 6 Ara carousel yeri boşaldı.
