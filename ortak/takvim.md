@@ -249,3 +249,5 @@ Collab beklemede (Mehmet). 6–7 Ara carousel kapakları eski tip, yenilenmeli.
 
 27 Kas: Pizza 26 Kas 21:11'de yayınlandı (18 saatte 16,4 bin izlenme, 24 yorum; En kısa sıra 2 günde 16,4 bin, 11 yorum). 6 Ara carousel yeri boşaldı.
 - **Cum 27 Kas akşam – Hikaye:** kelime "free" (Cuma planı reelinden). `icerik/2026-11-27_hikaye_kelime/`.
+
+28 Kas: Kural sadeleştirme (Mehmet onayı). Haftada 1 reel SERBEST (`ortak/kurallar.md` Katman 3); 30 Kas haftasında ilk SERBEST denemesi.

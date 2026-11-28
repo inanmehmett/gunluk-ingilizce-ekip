@@ -1,4 +1,5 @@
-# Hesap kimliği ve öğrenilen dersler
+# Hesap kimliği ve veri tarihçesi
+> 28 Kas 2026: Geçerli kurallar ve hipotezler `ortak/kurallar.md`de. Bu dosya kimlik, kitle ve geçmiş veri kaydıdır; aşağıdaki "Kurallar" ve hipotez satırları tarihseldir, çelişkide kurallar.md geçerli.
 
 ## Kitle
 Türkçe konuşan yetişkinler, 25–44 yaş, ~%57 kadın, ~%75 Türkiye. İngilizceyi okulda görmüş, okuyunca anlıyor ama konuşamıyor/dinleyince kaçırıyor.
