@@ -21,3 +21,10 @@ Kaynak: paragraf reellerinin yorumları (bkz. raporlar/2026-10-22_yorum_analizi.
 
 ## Sonuçlar
 (bekleniyor)
+
+## Güncelleme (28 Kas 2026, Mehmet)
+"Türk halkına hitap etmeli; yüzünü batıya dönmüş, İngilizce öğrenmek isteyen, YDS gibi sınavlara giren insanları seçmeliyiz."
+- **Ana kişi:** 1. Aktif öğrenen; içinde iki alt grup ayrı yazılır: (a) **gündelik/kariyer** (iş, yurt dışı, dizi-film, seyahat), (b) **sınavcı** (YDS, YÖKDİL, YDT; akademik okuma, B2–C1).
+- **Kültür:** Anlar Türkiye'den (çay, dolmuş, aile grubu, Yerli Malı Haftası), bakış dışa açık (seyahat, yabancı şehir, iş görüşmesi, dizi). İçerikte doğu–batı ya da kimlik karşıtlığı kurulmaz (Katman 1 madde 3).
+- **Sınav alt grubu için yer:** haftalık üst seviye slotu (H4) YDS/YÖKDİL tarzı kısa akademik paragraf + soru; başarı ölçütü kaydetme. Carousel'de sınav kelimeleri/bağlaçlar ayda 1–2. Tüm hesap sınava çevrilmez: erişim A2 gündelik anlardan geliyor (440 bin, 185 bin).
+- **Doğrulama (veri yok):** hikâye anketi "İngilizceyi en çok ne için öğreniyorsun?" → İş / Yurt dışı / Sınav (YDS, YÖKDİL) / Kendim için. Sonuç bu dosyaya; sınav oranı yüksek çıkarsa slot artar.
