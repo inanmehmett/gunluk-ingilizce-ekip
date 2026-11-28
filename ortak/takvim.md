@@ -251,3 +251,13 @@ Collab beklemede (Mehmet). 6–7 Ara carousel kapakları eski tip, yenilenmeli.
 - **Cum 27 Kas akşam – Hikaye:** kelime "free" (Cuma planı reelinden). `icerik/2026-11-27_hikaye_kelime/`.
 
 28 Kas: Kural sadeleştirme (Mehmet onayı). Haftada 1 reel SERBEST (`ortak/kurallar.md` Katman 3); 30 Kas haftasında ilk SERBEST denemesi.
+
+## Özel gün takvimi (Gary her Pazartesi önümüzdeki 3 haftaya bakar; metin en az 1 hafta önce onaya çıkar)
+Kural: kutlama ya da "… kutlu olsun" gönderisi yok; o güne ait, herkesin yaşadığı küçük bir an (Katman 2 H13). Dini ve siyasi günlerde Charlie + Tomris zorunlu; tarih resmî kaynaktan doğrulanır.
+| Tarih | Gün | An fikri (taslak, onaysız) |
+|---|---|---|
+| 12–18 Ara | Yerli Malı Haftası | Okula mandalina, kuru üzüm götürdüğümüz o hafta (nostalji, okul arkadaşına gönderilir) |
+| 31 Ara | Yılbaşı gecesi | "Bu yıl dışarı çıkacağım" deyip yine evde, aynı film |
+| 1–2 Oca | Yeni yıl kararları | 1 Ocak spor salonu kalabalığı, 15 Ocak boş salon |
+| Ocak sonu | Karne / yarıyıl tatili (MEB takviminden doğrula) | Karneyi eve götürme anı |
+| 14 Şub | Sevgililer Günü | Hediye yerine… (tonu Charlie kontrol) |

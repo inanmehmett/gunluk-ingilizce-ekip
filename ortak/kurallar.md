@@ -33,6 +33,7 @@ Kural 9 (eski): tek içerikten çıkan sonuç **Hipotez**, aynı yönde 4–5 ve
 | H9 | Klip hikâyeyle uyuşmayınca (deniz + market sırası) zarar verir | En kısa sıra, Yanlış yön itirazları | Hipotez (2, sonuç verisi yok) | 12 Ara |
 | H10 | İlk 3 saniye kaybı orta sıradakileri ayırır (≤%52 → 20–31 bin) ama patlamayı açıklamaz | 18 reel; 440 binlik reel %58 | Hipotez (ders'ten indirildi) | 12 Ara |
 | H11 | Liste reelleri kaydettirir, paragraflar izletir ama az gönderilir | 11 veri noktası, 10/11 | **Ders** | — |
+| H13 | Herkesin aynı anda yaşadığı özel gün ve ortak anlar (yılbaşı, Yerli Malı Haftası, ilk kar, indirim günleri), insan + keşke kalıbıyla yazılınca gönderilir. Kutlama gönderisi değil, o güne ait küçük bir an | Bizde veri yok (hiç denenmedi) | Hipotez (0) | 9 Oca |
 | H12 | Reel çıkmayan gün net takipçi eksi | 8–9 Kas | Hipotez (2) | 12 Ara |
 
 **Hook seçim sırası:** (1) Katman 1'e uyuyor mu → (2) durduruyor mu (izleyene sesleniyor, cevabı vermiyor, merak bırakıyor) → (3) dil pürüzsüzlüğü. Dürüstlük sorunu olmayan anlam inceliği, durdurma gücünün önüne geçmez (Mehmet 27 Kas).
